@@ -87,51 +87,6 @@ Codex-specific files in this repo:
 
 OpenAI documents Codex project instructions through `AGENTS.md`: [Introducing Codex](https://openai.com/index/introducing-codex/)
 
-## First-Time Setup With Claude Code
-
-If you are completely new to Claude Code, use this flow.
-
-### 1. Get access to Claude Code
-
-- Make sure you have access to Claude Code through Anthropic
-- Install Claude Code if needed
-- Sign in when prompted
-
-### 2. Download the project
-
-If you do not use Git:
-
-- Click [Download this project as a ZIP](https://github.com/meg768/atp-tennis-chat/archive/refs/heads/main.zip)
-- Unzip the file on your computer
-
-If you do use Git:
-
-- clone the repository normally
-
-### 3. Open the project in Claude Code
-
-- Open Claude Code
-- Choose to open a local folder or project
-- Select the unzipped `atp-tennis-chat` folder
-- Claude Code will load [CLAUDE.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/CLAUDE.md)
-- [CLAUDE.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/CLAUDE.md) points to [CONTEXT.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/CONTEXT.md)
-
-### 4. Start with a simple first prompt
-
-Example prompts:
-
-- `What data source should you use in this project?`
-- `Show me which players have beaten Bjorn Borg`
-- `Use the schema and answer in table form`
-- `What endpoints are available right now?`
-
-Claude-specific files in this repo:
-
-- [CLAUDE.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/CLAUDE.md)
-- [CONTEXT.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/CONTEXT.md)
-
-Anthropic documents Claude Code project memory through `CLAUDE.md`: [Manage Claude's memory](https://docs.anthropic.com/en/docs/claude-code/memory)
-
 ## Examples
 
 Questions this project should eventually answer well:
@@ -163,7 +118,6 @@ This repository uses lightweight instruction files so coding agents can understa
 Supporting files:
 
 - [AGENTS.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/AGENTS.md) for Codex
-- [CLAUDE.md](/Users/magnus/Documents/GitHub/atp-tennis-chat/CLAUDE.md) for Claude Code
 
 ## Current State
 
