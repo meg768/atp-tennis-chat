@@ -1,7 +1,7 @@
-# Project Memory
+# Project Context
 
 ## Purpose
-- Use this file as persistent project memory for the `atp-tennis-chat` workspace.
+- Use this file as persistent project context for the `atp-tennis-chat` workspace.
 - Prefer short, durable facts over long conversation logs.
 
 ## Current Workspace State
@@ -10,8 +10,21 @@
 - Start from scratch unless new files are added later.
 
 ## Working Agreement
-- Treat `CODEX.md` as the place to save important project context between turns.
+- Treat `CONTEXT.md` as the place to save important project context between turns.
 - If the user says "save everything", summarize the durable context here rather than storing raw chat transcripts.
+
+## Data Access
+- As of 2026-04-07, the MCP/database bridge to the tennis database has been removed.
+- Do not assume MCP access to tennis data anymore.
+- When tennis data is needed, fetch it through `tennis.egelberg.se` endpoints instead.
+- The sibling repo `../atp-tennis` may still be useful for local code and endpoint context, but database reads should be treated as HTTP/API-driven unless the user says otherwise.
+- Tennis Abstract is also an allowed supplementary source for tennis research and matchup context when useful.
+
+## ATP Service Endpoint Map
+- Assume `tennis.egelberg.se` is the main HTTP entrypoint for these routes unless the user says otherwise.
+- `GET /api/meta/endpoints` is a machine-readable endpoint catalog and should be preferred when I need to confirm current service routes/response shapes.
+- `GET /api/meta/schema.sql` exposes the raw schema SQL file and can be used when I need up-to-date SQL documentation over HTTP.
+- `POST /api/query` is read-only and intended for SQL reads only.
 
 ## Verified Tennis Context
 - Match discussed: Daniel Altmaier (GER, rank 52) vs Fabian Marozsan (HUN, rank 47)
@@ -86,6 +99,59 @@
 - The legacy MariaDB functions `PLAYER_ELO_FACTOR`, `PLAYER_FORM_FACTOR`, `PLAYER_HEAD_TO_HEAD_FACTOR`, and `PLAYER_RANK_FACTOR` have been removed from both the sibling repo SQL files and the live database.
 - The legacy MariaDB procedure `PLAYER_ODDS_DEBUG` has also been removed from both the sibling repo SQL files and the live database.
 - `../atp-tennis/database/schema.sql` was already locally modified before this work, so it was intentionally left untouched.
+
+## Current Model Snapshot
+- `PLAYER_WIN_FACTOR(playerID, opponentID, surface)` is now the single source of truth for matchup win probability.
+- Current factors and weights:
+  - Elo = 50%
+  - Ranking = 15%
+  - Head To Head = 15%
+  - Form = 20%
+- Active factors are renormalized to 100% when one or more factors are excluded.
+- Head To Head is excluded when the two players have no qualifying recent meetings.
+- Form currently uses all surfaces and an 8-week recency-weighted window.
+- Ranking currently uses the players table ATP rank with a log-based transform.
+- Form is excluded entirely when its resulting edge is neutral, so a `0.5`-style
+  form outcome does not consume weight from the other active factors.
+- Form now blends two sub-parts:
+  - base recent form from weighted wins over the last 8 weeks
+  - quality of recent results, which rewards wins over better-ranked opponents
+    and penalizes losses to worse-ranked opponents using match-time ranks
+  - set dominance, which rewards more decisive wins and penalizes more decisive
+    losses based on the number of sets in the score
+  - current internal Form blend = 60% base form + 25% quality-of-results + 15% dominance
+
+## Current Odds Integration
+- `PLAYER_ODDS` is now a thin odds wrapper around `PLAYER_WIN_FACTOR(...)`.
+- `PLAYER_ODDS` returns only:
+  - `player`
+  - `name`
+  - `odds`
+- It no longer returns `factor` or any per-factor breakdown columns.
+- Model tuning can now be done live in MariaDB by updating `PLAYER_WIN_FACTOR(...)`.
+- No ATP service restart is needed for normal model-weight/function changes, because
+  the app reads the stored database function at query time.
+
+## Verified Live Example
+- `CALL PLAYER_ODDS('S0AG', 'A0E2', 'Hard')` returns:
+  - `Jannik Sinner` -> `1.63`
+  - `Carlos Alcaraz` -> `2.30`
+- Normalized weights from `Elo:10, Ranking:3, Form:4, Head To Head:3`:
+  - Elo = 50%
+  - Ranking = 15%
+  - Form = 20%
+  - Head To Head = 15%
+
+## Working Outcome
+- The project goal of consolidating matchup probability logic into
+  `PLAYER_WIN_FACTOR(...)` has been achieved.
+- Future experimentation should primarily happen by editing
+  `PLAYER_WIN_FACTOR.sql`, syncing it to MariaDB, and testing immediately
+  against live data.
+
+## Git State At Save Time
+- `../atp-tennis` has been committed and pushed, including the final schema snapshot commit.
+- `/Users/magnus/Documents/GitHub/atp-tennis-chat` has local commits but no git remote configured, so it could not be pushed.
 
 ## Notes
 - Earlier UI discussion referred to a "Kommande matcher" table with a player row showing flags, names, `[0-0]`, and a play icon.
