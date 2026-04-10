@@ -2,7 +2,7 @@
 
 Ask the tennis database in plain language.
 
-This project is meant to become a public natural-language interface for ATP tennis data. The idea is that anyone should be able to clone the repo, ask a question in normal language, and get an answer based on live tennis data.
+This is a Codex project meant to become a public natural-language interface for ATP tennis data. The idea is that anyone should be able to clone the repo, open it in Codex, ask a question in normal language, and get an answer based on live tennis data.
 
 If you do not use Git, the intended flow is to download the project as a ZIP from GitHub, unzip it, and open the folder in your AI coding tool.
 
