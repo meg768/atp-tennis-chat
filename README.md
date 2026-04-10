@@ -42,8 +42,6 @@ Core rules:
 - `GET /api/meta/schema.sql` is the live source of truth for SQL/schema context.
 - `POST /api/query` is read-only and is used for database reads.
 
-The sibling project [atp-tennis](/Users/magnus/Documents/GitHub/atp-tennis) contains the backend service and database-facing logic.
-
 ## First-Time Setup With Codex
 
 If you are completely new to Codex, use this simple flow.
