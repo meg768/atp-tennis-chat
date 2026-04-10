@@ -4,20 +4,12 @@
 - Use this file as persistent project context for the `atp-tennis-chat` workspace.
 - Prefer short, durable facts over long conversation logs.
 
-## Current Workspace State
-- Workspace path: `/Users/magnus/Documents/GitHub/atp-tennis-chat`
-- As of 2026-04-03, the repo is effectively empty except for `.gitignore` and this file.
-- Start from scratch unless new files are added later.
-
 ## Working Agreement
 - Treat `CONTEXT.md` as the place to save important project context between turns.
 - If the user says "save everything", summarize the durable context here rather than storing raw chat transcripts.
 
 ## Data Access
-- As of 2026-04-07, the MCP/database bridge to the tennis database has been removed.
-- Do not assume MCP access to tennis data anymore.
 - When tennis data is needed, fetch it through `tennis.egelberg.se` endpoints instead.
-- The sibling repo `../atp-tennis` may still be useful for local code and endpoint context, but database reads should be treated as HTTP/API-driven unless the user says otherwise.
 - Tennis Abstract is also an allowed supplementary source for tennis research and matchup context when useful.
 
 ## ATP Service Endpoint Map
