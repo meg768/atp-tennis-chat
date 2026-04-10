@@ -41,10 +41,6 @@
 - Model conclusion from that snapshot: value on Altmaier
 - Head-to-head on clay at the time checked: 0-0
 
-## Git State
-- `/Users/magnus/Documents/GitHub/atp-tennis-chat` now has `origin` configured:
-  - `https://github.com/meg768/atp-tennis-chat.git`
-- The repository has been committed and pushed to GitHub.
 
 ## Notes
 - Earlier UI discussion referred to a "Kommande matcher" table with a player row showing flags, names, `[0-0]`, and a play icon.
