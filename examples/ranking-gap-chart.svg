@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="760" viewBox="0 0 1480 760">
+	<rect width="100%" height="100%" fill="#0f172a" />
+	<text x="80" y="38" fill="#f8fafc" font-size="28" font-weight="700">ATP Ranking Gap by Year</text>
+	<text x="80" y="62" fill="#94a3b8" font-size="15">Stacked yearly bars for adjacent top-5 point gaps, 2010-2026</text>
+	<rect x="1130" y="18" width="294" height="108" rx="12" fill="#111827" stroke="#334155" />
+	
+			<rect x="1150" y="22" width="14" height="14" rx="3" fill="#22c55e" />
+			<text x="1174" y="34" fill="#e2e8f0" font-size="13">#1-#2</text>
+		
+			<rect x="1150" y="46" width="14" height="14" rx="3" fill="#f59e0b" />
+			<text x="1174" y="58" fill="#e2e8f0" font-size="13">#2-#3</text>
+		
+			<rect x="1150" y="70" width="14" height="14" rx="3" fill="#0ea5e9" />
+			<text x="1174" y="82" fill="#e2e8f0" font-size="13">#3-#4</text>
+		
+			<rect x="1150" y="94" width="14" height="14" rx="3" fill="#f43f5e" />
+			<text x="1174" y="106" fill="#e2e8f0" font-size="13">#4-#5</text>
+		
+	<line x1="80" y1="650" x2="1440" y2="650" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="655" fill="#94a3b8" font-size="12" text-anchor="end">0</text>
+<line x1="80" y1="578.75" x2="1440" y2="578.75" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="583.75" fill="#94a3b8" font-size="12" text-anchor="end">1,000</text>
+<line x1="80" y1="507.5" x2="1440" y2="507.5" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="512.5" fill="#94a3b8" font-size="12" text-anchor="end">2,000</text>
+<line x1="80" y1="436.25" x2="1440" y2="436.25" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="441.25" fill="#94a3b8" font-size="12" text-anchor="end">3,000</text>
+<line x1="80" y1="365" x2="1440" y2="365" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="370" fill="#94a3b8" font-size="12" text-anchor="end">4,000</text>
+<line x1="80" y1="293.75" x2="1440" y2="293.75" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="298.75" fill="#94a3b8" font-size="12" text-anchor="end">5,000</text>
+<line x1="80" y1="222.5" x2="1440" y2="222.5" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="227.5" fill="#94a3b8" font-size="12" text-anchor="end">6,000</text>
+<line x1="80" y1="151.25" x2="1440" y2="151.25" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="156.25" fill="#94a3b8" font-size="12" text-anchor="end">7,000</text>
+<line x1="80" y1="80" x2="1440" y2="80" stroke="#334155" stroke-dasharray="4 4" />
+<text x="68" y="85" fill="#94a3b8" font-size="12" text-anchor="end">8,000</text>
+	<line x1="80" y1="650" x2="1440" y2="650" stroke="#64748b" />
+	<line x1="80" y1="80" x2="80" y2="650" stroke="#64748b" />
+	<rect x="99.2" y="414.51874999999995" width="41.6" height="235.48125000000002" rx="0" fill="#22c55e">
+				<title>2010 #1-#2: 3,305 points</title>
+			</rect>
+<rect x="99.2" y="192.93124999999998" width="41.6" height="221.58749999999998" rx="0" fill="#f59e0b">
+				<title>2010 #2-#3: 3,110 points</title>
+			</rect>
+<rect x="99.2" y="173.33749999999998" width="41.6" height="19.59375" rx="0" fill="#0ea5e9">
+				<title>2010 #3-#4: 275 points</title>
+			</rect>
+<rect x="99.2" y="160.5125" width="41.6" height="12.825" rx="4" fill="#f43f5e">
+				<title>2010 #4-#5: 180 points</title>
+			</rect>
+<rect x="179.2" y="362.50624999999997" width="41.6" height="287.49375000000003" rx="0" fill="#22c55e">
+				<title>2011 #1-#2: 4,035 points</title>
+			</rect>
+<rect x="179.2" y="260.97499999999997" width="41.6" height="101.53125" rx="0" fill="#f59e0b">
+				<title>2011 #2-#3: 1,425 points</title>
+			</rect>
+<rect x="179.2" y="204.68749999999997" width="41.6" height="56.2875" rx="0" fill="#0ea5e9">
+				<title>2011 #3-#4: 790 points</title>
+			</rect>
+<rect x="179.2" y="29.768749999999955" width="41.6" height="174.91875000000002" rx="4" fill="#f43f5e">
+				<title>2011 #4-#5: 2,455 points</title>
+			</rect>
+<rect x="259.2" y="460.83125" width="41.6" height="189.16875" rx="0" fill="#22c55e">
+				<title>2012 #1-#2: 2,655 points</title>
+			</rect>
+<rect x="259.2" y="299.45" width="41.6" height="161.38125000000002" rx="0" fill="#f59e0b">
+				<title>2012 #2-#3: 2,265 points</title>
+			</rect>
+<rect x="259.2" y="206.11249999999998" width="41.6" height="93.3375" rx="0" fill="#0ea5e9">
+				<title>2012 #3-#4: 1,310 points</title>
+			</rect>
+<rect x="259.2" y="192.93124999999998" width="41.6" height="13.18125" rx="4" fill="#f43f5e">
+				<title>2012 #4-#5: 185 points</title>
+			</rect>
+<rect x="339.2" y="595.1375" width="41.6" height="54.862500000000004" rx="0" fill="#22c55e">
+				<title>2013 #1-#2: 770 points</title>
+			</rect>
+<rect x="339.2" y="134.86250000000007" width="41.6" height="460.275" rx="0" fill="#f59e0b">
+				<title>2013 #2-#3: 6,460 points</title>
+			</rect>
+<rect x="339.2" y="134.15000000000006" width="41.6" height="0.7125" rx="0" fill="#0ea5e9">
+				<title>2013 #3-#4: 10 points</title>
+			</rect>
+<rect x="339.2" y="96.03125000000006" width="41.6" height="38.118750000000006" rx="4" fill="#f43f5e">
+				<title>2013 #4-#5: 535 points</title>
+			</rect>
+<rect x="419.2" y="537.06875" width="41.6" height="112.93124999999999" rx="0" fill="#22c55e">
+				<title>2014 #1-#2: 1,585 points</title>
+			</rect>
+<rect x="419.2" y="327.59375" width="41.6" height="209.475" rx="0" fill="#f59e0b">
+				<title>2014 #2-#3: 2,940 points</title>
+			</rect>
+<rect x="419.2" y="223.21249999999998" width="41.6" height="104.38125000000001" rx="0" fill="#0ea5e9">
+				<title>2014 #3-#4: 1,465 points</title>
+			</rect>
+<rect x="419.2" y="198.63124999999997" width="41.6" height="24.581249999999997" rx="4" fill="#f43f5e">
+				<title>2014 #4-#5: 345 points</title>
+			</rect>
+<rect x="499.2" y="105.64999999999998" width="41.6" height="544.35" rx="0" fill="#22c55e">
+				<title>2015 #1-#2: 7,640 points</title>
+			</rect>
+<rect x="499.2" y="57.199999999999974" width="41.6" height="48.45" rx="0" fill="#f59e0b">
+				<title>2015 #2-#3: 680 points</title>
+			</rect>
+<rect x="499.2" y="-42.550000000000026" width="41.6" height="99.75" rx="0" fill="#0ea5e9">
+				<title>2015 #3-#4: 1,400 points</title>
+			</rect>
+<rect x="499.2" y="-159.04375000000005" width="41.6" height="116.49375" rx="4" fill="#f43f5e">
+				<title>2015 #4-#5: 1,635 points</title>
+			</rect>
+<rect x="579.2" y="605.1125" width="41.6" height="44.8875" rx="0" fill="#22c55e">
+				<title>2016 #1-#2: 630 points</title>
+			</rect>
+<rect x="579.2" y="154.09999999999997" width="41.6" height="451.0125" rx="0" fill="#f59e0b">
+				<title>2016 #2-#3: 6,330 points</title>
+			</rect>
+<rect x="579.2" y="144.48124999999996" width="41.6" height="9.61875" rx="0" fill="#0ea5e9">
+				<title>2016 #3-#4: 135 points</title>
+			</rect>
+<rect x="579.2" y="115.26874999999995" width="41.6" height="29.2125" rx="4" fill="#f43f5e">
+				<title>2016 #4-#5: 410 points</title>
+			</rect>
+<rect x="659.2" y="575.9" width="41.6" height="74.10000000000001" rx="0" fill="#22c55e">
+				<title>2017 #1-#2: 1,040 points</title>
+			</rect>
+<rect x="659.2" y="258.48125" width="41.6" height="317.41875" rx="0" fill="#f59e0b">
+				<title>2017 #2-#3: 4,455 points</title>
+			</rect>
+<rect x="659.2" y="220.00625" width="41.6" height="38.475" rx="0" fill="#0ea5e9">
+				<title>2017 #3-#4: 540 points</title>
+			</rect>
+<rect x="659.2" y="177.6125" width="41.6" height="42.39375" rx="4" fill="#f43f5e">
+				<title>2017 #4-#5: 595 points</title>
+			</rect>
+<rect x="739.2" y="538.49375" width="41.6" height="111.50625" rx="0" fill="#22c55e">
+				<title>2018 #1-#2: 1,565 points</title>
+			</rect>
+<rect x="739.2" y="462.96875" width="41.6" height="75.525" rx="0" fill="#f59e0b">
+				<title>2018 #2-#3: 1,060 points</title>
+			</rect>
+<rect x="739.2" y="460.475" width="41.6" height="2.4937500000000004" rx="0" fill="#0ea5e9">
+				<title>2018 #3-#4: 35 points</title>
+			</rect>
+<rect x="739.2" y="383.16875000000005" width="41.6" height="77.30624999999999" rx="4" fill="#f43f5e">
+				<title>2018 #4-#5: 1,085 points</title>
+			</rect>
+<rect x="819.2" y="590.15" width="41.6" height="59.849999999999994" rx="0" fill="#22c55e">
+				<title>2019 #1-#2: 840 points</title>
+			</rect>
+<rect x="819.2" y="408.10624999999993" width="41.6" height="182.04375000000002" rx="0" fill="#f59e0b">
+				<title>2019 #2-#3: 2,555 points</title>
+			</rect>
+<rect x="819.2" y="353.5999999999999" width="41.6" height="54.50625" rx="0" fill="#0ea5e9">
+				<title>2019 #3-#4: 765 points</title>
+			</rect>
+<rect x="819.2" y="345.0499999999999" width="41.6" height="8.549999999999999" rx="4" fill="#f43f5e">
+				<title>2019 #4-#5: 120 points</title>
+			</rect>
+<rect x="899.2" y="494.67499999999995" width="41.6" height="155.32500000000002" rx="0" fill="#22c55e">
+				<title>2020 #1-#2: 2,180 points</title>
+			</rect>
+<rect x="899.2" y="443.01874999999995" width="41.6" height="51.65625" rx="0" fill="#f59e0b">
+				<title>2020 #2-#3: 725 points</title>
+			</rect>
+<rect x="899.2" y="396.34999999999997" width="41.6" height="46.66875" rx="0" fill="#0ea5e9">
+				<title>2020 #3-#4: 655 points</title>
+			</rect>
+<rect x="899.2" y="265.25" width="41.6" height="131.1" rx="4" fill="#f43f5e">
+				<title>2020 #4-#5: 1,840 points</title>
+			</rect>
+<rect x="979.2" y="443.375" width="41.6" height="206.625" rx="0" fill="#22c55e">
+				<title>2021 #1-#2: 2,900 points</title>
+			</rect>
+<rect x="979.2" y="386.375" width="41.6" height="57" rx="0" fill="#f59e0b">
+				<title>2021 #2-#3: 800 points</title>
+			</rect>
+<rect x="979.2" y="293.75" width="41.6" height="92.625" rx="0" fill="#0ea5e9">
+				<title>2021 #3-#4: 1,300 points</title>
+			</rect>
+<rect x="979.2" y="194.7125" width="41.6" height="99.0375" rx="4" fill="#f43f5e">
+				<title>2021 #4-#5: 1,390 points</title>
+			</rect>
+<rect x="1059.2" y="593" width="41.6" height="57" rx="0" fill="#22c55e">
+				<title>2022 #1-#2: 800 points</title>
+			</rect>
+<rect x="1059.2" y="578.75" width="41.6" height="14.25" rx="0" fill="#f59e0b">
+				<title>2022 #2-#3: 200 points</title>
+			</rect>
+<rect x="1059.2" y="559.5125" width="41.6" height="19.2375" rx="0" fill="#0ea5e9">
+				<title>2022 #3-#4: 270 points</title>
+			</rect>
+<rect x="1059.2" y="507.50000000000006" width="41.6" height="52.012499999999996" rx="4" fill="#f43f5e">
+				<title>2022 #4-#5: 730 points</title>
+			</rect>
+<rect x="1139.2" y="479.7125" width="41.6" height="170.28750000000002" rx="0" fill="#22c55e">
+				<title>2023 #1-#2: 2,390 points</title>
+			</rect>
+<rect x="1139.2" y="390.29375" width="41.6" height="89.41874999999999" rx="0" fill="#f59e0b">
+				<title>2023 #2-#3: 1,255 points</title>
+			</rect>
+<rect x="1139.2" y="311.20624999999995" width="41.6" height="79.0875" rx="0" fill="#0ea5e9">
+				<title>2023 #3-#4: 1,110 points</title>
+			</rect>
+<rect x="1139.2" y="191.14999999999995" width="41.6" height="120.05625" rx="4" fill="#f43f5e">
+				<title>2023 #4-#5: 1,685 points</title>
+			</rect>
+<rect x="1219.2" y="371.05625" width="41.6" height="278.94375" rx="0" fill="#22c55e">
+				<title>2024 #1-#2: 3,915 points</title>
+			</rect>
+<rect x="1219.2" y="306.575" width="41.6" height="64.48125" rx="0" fill="#f59e0b">
+				<title>2024 #2-#3: 905 points</title>
+			</rect>
+<rect x="1219.2" y="170.48749999999998" width="41.6" height="136.0875" rx="0" fill="#0ea5e9">
+				<title>2024 #3-#4: 1,910 points</title>
+			</rect>
+<rect x="1219.2" y="165.49999999999997" width="41.6" height="4.987500000000001" rx="4" fill="#f43f5e">
+				<title>2024 #4-#5: 70 points</title>
+			</rect>
+<rect x="1299.2" y="610.8125" width="41.6" height="39.1875" rx="0" fill="#22c55e">
+				<title>2025 #1-#2: 550 points</title>
+			</rect>
+<rect x="1299.2" y="155.52500000000003" width="41.6" height="455.28749999999997" rx="0" fill="#f59e0b">
+				<title>2025 #2-#3: 6,390 points</title>
+			</rect>
+<rect x="1299.2" y="134.86250000000004" width="41.6" height="20.662499999999998" rx="0" fill="#0ea5e9">
+				<title>2025 #3-#4: 290 points</title>
+			</rect>
+<rect x="1299.2" y="89.97500000000004" width="41.6" height="44.8875" rx="4" fill="#f43f5e">
+				<title>2025 #4-#5: 630 points</title>
+			</rect>
+<rect x="1379.2" y="565.2125" width="41.6" height="84.7875" rx="0" fill="#22c55e">
+				<title>2026 #1-#2: 1,190 points</title>
+			</rect>
+<rect x="1379.2" y="52.56874999999991" width="41.6" height="512.6437500000001" rx="0" fill="#f59e0b">
+				<title>2026 #2-#3: 7,195 points</title>
+			</rect>
+<rect x="1379.2" y="18.01249999999991" width="41.6" height="34.55625" rx="0" fill="#0ea5e9">
+				<title>2026 #3-#4: 485 points</title>
+			</rect>
+<rect x="1379.2" y="-14.406250000000092" width="41.6" height="32.41875" rx="4" fill="#f43f5e">
+				<title>2026 #4-#5: 455 points</title>
+			</rect>
+	<text x="120" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2010</text>
+<text x="200" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2011</text>
+<text x="280" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2012</text>
+<text x="360" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2013</text>
+<text x="440" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2014</text>
+<text x="520" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2015</text>
+<text x="600" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2016</text>
+<text x="680" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2017</text>
+<text x="760" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2018</text>
+<text x="840" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2019</text>
+<text x="920" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2020</text>
+<text x="1000" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2021</text>
+<text x="1080" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2022</text>
+<text x="1160" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2023</text>
+<text x="1240" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2024</text>
+<text x="1320" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2025</text>
+<text x="1400" y="708" fill="#cbd5e1" font-size="12" text-anchor="middle">2026</text>
+	<text x="28" y="60" fill="#cbd5e1" font-size="13" transform="rotate(-90 28 60)">Points</text>
+	<text x="740" y="742" fill="#94a3b8" font-size="13" text-anchor="middle">ATP season-end ranking snapshot</text>
+</svg>

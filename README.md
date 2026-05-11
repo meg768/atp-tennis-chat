@@ -129,6 +129,8 @@ It does not yet contain a finished end-user app. Today it mainly serves as:
 - the durable instruction layer for the project
 - the place where the project direction is captured
 
+There is also a small chart example in [examples/RankingGapChart.jsx](/Users/magnus/Documents/GitHub/atp-tennis-chat/examples/RankingGapChart.jsx) that shows how to render ATP ranking-gap data with `recharts` and an in-chart legend.
+
 ## Roadmap
 
 Likely next steps:
