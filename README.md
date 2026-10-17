@@ -42,6 +42,63 @@ Core rules:
 - `GET /api/meta/schema.sql` is the live source of truth for SQL/schema context.
 - `POST /api/query` is read-only and is used for database reads.
 
+## Optional Direct MariaDB Access
+
+Direct access is available locally through `scripts/database.py`. The existing HTTP service
+and its read-only endpoint are unchanged. For direct access, use the workflow below
+instead of the HTTP-only access guidance in `CONTEXT.md`.
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+cp .env.example .env
+chmod 600 .env
+```
+
+Edit `.env` locally to fill in `DB_HOST`, `DB_PORT`, `DB_NAME`, `DB_USER`, and
+`DB_PASSWORD`. Quote values containing spaces or `#`. Values are read literally,
+without `${...}` expansion, from the `.env` in the project root; shell environment
+variables do not override them. No real credentials are included in this repo.
+`.env` and its variants are ignored by Git, except the empty `.env.example`.
+Never put credentials in SQL files, command arguments, source code, or shared output.
+
+```sh
+printf 'SELECT VERSION();' | .venv/bin/python -m scripts.database
+.venv/bin/python -m scripts.database query.sql
+```
+
+The CLI accepts **one SQL statement** per invocation and prints JSON results.
+SELECT, INSERT, UPDATE, DELETE, DDL, and stored routine calls are supported according
+to the MariaDB account's grants. It does not grant privileges itself. SQL files must
+contain server SQL: remove client-only `DELIMITER` directives when submitting a
+`CREATE FUNCTION` or `CREATE PROCEDURE` statement. Multiple independent statements
+must be run separately, or through the Python transaction API.
+
+```python
+from scripts.database import execute, transaction
+
+rows = execute("SELECT id, name FROM players WHERE id = %s", ("B058",))
+
+# Use transaction() for multiple dependent statements:
+with transaction() as connection:
+    with connection.cursor() as cursor:
+        cursor.execute("SELECT id FROM players WHERE id = %s", ("B058",))
+        player = cursor.fetchone()
+```
+
+Use `%s` placeholders and parameters for values; never interpolate user input into
+SQL. Successful operations commit automatically; failures roll back and connections
+close. MariaDB schema changes can commit implicitly and cannot generally be rolled
+back. Connection and operation errors suppress driver details to avoid exposing
+credentials. Query results are printed as requested, so do not query secrets for
+shared output. The module does not log credentials or SQL.
+
+Run local tests without a database using:
+
+```sh
+.venv/bin/python -m unittest discover -s tests
+```
+
 ## First-Time Setup With Codex
 
 If you are completely new to Codex, use this simple flow.
