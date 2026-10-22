@@ -1,0 +1,1580 @@
+[
+  {
+    "name": "Jimmy Connors",
+    "matches": 23,
+    "wins": "15",
+    "losses": "8"
+  },
+  {
+    "name": "Arthur Ashe",
+    "matches": 17,
+    "wins": "9",
+    "losses": "8"
+  },
+  {
+    "name": "Ilie Nastase",
+    "matches": 17,
+    "wins": "10",
+    "losses": "7"
+  },
+  {
+    "name": "John McEnroe",
+    "matches": 14,
+    "wins": "7",
+    "losses": "7"
+  },
+  {
+    "name": "Adriano Panatta",
+    "matches": 16,
+    "wins": "10",
+    "losses": "6"
+  },
+  {
+    "name": "Guillermo Vilas",
+    "matches": 22,
+    "wins": "17",
+    "losses": "5"
+  },
+  {
+    "name": "Roscoe Tanner",
+    "matches": 16,
+    "wins": "12",
+    "losses": "4"
+  },
+  {
+    "name": "Manuel Orantes",
+    "matches": 16,
+    "wins": "12",
+    "losses": "4"
+  },
+  {
+    "name": "Raul Ramirez",
+    "matches": 14,
+    "wins": "11",
+    "losses": "3"
+  },
+  {
+    "name": "Andrew Pattison",
+    "matches": 7,
+    "wins": "4",
+    "losses": "3"
+  },
+  {
+    "name": "John Newcombe",
+    "matches": 5,
+    "wins": "2",
+    "losses": "3"
+  },
+  {
+    "name": "Brian Gottfried",
+    "matches": 11,
+    "wins": "9",
+    "losses": "2"
+  },
+  {
+    "name": "Tom Okker",
+    "matches": 11,
+    "wins": "9",
+    "losses": "2"
+  },
+  {
+    "name": "Jan Kodes",
+    "matches": 8,
+    "wins": "6",
+    "losses": "2"
+  },
+  {
+    "name": "Rod Laver",
+    "matches": 8,
+    "wins": "6",
+    "losses": "2"
+  },
+  {
+    "name": "Ivan Lendl",
+    "matches": 8,
+    "wins": "6",
+    "losses": "2"
+  },
+  {
+    "name": "Stan Smith",
+    "matches": 7,
+    "wins": "5",
+    "losses": "2"
+  },
+  {
+    "name": "Mark Cox",
+    "matches": 6,
+    "wins": "4",
+    "losses": "2"
+  },
+  {
+    "name": "Raymond Moore",
+    "matches": 6,
+    "wins": "4",
+    "losses": "2"
+  },
+  {
+    "name": "Jeff Borowiak",
+    "matches": 4,
+    "wins": "2",
+    "losses": "2"
+  },
+  {
+    "name": "Paul Gerken",
+    "matches": 3,
+    "wins": "1",
+    "losses": "2"
+  },
+  {
+    "name": "Roy Emerson",
+    "matches": 2,
+    "wins": "0",
+    "losses": "2"
+  },
+  {
+    "name": "Henri Leconte",
+    "matches": 2,
+    "wins": "0",
+    "losses": "2"
+  },
+  {
+    "name": "Jose Higueras",
+    "matches": 12,
+    "wins": "11",
+    "losses": "1"
+  },
+  {
+    "name": "Gene Mayer",
+    "matches": 8,
+    "wins": "7",
+    "losses": "1"
+  },
+  {
+    "name": "Victor Pecci",
+    "matches": 7,
+    "wins": "6",
+    "losses": "1"
+  },
+  {
+    "name": "Dick Stockton",
+    "matches": 7,
+    "wins": "6",
+    "losses": "1"
+  },
+  {
+    "name": "Wojtek Fibak",
+    "matches": 7,
+    "wins": "6",
+    "losses": "1"
+  },
+  {
+    "name": "John Lloyd",
+    "matches": 6,
+    "wins": "5",
+    "losses": "1"
+  },
+  {
+    "name": "Vijay Amritraj",
+    "matches": 6,
+    "wins": "5",
+    "losses": "1"
+  },
+  {
+    "name": "Peter Fleming",
+    "matches": 6,
+    "wins": "5",
+    "losses": "1"
+  },
+  {
+    "name": "John Alexander",
+    "matches": 5,
+    "wins": "4",
+    "losses": "1"
+  },
+  {
+    "name": "Yannick Noah",
+    "matches": 5,
+    "wins": "4",
+    "losses": "1"
+  },
+  {
+    "name": "Rolf Gehring",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Sherwood Stewart",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Nikola Pilic",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Tom Gorman",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Zeljko Franulovic",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Kjell Johansson",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Sandy Mayer",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "John Feaver",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Tom Gullikson",
+    "matches": 4,
+    "wins": "3",
+    "losses": "1"
+  },
+  {
+    "name": "Ismail El Shafei",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Tadeusz Nowicki",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Robert Lutz",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Bill Scanlon",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Mark Farrell",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Milan Holecek",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Thomaz Koch",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Tim Gullikson",
+    "matches": 3,
+    "wins": "2",
+    "losses": "1"
+  },
+  {
+    "name": "Ove Nils Bengtson",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Alex Metreveli",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Andres Gimeno",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Tony Roche",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Roger Taylor",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Vincenzo Franchitti",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Buster C. Mottram",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Frantisek Pala",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Barry Phillips-Moore",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "John James",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Phil Dent",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Bruce Manson",
+    "matches": 2,
+    "wins": "1",
+    "losses": "1"
+  },
+  {
+    "name": "Alexander Volkov",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Chris Pridham",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Nicklas Kulti",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Goran Prpic",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Eliot Teltscher",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Hans-Joachim Ploetz",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Jaime Oncins",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Thomas Hogstedt",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Lionel Roux",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Jordi Arrese",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Tom Leonard",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Tenny Svensson",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Clark Graebner",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Joao Cunha-Silva",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Olivier Delaitre",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Wayne Ferreira",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Andrei Medvedev",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Richard Pancho Gonzales",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Paul Kronk",
+    "matches": 1,
+    "wins": "0",
+    "losses": "1"
+  },
+  {
+    "name": "Vitas Gerulaitis",
+    "matches": 17,
+    "wins": "17",
+    "losses": "0"
+  },
+  {
+    "name": "Harold Solomon",
+    "matches": 15,
+    "wins": "15",
+    "losses": "0"
+  },
+  {
+    "name": "Eddie Dibbs",
+    "matches": 14,
+    "wins": "14",
+    "losses": "0"
+  },
+  {
+    "name": "Corrado Barazzutti",
+    "matches": 10,
+    "wins": "10",
+    "losses": "0"
+  },
+  {
+    "name": "Onny Parun",
+    "matches": 8,
+    "wins": "8",
+    "losses": "0"
+  },
+  {
+    "name": "Jaime Fillol Sr.",
+    "matches": 8,
+    "wins": "8",
+    "losses": "0"
+  },
+  {
+    "name": "Antonio Zugarelli",
+    "matches": 7,
+    "wins": "7",
+    "losses": "0"
+  },
+  {
+    "name": "Marty Riessen",
+    "matches": 7,
+    "wins": "7",
+    "losses": "0"
+  },
+  {
+    "name": "Balazs Taroczy",
+    "matches": 6,
+    "wins": "6",
+    "losses": "0"
+  },
+  {
+    "name": "Anand Amritraj",
+    "matches": 5,
+    "wins": "5",
+    "losses": "0"
+  },
+  {
+    "name": "Henry Pfister",
+    "matches": 5,
+    "wins": "5",
+    "losses": "0"
+  },
+  {
+    "name": "Geoff Masters",
+    "matches": 5,
+    "wins": "5",
+    "losses": "0"
+  },
+  {
+    "name": "Antonio Munoz",
+    "matches": 5,
+    "wins": "5",
+    "losses": "0"
+  },
+  {
+    "name": "Peter McNamara",
+    "matches": 5,
+    "wins": "5",
+    "losses": "0"
+  },
+  {
+    "name": "Belus Prajoux",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Colin Dibley",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Victor Amaya",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Tomas Smid",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Pat Dupre",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Jose-Luis Clerc",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Dick Crealy",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Erik Van Dillen",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Heinz Gunthardt",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Vladimir Zednik",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Graham Stilwell",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Paolo Bertolucci",
+    "matches": 4,
+    "wins": "4",
+    "losses": "0"
+  },
+  {
+    "name": "Brian Teacher",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Rolf Thung",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "John Sadri",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Tito Vazquez",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Johan Kriek",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Jiri Hrebec",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Patrice Dominguez",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Bob Hewitt",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Hans-Jurgen Pohmann",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Hans Kary",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Frew McMillan",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Ion Tiriac",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Cliff Drysdale",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Trey Waltke",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Bernard Mitton",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Ross Case",
+    "matches": 3,
+    "wins": "3",
+    "losses": "0"
+  },
+  {
+    "name": "Georges Goven",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Robin Drysdale",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Jan Norback",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Ivan Molina",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Julian Ganzabal",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Eric Deblicker",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Juan Gisbert Sr",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "David Carter",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Kim Warwick",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Billy Martin",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Howard Schoenfield",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Christophe Roger-Vasselin",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Ricardo Cano",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Norman Holmes",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Ramesh Krishnan",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Hans Gildemeister",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Charlie Pasarell",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Fernando Luna",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Jaime Pinto-Bravo",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Karl Meiler",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Peter Rennert",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Louk Sanders",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Birger Andersson",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Bob Carmichael",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Gianni Ocleppo",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Peter Szoke",
+    "matches": 2,
+    "wins": "2",
+    "losses": "0"
+  },
+  {
+    "name": "Klaus Eberhard",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Toma Ovici",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "David Brown",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Peter Elter",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Guillermo Aubone",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Eric Friedler",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Christophe Freyss",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Owen Davidson",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Tony Bardsley",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Patrick Proisy",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Pavel Hutka",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Zoltan Ilin",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Roy Barth",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Alvaro Fillol",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Teimuraz Kakulia",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "David Lloyd",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Enrique Caviglia",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Rick Fagel",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Premjit Lall",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Tsuyoshi Fukui",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Szabolcz Baranyi",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Stanislav Birner",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Allan Stone",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Pierre Barthes",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Robert Van't Hof",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Markus Gunthardt",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Dragan Savic",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Henrik Drzymalski",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Tony Giammalva",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jose Lopez-Maeso",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Patricio Rodriguez",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Terry Moor",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Compton Russell",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Henry Bunis",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Pablo Arraya",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Mike Estep",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jose A. Moreno",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Pat Cramer",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Ahmed Ben Omar",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Paul McNamee",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Robert Machan",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Dimitru Haradau",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jean-Louis Haillet",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jean-Loup Rouyer",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Pekka Saila",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Angel Gimenez",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Tony Parun",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Shlomo Glickstein",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Alejandro Pierola",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jun Kamiwazumi",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jan Kukal",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Sean Sorensen",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Paul Sullivan",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Byron Bertram",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Juan Ignacio Muntanola",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jean-Baptiste Chanfreau",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Andres Gomez",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Dominique Bedel",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "John Austin",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Patrick Hombergen",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Steve Rogul",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "John Whitlinger",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Andy Lucchesi",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Eddie Edwards",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Fred Hemmes Sr.",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Russell Simpson",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Larry Stefanki",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Mike Machette",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Anatoli Volkov",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Terry Ryan",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Chris Lewis",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Gilles Moretton",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Cassio Motta",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Timothy Noonan",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jose Edison Mandarino",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Bernard Boileau",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Thies Roepcke",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Mark Edmondson",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jorge Andrew",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Michael Wayman",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Ernie Ewert",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Andreas Maurer",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jean-Francois Caujolle",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Sashi Menon",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Per Hjertquist",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Robert McKinley",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Wanaro N'Godrella",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Bob Giltinan",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Michael Hickey",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Rod Frawley",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Marcelo Lara",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jan-Erik Lundqvist",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Cliff Letcher",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Pascal Portes",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Piero Toci",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Francois Jauffret",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Fred McNair IV",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "George Hardie",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Ricardo Ycaza",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Cliff Richey",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Sammy Giammalva Jr.",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Matt Mitchell",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jan Hordijk",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Mel Purcell",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Ulrich Marten",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Patricio Cornejo",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Johnny Muller",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Paul Torre",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Mats Wilander",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Jeff Simpson",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Rafael Ruiz",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Omar Laimina",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Damir Keretic",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  },
+  {
+    "name": "Ken Rosewall",
+    "matches": 1,
+    "wins": "1",
+    "losses": "0"
+  }
+]

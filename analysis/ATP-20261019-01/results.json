@@ -1,0 +1,155 @@
+[
+  {
+    "id": "J0DZ",
+    "name": "Rafael Jodar",
+    "birthdate": "2006-09-17",
+    "rank": 13,
+    "old_rank": 283,
+    "observed_date": "2025-10-13",
+    "gain": 270
+  },
+  {
+    "id": "V0DP",
+    "name": "Adolfo Daniel Vallejo",
+    "birthdate": "2004-04-28",
+    "rank": 52,
+    "old_rank": 253,
+    "observed_date": "2025-10-13",
+    "gain": 201
+  },
+  {
+    "id": "G0IX",
+    "name": "Arthur Gea",
+    "birthdate": "2005-01-02",
+    "rank": 56,
+    "old_rank": 254,
+    "observed_date": "2025-10-13",
+    "gain": 198
+  },
+  {
+    "id": "V0DZ",
+    "name": "Luca Van Assche",
+    "birthdate": "2004-05-11",
+    "rank": 45,
+    "old_rank": 238,
+    "observed_date": "2025-10-13",
+    "gain": 193
+  },
+  {
+    "id": "Z0BZ",
+    "name": "Michael Zheng",
+    "birthdate": "2004-01-27",
+    "rank": 94,
+    "old_rank": 228,
+    "observed_date": "2025-09-29",
+    "gain": 134
+  },
+  {
+    "id": "M0N7",
+    "name": "Daniel Merida",
+    "birthdate": "2004-09-26",
+    "rank": 44,
+    "old_rank": 163,
+    "observed_date": "2025-10-13",
+    "gain": 119
+  },
+  {
+    "id": "B0PG",
+    "name": "Alexander Blockx",
+    "birthdate": "2005-04-08",
+    "rank": 28,
+    "old_rank": 123,
+    "observed_date": "2025-10-13",
+    "gain": 95
+  },
+  {
+    "id": "B0ID",
+    "name": "Ignacio Buse",
+    "birthdate": "2004-03-25",
+    "rank": 36,
+    "old_rank": 113,
+    "observed_date": "2025-10-13",
+    "gain": 77
+  },
+  {
+    "id": "W0BH",
+    "name": "Coleman Wong",
+    "birthdate": "2004-06-06",
+    "rank": 92,
+    "old_rank": 160,
+    "observed_date": "2025-10-06",
+    "gain": 68
+  },
+  {
+    "id": "L0IL",
+    "name": "Martin Landaluce",
+    "birthdate": "2006-01-08",
+    "rank": 73,
+    "old_rank": 110,
+    "observed_date": "2025-10-13",
+    "gain": 37
+  },
+  {
+    "id": "P0HW",
+    "name": "Dino Prizmic",
+    "birthdate": "2005-08-05",
+    "rank": 97,
+    "old_rank": 120,
+    "observed_date": "2025-10-13",
+    "gain": 23
+  },
+  {
+    "id": "T0HA",
+    "name": "Learner Tien",
+    "birthdate": "2005-12-02",
+    "rank": 17,
+    "old_rank": 36,
+    "observed_date": "2025-09-29",
+    "gain": 19
+  },
+  {
+    "id": "F0FV",
+    "name": "Joao Fonseca",
+    "birthdate": "2006-08-21",
+    "rank": 29,
+    "old_rank": 45,
+    "observed_date": "2025-10-13",
+    "gain": 16
+  },
+  {
+    "id": "F0F1",
+    "name": "Arthur Fils",
+    "birthdate": "2004-06-12",
+    "rank": 11,
+    "old_rank": 21,
+    "observed_date": "2025-07-28",
+    "gain": 10
+  },
+  {
+    "id": "Q02L",
+    "name": "Ethan Quinn",
+    "birthdate": "2004-03-12",
+    "rank": 66,
+    "old_rank": 72,
+    "observed_date": "2025-10-13",
+    "gain": 6
+  },
+  {
+    "id": "M0NI",
+    "name": "Jakub Mensik",
+    "birthdate": "2005-09-01",
+    "rank": 15,
+    "old_rank": 16,
+    "observed_date": "2025-09-29",
+    "gain": 1
+  },
+  {
+    "id": "M0QI",
+    "name": "Alex Michelsen",
+    "birthdate": "2004-08-25",
+    "rank": 35,
+    "old_rank": 36,
+    "observed_date": "2025-10-13",
+    "gain": 1
+  }
+]

@@ -1,0 +1,18 @@
+Edit the attached Swedish tennis poster. Preserve the entire design, forest green palette, ivory typography, tennis ball, hierarchy, three matchups, all times, selection ranking, commentary, and Svenska Spel odds. Change only the specified text, keeping all text crisp and legible, reflowing slightly where necessary.
+
+The important correction: display TA's priced odds WITH a 5% probability markup, rather than margin-free odds. Do NOT call the price comparison expected return.
+
+Exact replacements:
+1. Main title "Morgondagens spelval" becomes "Spelval 21 oktober". Keep the date "Onsdag 21 oktober 2026 • ATP-singel".
+2. Cerundolo: "TA utan marginal: 1,31" becomes "TA med marginal: 1,25". Replace the line "1,53 kräver 65,4 % vinstchans för att gå jämnt upp." with "Svenska Spels odds är 22,4 % högre än TA:s."
+3. Darderi: "TA utan marginal: 1,57" becomes "TA med marginal: 1,49". Add a small readable line under the odds comparison "Oddsgap: +19,5 %".
+4. Fearnley: "TA utan marginal: 1,71" becomes "TA med marginal: 1,63". Add a small readable line under the odds comparison "Oddsgap: +17,2 %".
+5. In the caution strip replace "en lång match i dag" with "en lång match den 20 oktober".
+6. Replace the footer with exactly these lines, readable:
+"Källa och urval: 15 ATP-matcher i Oddset-flödet, 14 med TA-underlag."
+"Oddsbild från 20 oktober 2026: Svenska Spel via tennis.egelberg.se/api/oddset."
+"TA: hardcourt-Elo från 19 oktober, med 5 % påslag. Damm kompletterad från tennisabstract.com."
+"Oddsgap = (Svenska Spel / TA − 1) × 100. Det är en prisskillnad, inte förväntad avkastning."
+"Prioriteringen är en bedömning. Alla tider är svenska. Odds och tider kan ändras."
+
+Preserve exact numeric mapping: Cerundolo SS 1,53 vs TA 1,25; Darderi SS 1,78 vs TA 1,49; Fearnley SS 1,91 vs TA 1,63. Never show any of the old margin-free values 1,31, 1,57 or 1,71. This is a correction of a historical odds snapshot, not a fresh odds update. No new decorative elements, no invented facts, no extra selections.

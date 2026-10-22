@@ -1,0 +1,53 @@
+Use case: infographic-diagram
+Asset type: finished Swedish tennis betting analysis poster, portrait 3:4, very high resolution, all words crisp and readable.
+Primary request: Turn a researched three-pick list for tomorrow into a sophisticated editorial sports poster. It should feel like a beautifully designed independent tennis magazine page, not an advertisement. Clean hierarchy, ample whitespace, tight grid, elegant typography. Dark forest-green background, warm ivory text, restrained tennis-ball yellow accents. Subtle atmospheric indoor tennis court geometry and a small realistic tennis ball in the top section. No player portraits, no invented logos, no website UI.
+Composition: introductory title/date at top, a prominent number-one selection occupying the upper middle, two smaller ranked selections below, a concise caution strip and source/method footer at bottom. Big odds numerals, readable matchup names, balanced margins. Use sentence case for headings; do not turn words into all caps.
+All content is Swedish. Render the following text exactly, without adding facts or invented data. Use Swedish decimal commas. Organize the paired statistics consistently, explicitly distinguishing Svenska Spel odds from TA's margin-free model odds.
+
+Top:
+"Morgondagens spelval"
+"Onsdag 21 oktober 2026 • ATP-singel"
+"Min prioritering utifrån odds, form och osäkerhet"
+
+Hero selection:
+"1"
+"Förstaval"
+"Francisco Cerundolo"
+"mot Martin Damm"
+"Bryssel • preliminärt 11.30"
+"Svenska Spel"
+"1,53"
+"TA utan marginal: 1,31"
+"Tydlig Elofördel och ett betydande prisgap."
+"1,53 kräver 65,4 % vinstchans för att gå jämnt upp."
+
+Second selection:
+"2"
+"Luciano Darderi"
+"mot James Duckworth"
+"Almaty • preliminärt 08.30"
+"Svenska Spel: 1,78"
+"TA utan marginal: 1,57"
+"Stöd i hardcourt-resultaten. Duckworth har redan slagit Kecmanovic här."
+
+Third selection:
+"3"
+"Jacob Fearnley"
+"mot Clément Chidekh"
+"Bryssel • preliminärt 13.50"
+"Svenska Spel: 1,91"
+"TA utan marginal: 1,71"
+"Svagare rekommendation. Fearnley kommer från final; Chidekh är också i form."
+
+Caution strip:
+"Utanför huvudlistan"
+"Goffin och Wawrinka: svag form. Moutet: handledsproblem och en lång match i dag."
+
+Footer, small but still fully legible:
+"Källa och urval: 15 ATP-matcher i Oddset-flödet, 14 med TA-underlag."
+"Odds: Svenska Spel via tennis.egelberg.se/api/oddset, kontrollerade 20 oktober 2026."
+"TA: hardcourt-Elo från 19 oktober, utan marginal. Damm kompletterad direkt från tennisabstract.com."
+"Prioriteringen är en bedömning. TA:s modellvärden är inte säkerställda vinstchanser."
+"Alla tider är svenska. Odds och tider kan ändras."
+
+Constraints: Preserve exactly these three picks and this ranking. All matchups, times, odds and dates must remain accurate. The largest number 1,53 must be clearly attached to Cerundolo, 1,78 to Darderi, 1,91 to Fearnley. Avoid clutter, generic trophy graphics, gold casino styling, promises of winnings, fake sponsor marks, watermarks, fabricated player photos. Deliver only the finished flat poster, not a photographed mockup.

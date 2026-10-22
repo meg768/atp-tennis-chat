@@ -1,0 +1,43 @@
+Edit the attached poster into the final corrected odds-comparison poster. Keep its polished forest-green and ivory sports editorial design, yellow highlights, tennis-ball background, portrait aspect ratio, title, date and selection ranking. You may reflow and slightly resize the three cards so that each contains a clearly aligned two-row odds table showing BOTH players. Data accuracy is paramount.
+
+Main title: "Spelval 21 oktober"
+Date: "Onsdag 21 oktober 2026 • ATP-singel"
+Subtitle: "Svenska Spel och TA jämförda med samma marginal"
+
+Card 1, dominant, yellow outline, marked "1" and "Förstaval":
+"Bryssel • preliminärt 11.30"
+Table headers: "Spelare" | "Svenska Spel" | "TA*"
+Row 1 highlighted: "Francisco Cerundolo" | "1,53" | "1,24"
+Row 2: "Martin Damm" | "2,50" | "4,02"
+Text: "Samma överrundning: 5,36 %"
+Comment: "Tydlig Elofördel och ett betydande prisgap."
+
+Card 2, marked "2":
+"Almaty • preliminärt 08.30"
+Table headers: "Spelare" | "Svenska Spel" | "TA*"
+Row 1 highlighted: "Luciano Darderi" | "1,78" | "1,48"
+Row 2: "James Duckworth" | "2,02" | "2,62"
+Text: "Samma överrundning: 5,68 %"
+Comment: "Stöd i hardcourt-resultaten. Duckworth har slagit Kecmanovic här."
+
+Card 3, marked "3":
+"Bryssel • preliminärt 13.50"
+Table headers: "Spelare" | "Svenska Spel" | "TA*"
+Row 1 highlighted: "Jacob Fearnley" | "1,91" | "1,62"
+Row 2: "Clément Chidekh" | "1,89" | "2,29"
+Text: "Samma överrundning: 5,27 %"
+Comment: "Svagare rekommendation. Båda spelarna kommer med positiva resultat."
+
+Retain compact caution strip:
+"Utanför huvudlistan"
+"Goffin och Wawrinka: svag form. Moutet: handledsproblem och lång match den 20 oktober."
+
+Footer, clearly legible, exact text:
+"* TA:s vinstchanser skalas proportionellt till Svenska Spels överrundning i respektive match."
+"TA-odds = 1 / (TA:s vinstchans × summan av Svenska Spels inversa odds)."
+"Beräknat före avrundning. Svenska Spels interna marginalfördelning är inte känd."
+"Oddsbild: 20 oktober 2026 • Svenska Spel via tennis.egelberg.se/api/oddset."
+"TA: hardcourt-Elo från 19 oktober. Damm kompletterad från tennisabstract.com."
+"Prioriteringen är en bedömning. Svenska tider. Odds och tider kan ändras."
+
+Remove every old claim of fixed 5% margin, remove every old price-gap percentage, remove all old TA odds (1,25, 1,49, 1,63, 1,31, 1,57, 1,71). Use only the exact numbers in the new tables. This is the SAME historical snapshot from 20 October, not a fresh update. Do not change ranking or invent data. Table columns must be aligned and each price must unmistakably belong to its named player. All text Swedish with decimal commas. Do not use all-caps headings. Output only the flat finished poster.

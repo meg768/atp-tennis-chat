@@ -9,7 +9,7 @@
 - If the user says "save everything", summarize the durable context here rather than storing raw chat transcripts.
 
 ## Data Access
-- When tennis data is needed, fetch it through `tennis.egelberg.se` endpoints instead.
+- 2026-10-19: Magnus wants direct MariaDB access as the default for tennis data because it is faster; this supersedes the previous HTTP-first instruction. Use `scripts/database.py` and the project-local ignored `.env`; never expose credentials. HTTP endpoints remain an available fallback. This preference authorizes reads, not unsolicited data/schema changes.
 - Tennis Abstract is also an allowed supplementary source for tennis research and matchup context when useful.
 
 ## ATP Service Endpoint Map
@@ -17,6 +17,31 @@
 - `GET /api/meta/endpoints` is a machine-readable endpoint catalog and should be preferred when I need to confirm current service routes/response shapes.
 - `GET /api/meta/schema.sql` exposes the raw schema SQL file and can be used when I need up-to-date SQL documentation over HTTP.
 - `POST /api/query` is read-only and intended for SQL reads only.
+
+## Analysis and Presentation — latest agreement 2026-10-19
+- Magnus explicitly reset the earlier detailed format instructions: he asks the question; Codex independently chooses the analysis and presentation. Do not turn every reaction into a new rule or impose a fixed card template. This supersedes earlier rigid preferences about headings, fonts, image dimensions and mandatory sections.
+- Aim for compact, informative, readable results with substantive analysis and creative observations. Images, tables, charts or prose are all appropriate; use the space the content needs. Avoid all-caps headings (normal abbreviations ATP/GS are fine).
+- Magnus particularly praised the independent top-20 form analysis (`analysis/ATP-20261019-04/topp20-form.png`) and the Shimabukuro–Safiullin analysis (`analysis/ATP-20261019-07/shimabukuro-safiullin-analys.png`). These are examples of good judgment, not compulsory templates.
+- Database first. Proactively use external research when useful, clearly marking external facts and sources in the result/image. Distinguish facts, subjective judgments and model outputs.
+- Keep selection criteria consistent for comparable questions. A curated watchlist is not the same as a systematic ranking; explain substantive changes to the population or sorting.
+- For reproducibility, include sufficient source/date, filters, calculation and ordering information for a screenshot to convey the method. Save SQL/raw results when useful. An analysis ID alone is only a local reference, not a public link or a guarantee that a screenshot can reproduce original data. Prefer “Källa och urvalsregler” over promising exact recreation; updated data can change results.
+- 2026-10-21: Magnus praised the creative freedom and the tennis poster (`analysis/ATP-20261020-01/spelval-21-oktober-affisch-med-marginal.png`). Continue choosing analysis and presentation independently; this is a successful example, not a mandatory poster format.
+
+## Odds Comparison — clarified 2026-10-21
+- Use the finished TA and GPT odds from `PLAYER_ODDS` directly when comparing with Svenska Spel. Magnus means to include the existing 5 percent pricing markup, not to match Svenska Spel's exact per-match overround. Do not add a second markup or replace the standard pricing with per-match margin adjustments unless explicitly requested.
+- Verified directly in MariaDB: `PLAYER_ODDS` multiplies each model probability by 1.05, clamps it to 0.001–0.999, takes its reciprocal, and rounds to two decimals. Both TA and GPT outputs already include this pricing. `WIN_PROBABILITY_TA` returns the underlying probability without a margin.
+- Label displayed TA/GPT odds as including the 5 percent markup. Svenska Spel's actual overround may differ; direct price comparison does not imply identical internal bookmaker pricing.
+- An odds-price gap `(Svenska Spel odds / model odds - 1) × 100` is not expected return. Expected return requires the underlying margin-free model probability: `(probability × Svenska Spel odds - 1) × 100`, conditional on that probability being accurate. Preserve source, odds-snapshot date, surface and relevant model limitations in analysis artifacts.
+
+## Context Scope — clarified 2026-10-19
+- When Magnus asks to save context, prioritize the overall conversation: goals, collaboration style, data-source priorities and durable decisions. Do not preserve each match, transient odds, individual betting decisions or a detailed handoff unless explicitly requested. Analysis files already retain the underlying work.
+- Magnus wants Codex to investigate independently and explain what the data means, including when a simple statistic or model output is misleading. Avoid turning conversational feedback into an expanding rulebook.
+
+## Ranking Comparison Method — 2026-10-19
+- The database has match-time rankings and current player-profile ranking, but no separate weekly ranking-history table. For year-over-year comparisons, latest positive match ranking at an event start on/before the historical cutoff is only an estimate of the ranking at that cutoff.
+- Expose historical observation dates and stale observations when relevant. Current profile ranking is the value at extraction, not a separately verified weekly list. Missing match rankings can affect ordering.
+- For the approved young-climbers example, used under 23 and current top 100, displayed the ten largest positive rank changes, and added context about the youngest players. These were analysis-specific choices, not permanent default thresholds.
+- Saved query/results for that example are under `/Users/magnus/Documents/GitHub/codex-chat/sandbox/young-ranking/`. A set-based union of winner/loser observations with ROW_NUMBER per player returned quickly; repeated PLAYER_RANK_AT_DATE calls over the candidate list were much slower in this session.
 
 ## Verified Tennis Context
 - Match discussed: Daniel Altmaier (GER, rank 52) vs Fabian Marozsan (HUN, rank 47)

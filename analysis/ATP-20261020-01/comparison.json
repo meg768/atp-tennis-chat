@@ -1,0 +1,1444 @@
+{
+  "metadata": {
+    "retrieved": "2026-10-20T23:33:50.473670+02:00",
+    "target_date": "2026-10-21",
+    "timezone": "Europe/Stockholm",
+    "surface": "Hard",
+    "scope": "ATP singles in normalized Oddset feed",
+    "source": "https://tennis.egelberg.se/api/oddset",
+    "count": 15,
+    "method": "WIN_PROBABILITY_TA fair probability; displayed TA odds 1/min(.999,max(.001,p*1.05)); market probabilities normalized from both SS odds. Sort descending absolute TA-vs-normalized-market probability difference.",
+    "comparable": 14,
+    "external_supplement": {
+      "url": "https://tennisabstract.com/reports/atp_elo_ratings.html",
+      "last_update": "2026-10-19",
+      "Damm_hElo": 1635.9,
+      "Cerundolo_hElo": 1839.9
+    }
+  },
+  "matches": [
+    {
+      "id": 1029551541,
+      "start": "2026-10-21T06:30:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "James Duckworth",
+        "odds": 2.02,
+        "id": "D994"
+      },
+      "playerB": {
+        "name": "Luciano Darderi",
+        "odds": 1.78,
+        "id": "D0FJ"
+      },
+      "time_se": "08:30",
+      "p_a": 0.3612622508882752,
+      "players": [
+        {
+          "id": "D994",
+          "name": "James Duckworth",
+          "rank": 73,
+          "age": 34,
+          "elo_rank": 1665,
+          "elo_rank_hard": 1625,
+          "elo_rank_clay": 1591,
+          "elo_rank_grass": 1567
+        },
+        {
+          "id": "D0FJ",
+          "name": "Luciano Darderi",
+          "rank": 23,
+          "age": 24,
+          "elo_rank": 1820,
+          "elo_rank_hard": 1724,
+          "elo_rank_clay": 1832,
+          "elo_rank_grass": 1614
+        }
+      ],
+      "sides": [
+        {
+          "name": "James Duckworth",
+          "id": "D994",
+          "ss": 2.02,
+          "ta": 2.64,
+          "fair": 2.7680722177343196,
+          "p": 0.3612622508882752,
+          "market_p": 0.4684210526315789,
+          "delta_pp": -10.715880174330373,
+          "ev_pct": -27.025025320568407
+        },
+        {
+          "name": "Luciano Darderi",
+          "id": "D0FJ",
+          "ss": 1.78,
+          "ta": 1.49,
+          "fair": 1.565587757089154,
+          "p": 0.6387377491117248,
+          "market_p": 0.531578947368421,
+          "delta_pp": 10.715880174330373,
+          "ev_pct": 13.695319341887014
+        }
+      ],
+      "preferred": {
+        "name": "Luciano Darderi",
+        "id": "D0FJ",
+        "ss": 1.78,
+        "ta": 1.49,
+        "fair": 1.565587757089154,
+        "p": 0.6387377491117248,
+        "market_p": 0.531578947368421,
+        "delta_pp": 10.715880174330373,
+        "ev_pct": 13.695319341887014
+      }
+    },
+    {
+      "id": 1029535022,
+      "start": "2026-10-21T06:30:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Mattia Bellucci",
+        "odds": 1.81,
+        "id": "B0GG"
+      },
+      "playerB": {
+        "name": "Tomas Martin Etcheverry",
+        "odds": 1.98,
+        "id": "EA24"
+      },
+      "time_se": "08:30",
+      "p_a": 0.4469531048305375,
+      "players": [
+        {
+          "id": "B0GG",
+          "name": "Mattia Bellucci",
+          "rank": 68,
+          "age": 25,
+          "elo_rank": 1708,
+          "elo_rank_hard": 1662,
+          "elo_rank_clay": 1604,
+          "elo_rank_grass": 1651
+        },
+        {
+          "id": "EA24",
+          "name": "Tomas Martin Etcheverry",
+          "rank": 29,
+          "age": 27,
+          "elo_rank": 1752,
+          "elo_rank_hard": 1699,
+          "elo_rank_clay": 1735,
+          "elo_rank_grass": 1536
+        }
+      ],
+      "sides": [
+        {
+          "name": "Mattia Bellucci",
+          "id": "B0GG",
+          "ss": 1.81,
+          "ta": 2.13,
+          "fair": 2.2373711899353523,
+          "p": 0.4469531048305375,
+          "market_p": 0.5224274406332454,
+          "delta_pp": -7.54743358027079,
+          "ev_pct": -19.101488025672708
+        },
+        {
+          "name": "Tomas Martin Etcheverry",
+          "id": "EA24",
+          "ss": 1.98,
+          "ta": 1.72,
+          "fair": 1.8081649291125372,
+          "p": 0.5530468951694625,
+          "market_p": 0.47757255936675463,
+          "delta_pp": 7.547433580270785,
+          "ev_pct": 9.503285243553572
+        }
+      ],
+      "preferred": {
+        "name": "Tomas Martin Etcheverry",
+        "id": "EA24",
+        "ss": 1.98,
+        "ta": 1.72,
+        "fair": 1.8081649291125372,
+        "p": 0.5530468951694625,
+        "market_p": 0.47757255936675463,
+        "delta_pp": 7.547433580270785,
+        "ev_pct": 9.503285243553572
+      }
+    },
+    {
+      "id": 1029534201,
+      "start": "2026-10-21T07:40:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Zangar Nurlanuly",
+        "odds": 19,
+        "id": "N0GN"
+      },
+      "playerB": {
+        "name": "Tomas Machac",
+        "odds": 1.01,
+        "id": "M0FH"
+      },
+      "time_se": "09:40",
+      "p_a": null,
+      "players": [
+        {
+          "id": "N0GN",
+          "name": "Zangar Nurlanuly",
+          "rank": 1308,
+          "age": 18,
+          "elo_rank": null,
+          "elo_rank_hard": null,
+          "elo_rank_clay": null,
+          "elo_rank_grass": null
+        },
+        {
+          "id": "M0FH",
+          "name": "Tomas Machac",
+          "rank": 72,
+          "age": 26,
+          "elo_rank": 1798,
+          "elo_rank_hard": 1755,
+          "elo_rank_clay": 1749,
+          "elo_rank_grass": 1672
+        }
+      ]
+    },
+    {
+      "id": 1029554117,
+      "start": "2026-10-21T07:40:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Facundo Diaz Acosta",
+        "odds": 2.6,
+        "id": "D0CG"
+      },
+      "playerB": {
+        "name": "Nikoloz Basilashvili",
+        "odds": 1.49,
+        "id": "BG23"
+      },
+      "time_se": "09:40",
+      "p_a": 0.41869852163108506,
+      "players": [
+        {
+          "id": "D0CG",
+          "name": "Facundo Diaz Acosta",
+          "rank": 71,
+          "age": 25,
+          "elo_rank": 1722,
+          "elo_rank_hard": 1546,
+          "elo_rank_clay": 1714,
+          "elo_rank_grass": 1486
+        },
+        {
+          "id": "BG23",
+          "name": "Nikoloz Basilashvili",
+          "rank": 128,
+          "age": 34,
+          "elo_rank": 1637,
+          "elo_rank_hard": 1603,
+          "elo_rank_clay": 1584,
+          "elo_rank_grass": 1576
+        }
+      ],
+      "sides": [
+        {
+          "name": "Facundo Diaz Acosta",
+          "id": "D0CG",
+          "ss": 2.6,
+          "ta": 2.27,
+          "fair": 2.3883533099290455,
+          "p": 0.41869852163108506,
+          "market_p": 0.3643031784841076,
+          "delta_pp": 5.439534314697747,
+          "ev_pct": 8.86161562408212
+        },
+        {
+          "name": "Nikoloz Basilashvili",
+          "id": "BG23",
+          "ss": 1.49,
+          "ta": 1.64,
+          "fair": 1.7202777512383407,
+          "p": 0.581301478368915,
+          "market_p": 0.6356968215158926,
+          "delta_pp": -5.439534314697758,
+          "ev_pct": -13.386079723031663
+        }
+      ],
+      "preferred": {
+        "name": "Facundo Diaz Acosta",
+        "id": "D0CG",
+        "ss": 2.6,
+        "ta": 2.27,
+        "fair": 2.3883533099290455,
+        "p": 0.41869852163108506,
+        "market_p": 0.3643031784841076,
+        "delta_pp": 5.439534314697747,
+        "ev_pct": 8.86161562408212
+      }
+    },
+    {
+      "id": 1029553092,
+      "start": "2026-10-21T08:50:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Adrian Mannarino",
+        "odds": 3.7,
+        "id": "ME82"
+      },
+      "playerB": {
+        "name": "Andrey Rublev",
+        "odds": 1.28,
+        "id": "RE44"
+      },
+      "time_se": "10:50",
+      "p_a": 0.2789217568024399,
+      "players": [
+        {
+          "id": "ME82",
+          "name": "Adrian Mannarino",
+          "rank": 79,
+          "age": 38,
+          "elo_rank": 1694,
+          "elo_rank_hard": 1664,
+          "elo_rank_clay": 1498,
+          "elo_rank_grass": 1657
+        },
+        {
+          "id": "RE44",
+          "name": "Andrey Rublev",
+          "rank": 22,
+          "age": 28,
+          "elo_rank": 1880,
+          "elo_rank_hard": 1829,
+          "elo_rank_clay": 1871,
+          "elo_rank_grass": 1755
+        }
+      ],
+      "sides": [
+        {
+          "name": "Adrian Mannarino",
+          "id": "ME82",
+          "ss": 3.7,
+          "ta": 3.41,
+          "fair": 3.5852348395621907,
+          "p": 0.2789217568024399,
+          "market_p": 0.2570281124497992,
+          "delta_pp": 2.189364435264074,
+          "ev_pct": 3.2010500169027623
+        },
+        {
+          "name": "Andrey Rublev",
+          "id": "RE44",
+          "ss": 1.28,
+          "ta": 1.32,
+          "fair": 1.3868120546330522,
+          "p": 0.7210782431975601,
+          "market_p": 0.7429718875502008,
+          "delta_pp": -2.189364435264074,
+          "ev_pct": -7.701984870712309
+        }
+      ],
+      "preferred": {
+        "name": "Adrian Mannarino",
+        "id": "ME82",
+        "ss": 3.7,
+        "ta": 3.41,
+        "fair": 3.5852348395621907,
+        "p": 0.2789217568024399,
+        "market_p": 0.2570281124497992,
+        "delta_pp": 2.189364435264074,
+        "ev_pct": 3.2010500169027623
+      }
+    },
+    {
+      "id": 1029523893,
+      "start": "2026-10-21T09:30:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Dino Prizmic",
+        "odds": 1.37,
+        "id": "P0HW"
+      },
+      "playerB": {
+        "name": "Damir Dzumhur",
+        "odds": 3.1,
+        "id": "D923"
+      },
+      "time_se": "11:30",
+      "p_a": 0.6427130688326204,
+      "players": [
+        {
+          "id": "P0HW",
+          "name": "Dino Prizmic",
+          "rank": 95,
+          "age": 21,
+          "elo_rank": 1800,
+          "elo_rank_hard": 1713,
+          "elo_rank_clay": 1777,
+          "elo_rank_grass": 1599
+        },
+        {
+          "id": "D923",
+          "name": "Damir Dzumhur",
+          "rank": 83,
+          "age": 34,
+          "elo_rank": 1654,
+          "elo_rank_hard": 1611,
+          "elo_rank_clay": 1618,
+          "elo_rank_grass": 1548
+        }
+      ],
+      "sides": [
+        {
+          "name": "Dino Prizmic",
+          "id": "P0HW",
+          "ss": 1.37,
+          "ta": 1.48,
+          "fair": 1.5559042572704036,
+          "p": 0.6427130688326204,
+          "market_p": 0.6935123042505593,
+          "delta_pp": -5.079923541793896,
+          "ev_pct": -11.948309569931004
+        },
+        {
+          "name": "Damir Dzumhur",
+          "id": "D923",
+          "ss": 3.1,
+          "ta": 2.67,
+          "fair": 2.798870915128788,
+          "p": 0.35728693116737964,
+          "market_p": 0.30648769574944074,
+          "delta_pp": 5.079923541793891,
+          "ev_pct": 10.75894866188769
+        }
+      ],
+      "preferred": {
+        "name": "Damir Dzumhur",
+        "id": "D923",
+        "ss": 3.1,
+        "ta": 2.67,
+        "fair": 2.798870915128788,
+        "p": 0.35728693116737964,
+        "market_p": 0.30648769574944074,
+        "delta_pp": 5.079923541793891,
+        "ev_pct": 10.75894866188769
+      }
+    },
+    {
+      "id": 1029554823,
+      "start": "2026-10-21T09:30:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Martin Damm",
+        "odds": 2.5,
+        "id": "D0DT"
+      },
+      "playerB": {
+        "name": "Francisco Cerundolo",
+        "odds": 1.53,
+        "id": "C0AU"
+      },
+      "time_se": "11:30",
+      "p_a": 0.23607530085516135,
+      "players": [
+        {
+          "id": "D0DT",
+          "name": "Martin Damm",
+          "rank": 107,
+          "age": 23,
+          "elo_rank": null,
+          "elo_rank_hard": null,
+          "elo_rank_clay": null,
+          "elo_rank_grass": null
+        },
+        {
+          "id": "C0AU",
+          "name": "Francisco Cerundolo",
+          "rank": 21,
+          "age": 28,
+          "elo_rank": 1890,
+          "elo_rank_hard": 1840,
+          "elo_rank_clay": 1848,
+          "elo_rank_grass": 1739
+        }
+      ],
+      "ta_source": "External TA Elo 2026-10-19: Damm hElo 1635.9, Cerundolo hElo 1839.9; local Damm Elo NULL. Displayed TA odds reconstructed with service 5% pricing.",
+      "sides": [
+        {
+          "name": "Martin Damm",
+          "id": "D0DT",
+          "ss": 2.5,
+          "ta": 4.03,
+          "fair": 4.235936569296283,
+          "p": 0.23607530085516135,
+          "market_p": 0.3796526054590571,
+          "delta_pp": -14.357730460389575,
+          "ev_pct": -40.981174786209664
+        },
+        {
+          "name": "Francisco Cerundolo",
+          "id": "C0AU",
+          "ss": 1.53,
+          "ta": 1.25,
+          "fair": 1.309029543251359,
+          "p": 0.7639246991448386,
+          "market_p": 0.6203473945409429,
+          "delta_pp": 14.357730460389572,
+          "ev_pct": 16.88047896916032
+        }
+      ],
+      "preferred": {
+        "name": "Francisco Cerundolo",
+        "id": "C0AU",
+        "ss": 1.53,
+        "ta": 1.25,
+        "fair": 1.309029543251359,
+        "p": 0.7639246991448386,
+        "market_p": 0.6203473945409429,
+        "delta_pp": 14.357730460389572,
+        "ev_pct": 16.88047896916032
+      }
+    },
+    {
+      "id": 1029566200,
+      "start": "2026-10-21T10:40:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Mariano Navone",
+        "odds": 2.28,
+        "id": "N0BS"
+      },
+      "playerB": {
+        "name": "Tallon Griekspoor",
+        "odds": 1.63,
+        "id": "GJ37"
+      },
+      "time_se": "12:40",
+      "p_a": 0.45979177167625435,
+      "players": [
+        {
+          "id": "N0BS",
+          "name": "Mariano Navone",
+          "rank": 45,
+          "age": 25,
+          "elo_rank": 1799,
+          "elo_rank_hard": 1713,
+          "elo_rank_clay": 1775,
+          "elo_rank_grass": 1548
+        },
+        {
+          "id": "GJ37",
+          "name": "Tallon Griekspoor",
+          "rank": 60,
+          "age": 30,
+          "elo_rank": 1760,
+          "elo_rank_hard": 1741,
+          "elo_rank_clay": 1711,
+          "elo_rank_grass": 1686
+        }
+      ],
+      "sides": [
+        {
+          "name": "Mariano Navone",
+          "id": "N0BS",
+          "ss": 2.28,
+          "ta": 2.07,
+          "fair": 2.1748975549395295,
+          "p": 0.45979177167625435,
+          "market_p": 0.41687979539641945,
+          "delta_pp": 4.29119762798349,
+          "ev_pct": 4.8325239421859845
+        },
+        {
+          "name": "Tallon Griekspoor",
+          "id": "GJ37",
+          "ss": 1.63,
+          "ta": 1.76,
+          "fair": 1.8511380382023763,
+          "p": 0.5402082283237457,
+          "market_p": 0.5831202046035805,
+          "delta_pp": -4.291197627983479,
+          "ev_pct": -11.946058783229452
+        }
+      ],
+      "preferred": {
+        "name": "Mariano Navone",
+        "id": "N0BS",
+        "ss": 2.28,
+        "ta": 2.07,
+        "fair": 2.1748975549395295,
+        "p": 0.45979177167625435,
+        "market_p": 0.41687979539641945,
+        "delta_pp": 4.29119762798349,
+        "ev_pct": 4.8325239421859845
+      }
+    },
+    {
+      "id": 1029569213,
+      "start": "2026-10-21T11:50:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Clement Chidekh",
+        "odds": 1.89,
+        "id": "C0BH"
+      },
+      "playerB": {
+        "name": "Jacob Fearnley",
+        "odds": 1.91,
+        "id": "F0BY"
+      },
+      "time_se": "13:50",
+      "p_a": 0.4145013213281905,
+      "players": [
+        {
+          "id": "C0BH",
+          "name": "Clement Chidekh",
+          "rank": 152,
+          "age": 25,
+          "elo_rank": 1627,
+          "elo_rank_hard": 1616,
+          "elo_rank_clay": 1420,
+          "elo_rank_grass": 1548
+        },
+        {
+          "id": "F0BY",
+          "name": "Jacob Fearnley",
+          "rank": 87,
+          "age": 25,
+          "elo_rank": 1728,
+          "elo_rank_hard": 1676,
+          "elo_rank_clay": 1662,
+          "elo_rank_grass": 1680
+        }
+      ],
+      "sides": [
+        {
+          "name": "Clement Chidekh",
+          "id": "C0BH",
+          "ss": 1.89,
+          "ta": 2.3,
+          "fair": 2.4125375446227544,
+          "p": 0.4145013213281905,
+          "market_p": 0.5026315789473684,
+          "delta_pp": -8.813025761917793,
+          "ev_pct": -21.659250268971995
+        },
+        {
+          "name": "Jacob Fearnley",
+          "id": "F0BY",
+          "ss": 1.91,
+          "ta": 1.63,
+          "fair": 1.707945784384138,
+          "p": 0.5854986786718095,
+          "market_p": 0.4973684210526315,
+          "delta_pp": 8.813025761917798,
+          "ev_pct": 11.830247626315614
+        }
+      ],
+      "preferred": {
+        "name": "Jacob Fearnley",
+        "id": "F0BY",
+        "ss": 1.91,
+        "ta": 1.63,
+        "fair": 1.707945784384138,
+        "p": 0.5854986786718095,
+        "market_p": 0.4973684210526315,
+        "delta_pp": 8.813025761917798,
+        "ev_pct": 11.830247626315614
+      }
+    },
+    {
+      "id": 1029533796,
+      "start": "2026-10-21T12:00:00Z",
+      "tournament": "Lyon",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Stan Wawrinka",
+        "odds": 2.4,
+        "id": "W367"
+      },
+      "playerB": {
+        "name": "Martin Landaluce",
+        "odds": 1.57,
+        "id": "L0IL"
+      },
+      "time_se": "14:00",
+      "p_a": 0.5700528235839882,
+      "players": [
+        {
+          "id": "W367",
+          "name": "Stan Wawrinka",
+          "rank": 140,
+          "age": 41,
+          "elo_rank": 1651,
+          "elo_rank_hard": 1638,
+          "elo_rank_clay": 1592,
+          "elo_rank_grass": 1569
+        },
+        {
+          "id": "L0IL",
+          "name": "Martin Landaluce",
+          "rank": 67,
+          "age": 20,
+          "elo_rank": 1641,
+          "elo_rank_hard": 1589,
+          "elo_rank_clay": 1606,
+          "elo_rank_grass": 1569
+        }
+      ],
+      "sides": [
+        {
+          "name": "Stan Wawrinka",
+          "id": "W367",
+          "ss": 2.4,
+          "ta": 1.67,
+          "fair": 1.7542233958475708,
+          "p": 0.5700528235839882,
+          "market_p": 0.3954659949622167,
+          "delta_pp": 17.458682862177156,
+          "ev_pct": 36.81267766015716
+        },
+        {
+          "name": "Martin Landaluce",
+          "id": "L0IL",
+          "ss": 1.57,
+          "ta": 2.22,
+          "fair": 2.325867117760559,
+          "p": 0.42994717641601177,
+          "market_p": 0.6045340050377834,
+          "delta_pp": -17.458682862177167,
+          "ev_pct": -32.49829330268616
+        }
+      ],
+      "preferred": {
+        "name": "Stan Wawrinka",
+        "id": "W367",
+        "ss": 2.4,
+        "ta": 1.67,
+        "fair": 1.7542233958475708,
+        "p": 0.5700528235839882,
+        "market_p": 0.3954659949622167,
+        "delta_pp": 17.458682862177156,
+        "ev_pct": 36.81267766015716
+      }
+    },
+    {
+      "id": 1029568936,
+      "start": "2026-10-21T13:10:00Z",
+      "tournament": "Lyon",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Corentin Moutet",
+        "odds": 1.86,
+        "id": "MW02"
+      },
+      "playerB": {
+        "name": "Felix Balshaw",
+        "odds": 1.94,
+        "id": "B0WL"
+      },
+      "time_se": "15:10",
+      "p_a": 0.6887735686687132,
+      "players": [
+        {
+          "id": "MW02",
+          "name": "Corentin Moutet",
+          "rank": 94,
+          "age": 27,
+          "elo_rank": 1714,
+          "elo_rank_hard": 1694,
+          "elo_rank_clay": 1677,
+          "elo_rank_grass": 1617
+        },
+        {
+          "id": "B0WL",
+          "name": "Felix Balshaw",
+          "rank": 186,
+          "age": 20,
+          "elo_rank": 1598,
+          "elo_rank_hard": 1556,
+          "elo_rank_clay": 1533,
+          "elo_rank_grass": 1499
+        }
+      ],
+      "sides": [
+        {
+          "name": "Corentin Moutet",
+          "id": "MW02",
+          "ss": 1.86,
+          "ta": 1.38,
+          "fair": 1.4518559443749224,
+          "p": 0.6887735686687132,
+          "market_p": 0.5105263157894737,
+          "delta_pp": 17.824725287923947,
+          "ev_pct": 28.11188377238065
+        },
+        {
+          "name": "Felix Balshaw",
+          "id": "B0WL",
+          "ss": 1.94,
+          "ta": 3.06,
+          "fair": 3.213094709605638,
+          "p": 0.3112264313312868,
+          "market_p": 0.4894736842105264,
+          "delta_pp": -17.82472528792396,
+          "ev_pct": -39.622072321730364
+        }
+      ],
+      "preferred": {
+        "name": "Corentin Moutet",
+        "id": "MW02",
+        "ss": 1.86,
+        "ta": 1.38,
+        "fair": 1.4518559443749224,
+        "p": 0.6887735686687132,
+        "market_p": 0.5105263157894737,
+        "delta_pp": 17.824725287923947,
+        "ev_pct": 28.11188377238065
+      }
+    },
+    {
+      "id": 1029565005,
+      "start": "2026-10-21T14:30:00Z",
+      "tournament": "Almaty",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Stefanos Tsitsipas",
+        "odds": 1.07,
+        "id": "TE51"
+      },
+      "playerB": {
+        "name": "Mikhail Kukushkin",
+        "odds": 8.5,
+        "id": "K926"
+      },
+      "time_se": "16:30",
+      "p_a": 0.8691968654550538,
+      "players": [
+        {
+          "id": "TE51",
+          "name": "Stefanos Tsitsipas",
+          "rank": 39,
+          "age": 28,
+          "elo_rank": 1902,
+          "elo_rank_hard": 1855,
+          "elo_rank_clay": 1898,
+          "elo_rank_grass": 1712
+        },
+        {
+          "id": "K926",
+          "name": "Mikhail Kukushkin",
+          "rank": 389,
+          "age": 38,
+          "elo_rank": 1552,
+          "elo_rank_hard": 1526,
+          "elo_rank_clay": 1518,
+          "elo_rank_grass": 1510
+        }
+      ],
+      "sides": [
+        {
+          "name": "Stefanos Tsitsipas",
+          "id": "TE51",
+          "ss": 1.07,
+          "ta": 1.1,
+          "fair": 1.1504873518802514,
+          "p": 0.8691968654550538,
+          "market_p": 0.8881922675026124,
+          "delta_pp": -1.8995402047558563,
+          "ev_pct": -6.995935396309239
+        },
+        {
+          "name": "Mikhail Kukushkin",
+          "id": "K926",
+          "ss": 8.5,
+          "ta": 7.28,
+          "fair": 7.645076729077796,
+          "p": 0.1308031345449462,
+          "market_p": 0.11180773249738768,
+          "delta_pp": 1.8995402047558507,
+          "ev_pct": 11.182664363204253
+        }
+      ],
+      "preferred": {
+        "name": "Mikhail Kukushkin",
+        "id": "K926",
+        "ss": 8.5,
+        "ta": 7.28,
+        "fair": 7.645076729077796,
+        "p": 0.1308031345449462,
+        "market_p": 0.11180773249738768,
+        "delta_pp": 1.8995402047558507,
+        "ev_pct": 11.182664363204253
+      }
+    },
+    {
+      "id": 1029545826,
+      "start": "2026-10-21T16:00:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "David Goffin",
+        "odds": 2.63,
+        "id": "GB88"
+      },
+      "playerB": {
+        "name": "Remy Bertola",
+        "odds": 1.49,
+        "id": "BU70"
+      },
+      "time_se": "18:00",
+      "p_a": 0.704584592662721,
+      "players": [
+        {
+          "id": "GB88",
+          "name": "David Goffin",
+          "rank": 657,
+          "age": 35,
+          "elo_rank": 1636,
+          "elo_rank_hard": 1601,
+          "elo_rank_clay": 1623,
+          "elo_rank_grass": 1618
+        },
+        {
+          "id": "BU70",
+          "name": "Remy Bertola",
+          "rank": 219,
+          "age": 28,
+          "elo_rank": 1504,
+          "elo_rank_hard": 1450,
+          "elo_rank_clay": 1446,
+          "elo_rank_grass": 1494
+        }
+      ],
+      "sides": [
+        {
+          "name": "David Goffin",
+          "id": "GB88",
+          "ss": 2.63,
+          "ta": 1.35,
+          "fair": 1.4192759966846054,
+          "p": 0.704584592662721,
+          "market_p": 0.3616504854368932,
+          "delta_pp": 34.29341072258278,
+          "ev_pct": 85.30574787029562
+        },
+        {
+          "name": "Remy Bertola",
+          "id": "BU70",
+          "ss": 1.49,
+          "ta": 3.22,
+          "fair": 3.385063795465106,
+          "p": 0.295415407337279,
+          "market_p": 0.6383495145631067,
+          "delta_pp": -34.29341072258277,
+          "ev_pct": -55.983104306745425
+        }
+      ],
+      "preferred": {
+        "name": "David Goffin",
+        "id": "GB88",
+        "ss": 2.63,
+        "ta": 1.35,
+        "fair": 1.4192759966846054,
+        "p": 0.704584592662721,
+        "market_p": 0.3616504854368932,
+        "delta_pp": 34.29341072258278,
+        "ev_pct": 85.30574787029562
+      }
+    },
+    {
+      "id": 1029567299,
+      "start": "2026-10-21T17:10:00Z",
+      "tournament": "Bryssel",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Gauthier Onclin",
+        "odds": 3.55,
+        "id": "O0A2"
+      },
+      "playerB": {
+        "name": "Jan-Lennard Struff",
+        "odds": 1.3,
+        "id": "SL28"
+      },
+      "time_se": "19:10",
+      "p_a": 0.2120732319225979,
+      "players": [
+        {
+          "id": "O0A2",
+          "name": "Gauthier Onclin",
+          "rank": 178,
+          "age": 25,
+          "elo_rank": 1464,
+          "elo_rank_hard": 1439,
+          "elo_rank_clay": 1442,
+          "elo_rank_grass": 1453
+        },
+        {
+          "id": "SL28",
+          "name": "Jan-Lennard Struff",
+          "rank": 58,
+          "age": 36,
+          "elo_rank": 1745,
+          "elo_rank_hard": 1667,
+          "elo_rank_clay": 1687,
+          "elo_rank_grass": 1692
+        }
+      ],
+      "sides": [
+        {
+          "name": "Gauthier Onclin",
+          "id": "O0A2",
+          "ss": 3.55,
+          "ta": 4.49,
+          "fair": 4.715352290971725,
+          "p": 0.2120732319225979,
+          "market_p": 0.26804123711340205,
+          "delta_pp": -5.596800519080417,
+          "ev_pct": -24.714002667477754
+        },
+        {
+          "name": "Jan-Lennard Struff",
+          "id": "SL28",
+          "ss": 1.3,
+          "ta": 1.21,
+          "fair": 1.2691534803926916,
+          "p": 0.7879267680774021,
+          "market_p": 0.7319587628865979,
+          "delta_pp": 5.596800519080425,
+          "ev_pct": 2.4304798500622837
+        }
+      ],
+      "preferred": {
+        "name": "Jan-Lennard Struff",
+        "id": "SL28",
+        "ss": 1.3,
+        "ta": 1.21,
+        "fair": 1.2691534803926916,
+        "p": 0.7879267680774021,
+        "market_p": 0.7319587628865979,
+        "delta_pp": 5.596800519080425,
+        "ev_pct": 2.4304798500622837
+      }
+    },
+    {
+      "id": 1029569950,
+      "start": "2026-10-21T18:10:00Z",
+      "tournament": "Lyon",
+      "state": "upcoming",
+      "score": null,
+      "serve": null,
+      "playerA": {
+        "name": "Benjamin Bonzi",
+        "odds": 3.45,
+        "id": "BM95"
+      },
+      "playerB": {
+        "name": "Tommy Paul",
+        "odds": 1.3,
+        "id": "PL56"
+      },
+      "time_se": "20:10",
+      "p_a": 0.24448111792880314,
+      "players": [
+        {
+          "id": "BM95",
+          "name": "Benjamin Bonzi",
+          "rank": 100,
+          "age": 30,
+          "elo_rank": 1733,
+          "elo_rank_hard": 1690,
+          "elo_rank_clay": 1614,
+          "elo_rank_grass": 1656
+        },
+        {
+          "id": "PL56",
+          "name": "Tommy Paul",
+          "rank": 15,
+          "age": 29,
+          "elo_rank": 1948,
+          "elo_rank_hard": 1886,
+          "elo_rank_clay": 1885,
+          "elo_rank_grass": 1797
+        }
+      ],
+      "sides": [
+        {
+          "name": "Benjamin Bonzi",
+          "id": "BM95",
+          "ss": 3.45,
+          "ta": 3.9,
+          "fair": 4.0902954325135905,
+          "p": 0.24448111792880314,
+          "market_p": 0.2736842105263158,
+          "delta_pp": -2.9203092597512663,
+          "ev_pct": -15.654014314562914
+        },
+        {
+          "name": "Tommy Paul",
+          "id": "PL56",
+          "ss": 1.3,
+          "ta": 1.26,
+          "fair": 1.3235936569296283,
+          "p": 0.7555188820711969,
+          "market_p": 0.7263157894736842,
+          "delta_pp": 2.9203092597512637,
+          "ev_pct": -1.7825453307444006
+        }
+      ],
+      "preferred": {
+        "name": "Tommy Paul",
+        "id": "PL56",
+        "ss": 1.3,
+        "ta": 1.26,
+        "fair": 1.3235936569296283,
+        "p": 0.7555188820711969,
+        "market_p": 0.7263157894736842,
+        "delta_pp": 2.9203092597512637,
+        "ev_pct": -1.7825453307444006
+      }
+    }
+  ],
+  "players": [
+    {
+      "id": "B0GG",
+      "name": "Mattia Bellucci",
+      "rank": 68,
+      "age": 25,
+      "elo_rank": 1708,
+      "elo_rank_hard": 1662,
+      "elo_rank_clay": 1604,
+      "elo_rank_grass": 1651
+    },
+    {
+      "id": "B0WL",
+      "name": "Felix Balshaw",
+      "rank": 186,
+      "age": 20,
+      "elo_rank": 1598,
+      "elo_rank_hard": 1556,
+      "elo_rank_clay": 1533,
+      "elo_rank_grass": 1499
+    },
+    {
+      "id": "BG23",
+      "name": "Nikoloz Basilashvili",
+      "rank": 128,
+      "age": 34,
+      "elo_rank": 1637,
+      "elo_rank_hard": 1603,
+      "elo_rank_clay": 1584,
+      "elo_rank_grass": 1576
+    },
+    {
+      "id": "BM95",
+      "name": "Benjamin Bonzi",
+      "rank": 100,
+      "age": 30,
+      "elo_rank": 1733,
+      "elo_rank_hard": 1690,
+      "elo_rank_clay": 1614,
+      "elo_rank_grass": 1656
+    },
+    {
+      "id": "BU70",
+      "name": "Remy Bertola",
+      "rank": 219,
+      "age": 28,
+      "elo_rank": 1504,
+      "elo_rank_hard": 1450,
+      "elo_rank_clay": 1446,
+      "elo_rank_grass": 1494
+    },
+    {
+      "id": "C0AU",
+      "name": "Francisco Cerundolo",
+      "rank": 21,
+      "age": 28,
+      "elo_rank": 1890,
+      "elo_rank_hard": 1840,
+      "elo_rank_clay": 1848,
+      "elo_rank_grass": 1739
+    },
+    {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "rank": 152,
+      "age": 25,
+      "elo_rank": 1627,
+      "elo_rank_hard": 1616,
+      "elo_rank_clay": 1420,
+      "elo_rank_grass": 1548
+    },
+    {
+      "id": "D0CG",
+      "name": "Facundo Diaz Acosta",
+      "rank": 71,
+      "age": 25,
+      "elo_rank": 1722,
+      "elo_rank_hard": 1546,
+      "elo_rank_clay": 1714,
+      "elo_rank_grass": 1486
+    },
+    {
+      "id": "D0DT",
+      "name": "Martin Damm",
+      "rank": 107,
+      "age": 23,
+      "elo_rank": null,
+      "elo_rank_hard": null,
+      "elo_rank_clay": null,
+      "elo_rank_grass": null
+    },
+    {
+      "id": "D0FJ",
+      "name": "Luciano Darderi",
+      "rank": 23,
+      "age": 24,
+      "elo_rank": 1820,
+      "elo_rank_hard": 1724,
+      "elo_rank_clay": 1832,
+      "elo_rank_grass": 1614
+    },
+    {
+      "id": "D923",
+      "name": "Damir Dzumhur",
+      "rank": 83,
+      "age": 34,
+      "elo_rank": 1654,
+      "elo_rank_hard": 1611,
+      "elo_rank_clay": 1618,
+      "elo_rank_grass": 1548
+    },
+    {
+      "id": "D994",
+      "name": "James Duckworth",
+      "rank": 73,
+      "age": 34,
+      "elo_rank": 1665,
+      "elo_rank_hard": 1625,
+      "elo_rank_clay": 1591,
+      "elo_rank_grass": 1567
+    },
+    {
+      "id": "EA24",
+      "name": "Tomas Martin Etcheverry",
+      "rank": 29,
+      "age": 27,
+      "elo_rank": 1752,
+      "elo_rank_hard": 1699,
+      "elo_rank_clay": 1735,
+      "elo_rank_grass": 1536
+    },
+    {
+      "id": "F0BY",
+      "name": "Jacob Fearnley",
+      "rank": 87,
+      "age": 25,
+      "elo_rank": 1728,
+      "elo_rank_hard": 1676,
+      "elo_rank_clay": 1662,
+      "elo_rank_grass": 1680
+    },
+    {
+      "id": "GB88",
+      "name": "David Goffin",
+      "rank": 657,
+      "age": 35,
+      "elo_rank": 1636,
+      "elo_rank_hard": 1601,
+      "elo_rank_clay": 1623,
+      "elo_rank_grass": 1618
+    },
+    {
+      "id": "GJ37",
+      "name": "Tallon Griekspoor",
+      "rank": 60,
+      "age": 30,
+      "elo_rank": 1760,
+      "elo_rank_hard": 1741,
+      "elo_rank_clay": 1711,
+      "elo_rank_grass": 1686
+    },
+    {
+      "id": "K926",
+      "name": "Mikhail Kukushkin",
+      "rank": 389,
+      "age": 38,
+      "elo_rank": 1552,
+      "elo_rank_hard": 1526,
+      "elo_rank_clay": 1518,
+      "elo_rank_grass": 1510
+    },
+    {
+      "id": "L0IL",
+      "name": "Martin Landaluce",
+      "rank": 67,
+      "age": 20,
+      "elo_rank": 1641,
+      "elo_rank_hard": 1589,
+      "elo_rank_clay": 1606,
+      "elo_rank_grass": 1569
+    },
+    {
+      "id": "M0FH",
+      "name": "Tomas Machac",
+      "rank": 72,
+      "age": 26,
+      "elo_rank": 1798,
+      "elo_rank_hard": 1755,
+      "elo_rank_clay": 1749,
+      "elo_rank_grass": 1672
+    },
+    {
+      "id": "ME82",
+      "name": "Adrian Mannarino",
+      "rank": 79,
+      "age": 38,
+      "elo_rank": 1694,
+      "elo_rank_hard": 1664,
+      "elo_rank_clay": 1498,
+      "elo_rank_grass": 1657
+    },
+    {
+      "id": "MW02",
+      "name": "Corentin Moutet",
+      "rank": 94,
+      "age": 27,
+      "elo_rank": 1714,
+      "elo_rank_hard": 1694,
+      "elo_rank_clay": 1677,
+      "elo_rank_grass": 1617
+    },
+    {
+      "id": "N0BS",
+      "name": "Mariano Navone",
+      "rank": 45,
+      "age": 25,
+      "elo_rank": 1799,
+      "elo_rank_hard": 1713,
+      "elo_rank_clay": 1775,
+      "elo_rank_grass": 1548
+    },
+    {
+      "id": "N0GN",
+      "name": "Zangar Nurlanuly",
+      "rank": 1308,
+      "age": 18,
+      "elo_rank": null,
+      "elo_rank_hard": null,
+      "elo_rank_clay": null,
+      "elo_rank_grass": null
+    },
+    {
+      "id": "O0A2",
+      "name": "Gauthier Onclin",
+      "rank": 178,
+      "age": 25,
+      "elo_rank": 1464,
+      "elo_rank_hard": 1439,
+      "elo_rank_clay": 1442,
+      "elo_rank_grass": 1453
+    },
+    {
+      "id": "P0HW",
+      "name": "Dino Prizmic",
+      "rank": 95,
+      "age": 21,
+      "elo_rank": 1800,
+      "elo_rank_hard": 1713,
+      "elo_rank_clay": 1777,
+      "elo_rank_grass": 1599
+    },
+    {
+      "id": "PL56",
+      "name": "Tommy Paul",
+      "rank": 15,
+      "age": 29,
+      "elo_rank": 1948,
+      "elo_rank_hard": 1886,
+      "elo_rank_clay": 1885,
+      "elo_rank_grass": 1797
+    },
+    {
+      "id": "RE44",
+      "name": "Andrey Rublev",
+      "rank": 22,
+      "age": 28,
+      "elo_rank": 1880,
+      "elo_rank_hard": 1829,
+      "elo_rank_clay": 1871,
+      "elo_rank_grass": 1755
+    },
+    {
+      "id": "SL28",
+      "name": "Jan-Lennard Struff",
+      "rank": 58,
+      "age": 36,
+      "elo_rank": 1745,
+      "elo_rank_hard": 1667,
+      "elo_rank_clay": 1687,
+      "elo_rank_grass": 1692
+    },
+    {
+      "id": "TE51",
+      "name": "Stefanos Tsitsipas",
+      "rank": 39,
+      "age": 28,
+      "elo_rank": 1902,
+      "elo_rank_hard": 1855,
+      "elo_rank_clay": 1898,
+      "elo_rank_grass": 1712
+    },
+    {
+      "id": "W367",
+      "name": "Stan Wawrinka",
+      "rank": 140,
+      "age": 41,
+      "elo_rank": 1651,
+      "elo_rank_hard": 1638,
+      "elo_rank_clay": 1592,
+      "elo_rank_grass": 1569
+    }
+  ]
+}

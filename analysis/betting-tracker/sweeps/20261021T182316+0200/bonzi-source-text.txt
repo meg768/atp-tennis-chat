@@ -1,0 +1,125 @@
+
+ 
+   
+     
+     Tennis. ATP - Lyon - Benjamin Bonzi : «Je n'étais pas sûr de rentrer sur le court» - TennisActu 
+	      
+	 
+     
+     
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "ATP - Lyon: Benjamin Bonzi : «Je n'étais pas sûr de rentrer sur le court» ",
+        "datePublished": "2026-10-20CEST21:46",
+		"dateModified": "2026-10-20CEST19:46",
+         "image": [
+          "https://www.tennisactu.net/photo/news/images/BONZI%20Benjamin/%40PhotoginieVirginieBouyer%20Bnzi20262tus.jpeg"
+        ], 		"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https://www.tennisactu.net/news-atp-lyon-benjamin-bonzi-je-n-etais-pas-sur-de-rentrer-sur-le-court-127731.html"
+      },
+		"author": { "@type": "Person", "name": "Sebastien CLAUDE" },
+		"publisher": {
+       "@type": "Organization",
+       "name": "Tennis Actu",
+       "url": "https://www.tennisactu.net",
+       "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.tennisactu.net/images/logo_tennisactu_small2.png"
+       }
+    },
+    "keywords":"Tennis, ATP, WTA, ITF, Sport"
+      }
+     
+     body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}} body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none} 
+     
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+	body {background-color: #f1f1f1;font-size:1rem;font-family:"Roboto",sans-serif;}
+	header {background-color: white;float:left;width:100%;text-align:center;border-bottom:2px solid #c8c8c8;float:left;clear:both;}
+	#container {padding-left:5px;background-color: white;width:100%;max-width:40rem;margin:10px auto;clear:both;overflow:hidden;}
+	.categorie {color:white;background-color:#005454; padding:5px;font-size:0.7rem;border-radius: 6px 6px 6px 6px;}
+	amp-img {background-color:white;margin:6px 0px;}
+	h1 {font-family: "Roboto Condensed",sans-serif;font-size:1.5rem;margin:10px 0px;}
+	h2 {font-family: "Roboto Condensed",sans-serif;font-size:1.2rem;margin:6px 0px;}
+	.pubdate{text-align:left;color:grey;font-size:0.7rem;text-transform:uppercase;margin-bottom:10px;display:inline-block;}
+	article {padding:5px 5px;}
+	.source {text-align:center;color:grey;font-size:0.8em;font-style:italic;padding:0px 5px 15px 5px;}
+	#contenuArticle {padding:0px 10px;font-size:0.9rem;text-align: justify;}
+	.contenu2 {background-color: #f1f1f1;padding:5px;}
+	blockquote {display:block;}
+	p {color:#4b4b4b;line-height:1.4rem;}
+	a, a:visited {color:#51a3ff;}
+	.bannercontainer_s {width:50%;min-height:145px;border:1px solid black;font-family:'Open Sans',sans-serif;font-size:0.8em;}
+	.une_c {bottom:0;left:0;}
+	.caption_cate {float:left;color:white; padding:2px 5px; background-color:#005454; }
+ 
+   
+   
+   
+ 
+ 
+{
+    "vars": {
+                "GA4_MEASUREMENT_ID": "G-1V5R9ZMEMS",
+                "GA4_ENDPOINT_HOSTNAME": "www.google-analytics.com",
+                "DEFAULT_PAGEVIEW_ENABLED": false,    
+                "GOOGLE_CONSENT_ENABLED": true,
+                "WEBVITALS_TRACKING": true,
+                "PERFORMANCE_TIMING_TRACKING": true,
+                "SEND_DOUBLECLICK_BEACON": false
+    }
+}
+ 
+  
+ 
+   
+  {   "consentStringType": "TCF V2" , "postPromptUI": "fcConsentRevocation", "clientConfig": { "publisherIdentifier": "pub-2908504529538871" } }
+   
+ 
+
+	 + A LA UNE   
+	 
+		 
+			 Benjamin Bonzi : "Je n'étais pas sûr de rentrer sur le court" 
+			 ATP - Lyon   Mis à jour le  20/10/2026 à 19:46  par  Sebastien CLAUDE 
+			   			
+			 Benjamin Bonzi  a fêté son retour sur le circuit principal avec un succès. Ce mardi 20 octobre, le Français a pris le meilleur sur  Cameron Norrie , au premier tour de  l'ATP 250 de Lyon , s'imposant 6-3, 3-6, 6-3 pour rejoindre le deuxième tour. C'est désormais une adversité tout autre qui attend le Nîmois, qui tentera désormais de se défaire de  Tommy Paul  pour rejoindre les quarts de finale.  Bonzi  a toutefois concédé ne pas être en capacité de pleinement défendre ses chances ce mardi, comme il l'a expliqué auprès de  L'Équipe .  
+ 
+ No place like home ???  Bonzi comes through a tough match vs Norrie, 6-3 3-6 6-3  #GrandPrixAuvergneRhoneAlpes https://t.co/gVKooAzxkl 
+— Tennis TV (@TennisTV)  October 20, 2026 
+
+   
+ Retrouvez ICI le tableau complet de l'ATP 250 de Lyon 
+   
+ "Il y a des pépins par-ci, par-là" 
+ "C'est une très belle victoire, surtout dans les conditions du jour. J'étais malade depuis deux jours, j'avais un peu le bide en vrac, et je n'étais pas sûr de rentrer sur le court. On a pris la décision de tenter le coup à fond parce que j'avais des très bonnes sensations de jeu. C'est la fin de saison. Tout le monde est touché, tout le monde est fatigué. Il y a des petits pépins par-ci, par-là chez tous les joueurs. Je prends les matches les uns après les autres." 
+			 Publié le  20/10/2026 à 21:46  par  Sebastien CLAUDE 		 
+		 
+		 
+			 
+			 
+			 
+			 
+            Vous avez aimé cet article, partagez le !  
+		    
+		     
+		 
+		     
+		     
+			 A la Une 
+	 Manage Privacy Options 
+	 
+   

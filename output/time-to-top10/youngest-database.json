@@ -1,0 +1,92 @@
+[
+  {
+    "id": "K023",
+    "name": "Aaron Krickstein",
+    "country": "USA",
+    "birthdate": "1967-08-02",
+    "first_top10": "1984-08-20",
+    "age_days": 6228,
+    "age": "17 år 0 mån 18 dagar"
+  },
+  {
+    "id": "C274",
+    "name": "Michael Chang",
+    "country": "USA",
+    "birthdate": "1972-02-22",
+    "first_top10": "1989-06-26",
+    "age_days": 6334,
+    "age": "17 år 4 mån 4 dagar"
+  },
+  {
+    "id": "B028",
+    "name": "Boris Becker",
+    "country": "GER",
+    "birthdate": "1967-11-22",
+    "first_top10": "1985-07-22",
+    "age_days": 6452,
+    "age": "17 år 8 mån 0 dagar"
+  },
+  {
+    "id": "W023",
+    "name": "Mats Wilander",
+    "country": "SWE",
+    "birthdate": "1964-08-22",
+    "first_top10": "1982-07-12",
+    "age_days": 6533,
+    "age": "17 år 10 mån 20 dagar"
+  },
+  {
+    "id": "B058",
+    "name": "Bjorn Borg",
+    "country": "SWE",
+    "birthdate": "1956-06-06",
+    "first_top10": "1974-06-03",
+    "age_days": 6571,
+    "age": "17 år 11 mån 28 dagar"
+  },
+  {
+    "id": "A092",
+    "name": "Andre Agassi",
+    "country": "USA",
+    "birthdate": "1970-04-29",
+    "first_top10": "1988-07-04",
+    "age_days": 6641,
+    "age": "18 år 2 mån 5 dagar"
+  },
+  {
+    "id": "M475",
+    "name": "Andrei Medvedev",
+    "country": "UKR",
+    "birthdate": "1974-08-31",
+    "first_top10": "1993-06-07",
+    "age_days": 6855,
+    "age": "18 år 9 mån 7 dagar"
+  },
+  {
+    "id": "N409",
+    "name": "Rafael Nadal",
+    "country": "ESP",
+    "birthdate": "1986-06-03",
+    "first_top10": "2005-05-02",
+    "age_days": 6908,
+    "age": "18 år 10 mån 29 dagar"
+  },
+  {
+    "id": "A0E2",
+    "name": "Carlos Alcaraz",
+    "country": "ESP",
+    "birthdate": "2003-05-05",
+    "first_top10": "2022-05-02",
+    "age_days": 6937,
+    "age": "18 år 11 mån 27 dagar"
+  },
+  {
+    "id": "I034",
+    "name": "Goran Ivanisevic",
+    "country": "CRO",
+    "birthdate": "1971-09-13",
+    "first_top10": "1990-09-24",
+    "age_days": 6951,
+    "age": "19 år 0 mån 11 dagar"
+  }
+]

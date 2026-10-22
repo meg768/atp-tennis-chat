@@ -1,0 +1,275 @@
+{
+  "retrieved": "2026-10-21T17:53:15.532763+02:00",
+  "routine_metadata": [
+    {
+      "ROUTINE_NAME": "PLAYER_ODDS",
+      "ROUTINE_TYPE": "PROCEDURE",
+      "LAST_ALTERED": "2026-07-14 22:08:13"
+    },
+    {
+      "ROUTINE_NAME": "WIN_PROBABILITY_TA",
+      "ROUTINE_TYPE": "FUNCTION",
+      "LAST_ALTERED": "2026-07-14 22:03:27"
+    }
+  ],
+  "elo_columns": [
+    {
+      "COLUMN_NAME": "elo_rank",
+      "COLUMN_TYPE": "int(11)"
+    },
+    {
+      "COLUMN_NAME": "elo_rank_hard",
+      "COLUMN_TYPE": "int(11)"
+    },
+    {
+      "COLUMN_NAME": "elo_rank_clay",
+      "COLUMN_TYPE": "int(11)"
+    },
+    {
+      "COLUMN_NAME": "elo_rank_grass",
+      "COLUMN_TYPE": "int(11)"
+    }
+  ],
+  "players": [
+    {
+      "id": "C0BH",
+      "name": "Clement Chidekh",
+      "elo_rank": 1627,
+      "elo_rank_hard": 1616,
+      "elo_rank_clay": 1420,
+      "elo_rank_grass": 1548
+    },
+    {
+      "id": "F0BY",
+      "name": "Jacob Fearnley",
+      "elo_rank": 1728,
+      "elo_rank_hard": 1676,
+      "elo_rank_clay": 1662,
+      "elo_rank_grass": 1680
+    },
+    {
+      "id": "O0A2",
+      "name": "Gauthier Onclin",
+      "elo_rank": 1464,
+      "elo_rank_hard": 1439,
+      "elo_rank_clay": 1442,
+      "elo_rank_grass": 1453
+    },
+    {
+      "id": "SL28",
+      "name": "Jan-Lennard Struff",
+      "elo_rank": 1745,
+      "elo_rank_hard": 1667,
+      "elo_rank_clay": 1687,
+      "elo_rank_grass": 1692
+    }
+  ],
+  "checks": [
+    {
+      "a": "F0BY",
+      "b": "C0BH",
+      "surface": "Hard",
+      "probabilities": {
+        "p_a": 0.5854986786718095,
+        "p_b": 0.4145013213281905
+      },
+      "sum_p": 1.0,
+      "fair_odds": [
+        1.707945784384138,
+        2.4125375446227544
+      ],
+      "unrounded_priced_odds": [
+        1.626615032746798,
+        2.297654804402623
+      ],
+      "calculated": [
+        1.63,
+        2.3
+      ],
+      "PLAYER_ODDS": [
+        {
+          "player": "F0BY",
+          "name": "Jacob Fearnley",
+          "TA": 1.63,
+          "GPT": 1.61
+        },
+        {
+          "player": "C0BH",
+          "name": "Clement Chidekh",
+          "TA": 2.3,
+          "GPT": 2.33
+        }
+      ],
+      "matches": true,
+      "displayed_overround_pct": 4.827954121098976
+    },
+    {
+      "a": "SL28",
+      "b": "O0A2",
+      "surface": "Hard",
+      "probabilities": {
+        "p_a": 0.7879267680774021,
+        "p_b": 0.2120732319225979
+      },
+      "sum_p": 1.0,
+      "fair_odds": [
+        1.2691534803926916,
+        4.715352290971725
+      ],
+      "unrounded_priced_odds": [
+        1.208717600373992,
+        4.490811705687357
+      ],
+      "calculated": [
+        1.21,
+        4.49
+      ],
+      "PLAYER_ODDS": [
+        {
+          "player": "SL28",
+          "name": "Jan-Lennard Struff",
+          "TA": 1.21,
+          "GPT": 1.29
+        },
+        {
+          "player": "O0A2",
+          "name": "Gauthier Onclin",
+          "TA": 4.49,
+          "GPT": 3.67
+        }
+      ],
+      "matches": true,
+      "displayed_overround_pct": 4.916343021222547
+    },
+    {
+      "a": "F0BY",
+      "b": "C0BH",
+      "surface": null,
+      "probabilities": {
+        "p_a": 0.641390111955618,
+        "p_b": 0.35860988804438204
+      },
+      "sum_p": 1.0,
+      "fair_odds": [
+        1.5591135275705599,
+        2.7885455291077714
+      ],
+      "unrounded_priced_odds": [
+        1.4848700262576762,
+        2.655757646769306
+      ],
+      "calculated": [
+        1.48,
+        2.66
+      ],
+      "PLAYER_ODDS": [
+        {
+          "player": "F0BY",
+          "name": "Jacob Fearnley",
+          "TA": 1.48,
+          "GPT": 1.48
+        },
+        {
+          "player": "C0BH",
+          "name": "Clement Chidekh",
+          "TA": 2.66,
+          "GPT": 2.66
+        }
+      ],
+      "matches": true,
+      "displayed_overround_pct": 5.161552529973568
+    },
+    {
+      "a": "F0BY",
+      "b": "C0BH",
+      "surface": "Clay",
+      "probabilities": {
+        "p_a": 0.8010809398289457,
+        "p_b": 0.19891906017105437
+      },
+      "sum_p": 1.0,
+      "fair_odds": [
+        1.248313310529557,
+        5.027170343254591
+      ],
+      "unrounded_priced_odds": [
+        1.188869819551959,
+        4.787781279290086
+      ],
+      "calculated": [
+        1.19,
+        4.79
+      ],
+      "PLAYER_ODDS": [
+        {
+          "player": "F0BY",
+          "name": "Jacob Fearnley",
+          "TA": 1.19,
+          "GPT": 1.43
+        },
+        {
+          "player": "C0BH",
+          "name": "Clement Chidekh",
+          "TA": 4.79,
+          "GPT": 2.85
+        }
+      ],
+      "matches": true,
+      "displayed_overround_pct": 4.910440167716357
+    }
+  ],
+  "synthetic_pricing_examples": [
+    {
+      "p_a": 0.5,
+      "priced_probabilities": [
+        0.525,
+        0.525
+      ],
+      "odds": [
+        1.9,
+        1.9
+      ],
+      "overround_before_rounding_pct": 5.000000000000004,
+      "displayed_overround_pct": 5.263157894736836
+    },
+    {
+      "p_a": 0.6,
+      "priced_probabilities": [
+        0.63,
+        0.42000000000000004
+      ],
+      "odds": [
+        1.59,
+        2.38
+      ],
+      "overround_before_rounding_pct": 5.000000000000004,
+      "displayed_overround_pct": 4.909888483695357
+    },
+    {
+      "p_a": 0.96,
+      "priced_probabilities": [
+        0.999,
+        0.04200000000000004
+      ],
+      "odds": [
+        1.0,
+        23.81
+      ],
+      "overround_before_rounding_pct": 4.0999999999999925,
+      "displayed_overround_pct": 4.199916001679971
+    },
+    {
+      "p_a": 0.9999,
+      "priced_probabilities": [
+        0.999,
+        0.001
+      ],
+      "odds": [
+        1.0,
+        1000.0
+      ],
+      "overround_before_rounding_pct": 0.0,
+      "displayed_overround_pct": 0.09999999999998899
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "snapshot": "2026-10-20",
+  "method": "Proportional multiplication of both TA probabilities by the sum of inverse Svenska Spel odds. Matches total observed overround; does not establish Svenska Spel internal pricing or margin allocation.",
+  "rows": [
+    {
+      "player": "Francisco Cerundolo",
+      "opponent": "Martin Damm",
+      "svenska_spel": 1.53,
+      "opponent_odds": 2.5,
+      "overround_pct": 5.35947712418301,
+      "ta_probability": 0.7639246991448386,
+      "ta_with_same_overround": 1.2424411917956446,
+      "opponent_ta_same_overround": 4.020460887731583,
+      "gap_pct": 23.144661502148
+    },
+    {
+      "player": "Luciano Darderi",
+      "opponent": "James Duckworth",
+      "svenska_spel": 1.78,
+      "opponent_odds": 2.02,
+      "overround_pct": 5.684725775948385,
+      "ta_probability": 0.6387377491117248,
+      "ta_with_same_overround": 1.4813756156288849,
+      "opponent_ta_same_overround": 2.619179070022505,
+      "gap_pct": 20.1585864665621
+    },
+    {
+      "player": "Jacob Fearnley",
+      "opponent": "Clement Chidekh",
+      "svenska_spel": 1.91,
+      "opponent_odds": 1.89,
+      "overround_pct": 5.266073852461295,
+      "ta_probability": 0.5854986786718095,
+      "ta_with_same_overround": 1.6225035492232367,
+      "opponent_ta_same_overround": 2.2918471795614948,
+      "gap_pct": 17.719311055707742
+    }
+  ]
+}

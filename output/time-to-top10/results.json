@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "K293",
+    "name": "Gustavo Kuerten",
+    "debut": "1996-04-29",
+    "top10": "1997-08-04",
+    "days": 462
+  },
+  {
+    "id": "K023",
+    "name": "Aaron Krickstein",
+    "debut": "1983-01-31",
+    "top10": "1984-08-20",
+    "days": 567
+  },
+  {
+    "id": "M605",
+    "name": "Carlos Moya",
+    "debut": "1995-06-12",
+    "top10": "1997-02-10",
+    "days": 609
+  },
+  {
+    "id": "B028",
+    "name": "Boris Becker",
+    "debut": "1983-10-24",
+    "top10": "1985-07-22",
+    "days": 637
+  },
+  {
+    "id": "M052",
+    "name": "Miloslav Mecir Sr.",
+    "debut": "1983-09-19",
+    "top10": "1985-06-24",
+    "days": 644
+  },
+  {
+    "id": "C274",
+    "name": "Michael Chang",
+    "debut": "1987-08-24",
+    "top10": "1989-06-26",
+    "days": 672
+  },
+  {
+    "id": "R0DG",
+    "name": "Holger Rune",
+    "debut": "2021-03-01",
+    "top10": "2023-01-16",
+    "days": 686
+  },
+  {
+    "id": "K214",
+    "name": "Richard Krajicek",
+    "debut": "1991-01-07",
+    "top10": "1992-12-07",
+    "days": 700
+  },
+  {
+    "id": "B837",
+    "name": "Marcos Baghdatis",
+    "debut": "2004-08-30",
+    "top10": "2006-08-07",
+    "days": 707
+  },
+  {
+    "id": "W023",
+    "name": "Mats Wilander",
+    "debut": "1980-07-14",
+    "top10": "1982-07-12",
+    "days": 728
+  },
+  {
+    "id": "TE51",
+    "name": "Stefanos Tsitsipas",
+    "debut": "2017-02-13",
+    "top10": "2019-03-04",
+    "days": 749
+  },
+  {
+    "id": "MC10",
+    "name": "Andy Murray",
+    "debut": "2005-04-18",
+    "top10": "2007-05-07",
+    "days": 749
+  },
+  {
+    "id": "F316",
+    "name": "Juan Carlos Ferrero",
+    "debut": "1999-03-22",
+    "top10": "2001-04-16",
+    "days": 756
+  },
+  {
+    "id": "M047",
+    "name": "John McEnroe",
+    "debut": "1976-08-23",
+    "top10": "1978-10-02",
+    "days": 770
+  },
+  {
+    "id": "R286",
+    "name": "Marcelo Rios",
+    "debut": "1994-04-04",
+    "top10": "1996-05-13",
+    "days": 770
+  },
+  {
+    "id": "S351",
+    "name": "Michael Stich",
+    "debut": "1989-05-01",
+    "top10": "1991-06-10",
+    "days": 770
+  },
+  {
+    "id": "L018",
+    "name": "Ivan Lendl",
+    "debut": "1978-05-29",
+    "top10": "1980-07-21",
+    "days": 784
+  },
+  {
+    "id": "M372",
+    "name": "Alberto Mancini",
+    "debut": "1987-05-11",
+    "top10": "1989-07-10",
+    "days": 791
+  },
+  {
+    "id": "P024",
+    "name": "Mikael Pernfors",
+    "debut": "1984-07-16",
+    "top10": "1986-09-22",
+    "days": 798
+  },
+  {
+    "id": "A0E2",
+    "name": "Carlos Alcaraz",
+    "debut": "2020-02-17",
+    "top10": "2022-05-02",
+    "days": 805
+  },
+  {
+    "id": "I034",
+    "name": "Goran Ivanisevic",
+    "debut": "1988-06-20",
+    "top10": "1990-09-24",
+    "days": 826
+  },
+  {
+    "id": "F196",
+    "name": "Wayne Ferreira",
+    "debut": "1990-06-11",
+    "top10": "1992-10-05",
+    "days": 847
+  },
+  {
+    "id": "B428",
+    "name": "Alberto Berasategui",
+    "debut": "1992-03-16",
+    "top10": "1994-07-25",
+    "days": 861
+  },
+  {
+    "id": "A092",
+    "name": "Andre Agassi",
+    "debut": "1986-02-24",
+    "top10": "1988-07-04",
+    "days": 861
+  },
+  {
+    "id": "R485",
+    "name": "Andy Roddick",
+    "debut": "2000-02-28",
+    "top10": "2002-08-05",
+    "days": 889
+  },
+  {
+    "id": "BK40",
+    "name": "Matteo Berrettini",
+    "debut": "2017-05-15",
+    "top10": "2019-10-28",
+    "days": 896
+  },
+  {
+    "id": "E004",
+    "name": "Stefan Edberg",
+    "debut": "1982-09-20",
+    "top10": "1985-03-11",
+    "days": 903
+  },
+  {
+    "id": "K267",
+    "name": "Yevgeny Kafelnikov",
+    "debut": "1992-07-27",
+    "top10": "1995-02-06",
+    "days": 924
+  },
+  {
+    "id": "S0AG",
+    "name": "Jannik Sinner",
+    "debut": "2019-04-22",
+    "top10": "2021-11-01",
+    "days": 924
+  },
+  {
+    "id": "M475",
+    "name": "Andrei Medvedev",
+    "debut": "1990-11-05",
+    "top10": "1993-06-07",
+    "days": 945
+  },
+  {
+    "id": "B058",
+    "name": "Bjorn Borg",
+    "debut": "1971-10-30",
+    "top10": "1974-06-03",
+    "days": 947
+  },
+  {
+    "id": "S741",
+    "name": "Marat Safin",
+    "debut": "1997-11-03",
+    "top10": "2000-06-12",
+    "days": 952
+  },
+  {
+    "id": "B350",
+    "name": "Sergi Bruguera",
+    "debut": "1988-09-12",
+    "top10": "1991-04-29",
+    "days": 959
+  },
+  {
+    "id": "S402",
+    "name": "Pete Sampras",
+    "debut": "1988-02-22",
+    "top10": "1990-10-22",
+    "days": 973
+  },
+  {
+    "id": "D643",
+    "name": "Novak Djokovic",
+    "debut": "2004-07-19",
+    "top10": "2007-03-19",
+    "days": 973
+  },
+  {
+    "id": "D683",
+    "name": "Juan Martin del Potro",
+    "debut": "2006-01-30",
+    "top10": "2008-10-06",
+    "days": 980
+  },
+  {
+    "id": "S0S1",
+    "name": "Ben Shelton",
+    "debut": "2022-07-25",
+    "top10": "2025-06-16",
+    "days": 1057
+  },
+  {
+    "id": "N301",
+    "name": "David Nalbandian",
+    "debut": "2000-03-20",
+    "top10": "2003-02-17",
+    "days": 1064
+  },
+  {
+    "id": "S097",
+    "name": "Henrik Sundstrom",
+    "debut": "1981-07-20",
+    "top10": "1984-06-25",
+    "days": 1071
+  },
+  {
+    "id": "N409",
+    "name": "Rafael Nadal",
+    "debut": "2002-04-29",
+    "top10": "2005-05-02",
+    "days": 1099
+  },
+  {
+    "id": "A007",
+    "name": "Juan Aguilera",
+    "debut": "1981-07-13",
+    "top10": "1984-08-06",
+    "days": 1120
+  },
+  {
+    "id": "C524",
+    "name": "Guillermo Coria",
+    "debut": "2000-05-01",
+    "top10": "2003-05-26",
+    "days": 1120
+  },
+  {
+    "id": "BA47",
+    "name": "Tomas Berdych",
+    "debut": "2003-08-25",
+    "top10": "2006-10-30",
+    "days": 1162
+  },
+  {
+    "id": "MM58",
+    "name": "Daniil Medvedev",
+    "debut": "2016-05-16",
+    "top10": "2019-07-29",
+    "days": 1169
+  },
+  {
+    "id": "F020",
+    "name": "Wojtek Fibak",
+    "debut": "1974-04-01",
+    "top10": "1977-07-25",
+    "days": 1211
+  },
+  {
+    "id": "H432",
+    "name": "Lleyton Hewitt",
+    "debut": "1997-01-13",
+    "top10": "2000-05-15",
+    "days": 1218
+  },
+  {
+    "id": "A031",
+    "name": "Jimmy Arias",
+    "debut": "1980-03-31",
+    "top10": "1983-08-29",
+    "days": 1246
+  },
+  {
+    "id": "C039",
+    "name": "Jose-Luis Clerc",
+    "debut": "1977-03-07",
+    "top10": "1980-08-25",
+    "days": 1267
+  },
+  {
+    "id": "HB71",
+    "name": "Hubert Hurkacz",
+    "debut": "2018-04-23",
+    "top10": "2021-10-25",
+    "days": 1281
+  },
+  {
+    "id": "M442",
+    "name": "Todd Martin",
+    "debut": "1990-07-09",
+    "top10": "1994-02-07",
+    "days": 1309
+  },
+  {
+    "id": "C023",
+    "name": "Pat Cash",
+    "debut": "1981-01-05",
+    "top10": "1984-09-10",
+    "days": 1344
+  },
+  {
+    "id": "C179",
+    "name": "Carlos Costa",
+    "debut": "1988-09-12",
+    "top10": "1992-05-25",
+    "days": 1351
+  },
+  {
+    "id": "C243",
+    "name": "Jim Courier",
+    "debut": "1987-07-06",
+    "top10": "1991-04-08",
+    "days": 1372
+  },
+  {
+    "id": "J006",
+    "name": "Anders Jarryd",
+    "debut": "1980-10-06",
+    "top10": "1984-07-16",
+    "days": 1379
+  },
+  {
+    "id": "F401",
+    "name": "David Ferrer",
+    "debut": "2002-04-08",
+    "top10": "2006-01-30",
+    "days": 1393
+  },
+  {
+    "id": "C019",
+    "name": "Kent Carlsson",
+    "debut": "1983-09-19",
+    "top10": "1987-07-27",
+    "days": 1407
+  },
+  {
+    "id": "Z355",
+    "name": "Alexander Zverev",
+    "debut": "2013-07-15",
+    "top10": "2017-05-29",
+    "days": 1414
+  },
+  {
+    "id": "F324",
+    "name": "Roger Federer",
+    "debut": "1998-07-06",
+    "top10": "2002-05-27",
+    "days": 1421
+  },
+  {
+    "id": "F0F1",
+    "name": "Arthur Fils",
+    "debut": "2022-10-31",
+    "top10": "2026-09-28",
+    "days": 1428
+  },
+  {
+    "id": "AG37",
+    "name": "Felix Auger-Aliassime",
+    "debut": "2018-02-12",
+    "top10": "2022-01-17",
+    "days": 1435
+  },
+  {
+    "id": "D0CO",
+    "name": "Jack Draper",
+    "debut": "2021-03-22",
+    "top10": "2025-03-17",
+    "days": 1456
+  },
+  {
+    "id": "R975",
+    "name": "Milos Raonic",
+    "debut": "2009-08-10",
+    "top10": "2013-08-12",
+    "days": 1463
+  },
+  {
+    "id": "C044",
+    "name": "Jimmy Connors",
+    "debut": "1969-08-16",
+    "top10": "1973-08-23",
+    "days": 1468
+  },
+  {
+    "id": "N030",
+    "name": "Joakim Nystrom",
+    "debut": "1980-10-06",
+    "top10": "1984-10-15",
+    "days": 1470
+  },
+  {
+    "id": "SD32",
+    "name": "Gilles Simon",
+    "debut": "2004-10-11",
+    "top10": "2008-10-20",
+    "days": 1470
+  },
+  {
+    "id": "C378",
+    "name": "Albert Costa",
+    "debut": "1993-04-05",
+    "top10": "1997-04-21",
+    "days": 1477
+  },
+  {
+    "id": "T012",
+    "name": "Eliot Teltscher",
+    "debut": "1976-09-27",
+    "top10": "1980-10-20",
+    "days": 1484
+  },
+  {
+    "id": "L290",
+    "name": "Nicolas Lapentti",
+    "debut": "1995-09-11",
+    "top10": "1999-11-08",
+    "days": 1519
+  },
+  {
+    "id": "T786",
+    "name": "Jo-Wilfried Tsonga",
+    "debut": "2004-09-13",
+    "top10": "2008-11-10",
+    "days": 1519
+  },
+  {
+    "id": "A385",
+    "name": "Mario Ancic",
+    "debut": "2002-03-18",
+    "top10": "2006-06-26",
+    "days": 1561
+  },
+  {
+    "id": "G379",
+    "name": "Sebastien Grosjean",
+    "debut": "1997-02-10",
+    "top10": "2001-05-28",
+    "days": 1568
+  },
+  {
+    "id": "B281",
+    "name": "Jay Berger",
+    "debut": "1985-07-08",
+    "top10": "1989-10-23",
+    "days": 1568
+  },
+  {
+    "id": "K022",
+    "name": "Johan Kriek",
+    "debut": "1977-10-24",
+    "top10": "1982-02-22",
+    "days": 1582
+  },
+  {
+    "id": "MC65",
+    "name": "Gael Monfils",
+    "debut": "2004-10-11",
+    "top10": "2009-02-23",
+    "days": 1596
+  },
+  {
+    "id": "H336",
+    "name": "Tim Henman",
+    "debut": "1994-04-04",
+    "top10": "1998-08-17",
+    "days": 1596
+  },
+  {
+    "id": "P226",
+    "name": "Cedric Pioline",
+    "debut": "1989-04-17",
+    "top10": "1993-10-18",
+    "days": 1645
+  },
+  {
+    "id": "C977",
+    "name": "Marin Cilic",
+    "debut": "2005-07-25",
+    "top10": "2010-02-01",
+    "days": 1652
+  },
+  {
+    "id": "J194",
+    "name": "Joachim Johansson",
+    "debut": "2000-07-10",
+    "top10": "2005-02-14",
+    "days": 1680
+  },
+  {
+    "id": "I186",
+    "name": "John Isner",
+    "debut": "2007-07-09",
+    "top10": "2012-03-19",
+    "days": 1715
+  },
+  {
+    "id": "G182",
+    "name": "Magnus Gustafsson",
+    "debut": "1986-10-20",
+    "top10": "1991-07-29",
+    "days": 1743
+  },
+  {
+    "id": "N771",
+    "name": "Cameron Norrie",
+    "debut": "2017-06-19",
+    "top10": "2022-04-11",
+    "days": 1757
+  },
+  {
+    "id": "TB69",
+    "name": "Dominic Thiem",
+    "debut": "2011-08-01",
+    "top10": "2016-06-06",
+    "days": 1771
+  },
+  {
+    "id": "W367",
+    "name": "Stan Wawrinka",
+    "debut": "2003-07-07",
+    "top10": "2008-05-12",
+    "days": 1771
+  },
+  {
+    "id": "G023",
+    "name": "Andres Gomez",
+    "debut": "1979-05-21",
+    "top10": "1984-03-26",
+    "days": 1771
+  },
+  {
+    "id": "D402",
+    "name": "Nikolay Davydenko",
+    "debut": "2000-07-17",
+    "top10": "2005-06-20",
+    "days": 1799
+  },
+  {
+    "id": "C057",
+    "name": "Kevin Curren",
+    "debut": "1978-08-28",
+    "top10": "1983-08-15",
+    "days": 1813
+  },
+  {
+    "id": "SU55",
+    "name": "Denis Shapovalov",
+    "debut": "2016-07-18",
+    "top10": "2021-07-19",
+    "days": 1827
+  },
+  {
+    "id": "C031",
+    "name": "Andrei Chesnokov",
+    "debut": "1985-05-27",
+    "top10": "1990-05-28",
+    "days": 1827
+  },
+  {
+    "id": "RH16",
+    "name": "Casper Ruud",
+    "debut": "2016-09-26",
+    "top10": "2021-09-27",
+    "days": 1827
+  },
+  {
+    "id": "K316",
+    "name": "Nicolas Kiefer",
+    "debut": "1994-10-10",
+    "top10": "1999-10-25",
+    "days": 1841
+  },
+  {
+    "id": "C0E9",
+    "name": "Flavio Cobolli",
+    "debut": "2021-05-24",
+    "top10": "2026-06-15",
+    "days": 1848
+  },
+  {
+    "id": "C344",
+    "name": "Alex Corretja",
+    "debut": "1992-04-06",
+    "top10": "1997-05-26",
+    "days": 1876
+  },
+  {
+    "id": "G016",
+    "name": "Brad Gilbert",
+    "debut": "1981-01-19",
+    "top10": "1986-03-24",
+    "days": 1890
+  },
+  {
+    "id": "H355",
+    "name": "Tommy Haas",
+    "debut": "1996-08-12",
+    "top10": "2001-10-22",
+    "days": 1897
+  },
+  {
+    "id": "M0EJ",
+    "name": "Lorenzo Musetti",
+    "debut": "2020-02-24",
+    "top10": "2025-05-05",
+    "days": 1897
+  },
+  {
+    "id": "P338",
+    "name": "Mark Philippoussis",
+    "debut": "1994-01-17",
+    "top10": "1999-04-12",
+    "days": 1911
+  },
+  {
+    "id": "G628",
+    "name": "Richard Gasquet",
+    "debut": "2002-04-15",
+    "top10": "2007-07-09",
+    "days": 1911
+  },
+  {
+    "id": "N022",
+    "name": "Yannick Noah",
+    "debut": "1977-05-23",
+    "top10": "1982-08-30",
+    "days": 1925
+  },
+  {
+    "id": "P059",
+    "name": "Adriano Panatta",
+    "debut": "1968-05-06",
+    "top10": "1973-08-23",
+    "days": 1935
+  },
+  {
+    "id": "G374",
+    "name": "Gaston Gaudio",
+    "debut": "1999-03-22",
+    "top10": "2004-07-26",
+    "days": 1953
+  },
+  {
+    "id": "R075",
+    "name": "Ken Rosewall",
+    "debut": "1968-04-10",
+    "top10": "1973-08-23",
+    "days": 1961
+  },
+  {
+    "id": "N008",
+    "name": "Ilie Nastase",
+    "debut": "1968-03-25",
+    "top10": "1973-08-23",
+    "days": 1977
+  },
+  {
+    "id": "L058",
+    "name": "Rod Laver",
+    "debut": "1968-03-18",
+    "top10": "1973-08-23",
+    "days": 1984
+  },
+  {
+    "id": "R237",
+    "name": "Greg Rusedski",
+    "debut": "1992-04-13",
+    "top10": "1997-09-22",
+    "days": 1988
+  },
+  {
+    "id": "R065",
+    "name": "Raul Ramirez",
+    "debut": "1970-09-21",
+    "top10": "1976-03-22",
+    "days": 2009
+  },
+  {
+    "id": "S060",
+    "name": "Stan Smith",
+    "debut": "1968-02-12",
+    "top10": "1973-08-23",
+    "days": 2019
+  },
+  {
+    "id": "S675",
+    "name": "Paradorn Srichaphan",
+    "debut": "1997-10-06",
+    "top10": "2003-04-21",
+    "days": 2023
+  },
+  {
+    "id": "A063",
+    "name": "Arthur Ashe",
+    "debut": "1968-02-02",
+    "top10": "1973-08-23",
+    "days": 2029
+  },
+  {
+    "id": "N044",
+    "name": "John Newcombe",
+    "debut": "1968-01-20",
+    "top10": "1973-08-23",
+    "days": 2042
+  },
+  {
+    "id": "O017",
+    "name": "Manuel Orantes",
+    "debut": "1968-01-19",
+    "top10": "1973-08-23",
+    "days": 2043
+  },
+  {
+    "id": "K049",
+    "name": "Jan Kodes",
+    "debut": "1968-02-12",
+    "top10": "1973-09-17",
+    "days": 2044
+  },
+  {
+    "id": "O032",
+    "name": "Tom Okker",
+    "debut": "1968-01-01",
+    "top10": "1973-08-23",
+    "days": 2061
+  },
+  {
+    "id": "KE29",
+    "name": "Karen Khachanov",
+    "debut": "2013-09-16",
+    "top10": "2019-06-10",
+    "days": 2093
+  },
+  {
+    "id": "V028",
+    "name": "Guillermo Vilas",
+    "debut": "1968-11-04",
+    "top10": "1974-08-12",
+    "days": 2107
+  },
+  {
+    "id": "G008",
+    "name": "Vitas Gerulaitis",
+    "debut": "1971-09-01",
+    "top10": "1977-06-20",
+    "days": 2119
+  },
+  {
+    "id": "M099",
+    "name": "Thomas Muster",
+    "debut": "1984-07-23",
+    "top10": "1990-05-28",
+    "days": 2135
+  },
+  {
+    "id": "RE44",
+    "name": "Andrey Rublev",
+    "debut": "2014-10-13",
+    "top10": "2020-10-12",
+    "days": 2191
+  },
+  {
+    "id": "R255",
+    "name": "Patrick Rafter",
+    "debut": "1991-09-23",
+    "top10": "1997-09-22",
+    "days": 2191
+  },
+  {
+    "id": "L014",
+    "name": "Henri Leconte",
+    "debut": "1980-05-26",
+    "top10": "1986-05-26",
+    "days": 2191
+  },
+  {
+    "id": "S014",
+    "name": "Emilio Sanchez",
+    "debut": "1984-04-02",
+    "top10": "1990-04-09",
+    "days": 2198
+  },
+  {
+    "id": "T006",
+    "name": "Roscoe Tanner",
+    "debut": "1969-08-16",
+    "top10": "1975-08-25",
+    "days": 2200
+  },
+  {
+    "id": "K148",
+    "name": "Petr Korda",
+    "debut": "1985-10-21",
+    "top10": "1991-11-04",
+    "days": 2205
+  },
+  {
+    "id": "H025",
+    "name": "Jakob Hlasek",
+    "debut": "1982-10-25",
+    "top10": "1988-11-21",
+    "days": 2219
+  },
+  {
+    "id": "D026",
+    "name": "Eddie Dibbs",
+    "debut": "1970-04-06",
+    "top10": "1976-05-17",
+    "days": 2233
+  },
+  {
+    "id": "D875",
+    "name": "Grigor Dimitrov",
+    "debut": "2008-06-16",
+    "top10": "2014-08-04",
+    "days": 2240
+  },
+  {
+    "id": "M271",
+    "name": "Alex Metreveli",
+    "debut": "1968-04-08",
+    "top10": "1974-06-03",
+    "days": 2247
+  },
+  {
+    "id": "G078",
+    "name": "Tom Gorman",
+    "debut": "1968-02-12",
+    "top10": "1974-05-13",
+    "days": 2282
+  },
+  {
+    "id": "GB88",
+    "name": "David Goffin",
+    "debut": "2011-01-03",
+    "top10": "2017-04-24",
+    "days": 2303
+  },
+  {
+    "id": "B446",
+    "name": "Jonas Bjorkman",
+    "debut": "1991-07-08",
+    "top10": "1997-10-27",
+    "days": 2303
+  },
+  {
+    "id": "E113",
+    "name": "Thomas Enqvist",
+    "debut": "1989-05-01",
+    "top10": "1995-08-28",
+    "days": 2310
+  },
+  {
+    "id": "CD85",
+    "name": "Pablo Carreno Busta",
+    "debut": "2011-04-18",
+    "top10": "2017-10-02",
+    "days": 2359
+  },
+  {
+    "id": "M038",
+    "name": "Gene Mayer",
+    "debut": "1973-08-13",
+    "top10": "1980-02-11",
+    "days": 2373
+  },
+  {
+    "id": "T032",
+    "name": "Thierry Tulasne",
+    "debut": "1979-11-26",
+    "top10": "1986-08-04",
+    "days": 2443
+  },
+  {
+    "id": "K237",
+    "name": "Karol Kucera",
+    "debut": "1991-08-05",
+    "top10": "1998-04-27",
+    "days": 2457
+  },
+  {
+    "id": "G415",
+    "name": "Fernando Gonzalez",
+    "debut": "1999-08-16",
+    "top10": "2006-05-08",
+    "days": 2457
+  },
+  {
+    "id": "P015",
+    "name": "Victor Pecci",
+    "debut": "1972-11-27",
+    "top10": "1979-08-27",
+    "days": 2464
+  },
+  {
+    "id": "R214",
+    "name": "Marc Rosset",
+    "debut": "1988-09-19",
+    "top10": "1995-07-10",
+    "days": 2485
+  },
+  {
+    "id": "L206",
+    "name": "Magnus Larsson",
+    "debut": "1988-07-04",
+    "top10": "1995-04-24",
+    "days": 2485
+  },
+  {
+    "id": "G029",
+    "name": "Brian Gottfried",
+    "debut": "1970-04-20",
+    "top10": "1977-02-21",
+    "days": 2499
+  },
+  {
+    "id": "N552",
+    "name": "Kei Nishikori",
+    "debut": "2007-07-16",
+    "top10": "2014-05-26",
+    "days": 2506
+  },
+  {
+    "id": "V306",
+    "name": "Fernando Verdasco",
+    "debut": "2002-04-08",
+    "top10": "2009-03-09",
+    "days": 2527
+  },
+  {
+    "id": "M041",
+    "name": "Tim Mayotte",
+    "debut": "1979-07-30",
+    "top10": "1986-07-21",
+    "days": 2548
+  },
+  {
+    "id": "B007",
+    "name": "Corrado Barazzutti",
+    "debut": "1971-04-12",
+    "top10": "1978-04-17",
+    "days": 2562
+  },
+  {
+    "id": "S065",
+    "name": "Harold Solomon",
+    "debut": "1969-08-16",
+    "top10": "1976-08-23",
+    "days": 2564
+  },
+  {
+    "id": "DH58",
+    "name": "Alex de Minaur",
+    "debut": "2017-01-02",
+    "top10": "2024-01-15",
+    "days": 2569
+  },
+  {
+    "id": "R419",
+    "name": "Tommy Robredo",
+    "debut": "1999-04-12",
+    "top10": "2006-05-08",
+    "days": 2583
+  },
+  {
+    "id": "SM25",
+    "name": "Jack Sock",
+    "debut": "2010-08-30",
+    "top10": "2017-11-13",
+    "days": 2632
+  },
+  {
+    "id": "N250",
+    "name": "Magnus Norman",
+    "debut": "1992-10-26",
+    "top10": "2000-02-07",
+    "days": 2660
+  },
+  {
+    "id": "N025",
+    "name": "Karel Novacek",
+    "debut": "1984-05-14",
+    "top10": "1991-09-09",
+    "days": 2674
+  },
+  {
+    "id": "FB98",
+    "name": "Taylor Fritz",
+    "debut": "2015-06-22",
+    "top10": "2022-10-24",
+    "days": 2681
+  },
+  {
+    "id": "M039",
+    "name": "Sandy Mayer",
+    "debut": "1970-08-17",
+    "top10": "1978-02-13",
+    "days": 2737
+  },
+  {
+    "id": "F030",
+    "name": "Peter Fleming",
+    "debut": "1972-12-04",
+    "top10": "1980-06-09",
+    "days": 2744
+  },
+  {
+    "id": "S101",
+    "name": "Jonas Svensson",
+    "debut": "1983-09-12",
+    "top10": "1991-04-08",
+    "days": 2765
+  },
+  {
+    "id": "A479",
+    "name": "Nicolas Almagro",
+    "debut": "2003-09-22",
+    "top10": "2011-05-02",
+    "days": 2779
+  },
+  {
+    "id": "G858",
+    "name": "Ernests Gulbis",
+    "debut": "2006-10-23",
+    "top10": "2014-06-09",
+    "days": 2786
+  },
+  {
+    "id": "S636",
+    "name": "Rainer Schuettler",
+    "debut": "1995-10-09",
+    "top10": "2003-06-09",
+    "days": 2800
+  },
+  {
+    "id": "SM37",
+    "name": "Diego Schwartzman",
+    "debut": "2013-02-04",
+    "top10": "2020-10-19",
+    "days": 2814
+  },
+  {
+    "id": "B676",
+    "name": "James Blake",
+    "debut": "1998-07-06",
+    "top10": "2006-03-20",
+    "days": 2814
+  },
+  {
+    "id": "P372",
+    "name": "Mariano Puerta",
+    "debut": "1997-11-03",
+    "top10": "2005-07-25",
+    "days": 2821
+  },
+  {
+    "id": "Y061",
+    "name": "Mikhail Youzhny",
+    "debut": "1999-11-08",
+    "top10": "2007-08-13",
+    "days": 2835
+  },
+  {
+    "id": "J004",
+    "name": "Martin Jaite",
+    "debut": "1982-09-13",
+    "top10": "1990-07-09",
+    "days": 2856
+  },
+  {
+    "id": "A014",
+    "name": "John Alexander",
+    "debut": "1968-02-08",
+    "top10": "1976-01-05",
+    "days": 2888
+  },
+  {
+    "id": "S017",
+    "name": "Bill Scanlon",
+    "debut": "1976-02-02",
+    "top10": "1984-01-23",
+    "days": 2912
+  },
+  {
+    "id": "SA49",
+    "name": "Robin Soderling",
+    "debut": "2001-10-22",
+    "top10": "2009-10-19",
+    "days": 2919
+  },
+  {
+    "id": "A678",
+    "name": "Kevin Anderson",
+    "debut": "2007-08-20",
+    "top10": "2015-10-12",
+    "days": 2975
+  },
+  {
+    "id": "J129",
+    "name": "Thomas Johansson",
+    "debut": "1993-10-11",
+    "top10": "2002-02-11",
+    "days": 3045
+  },
+  {
+    "id": "T742",
+    "name": "Janko Tipsarevic",
+    "debut": "2003-07-21",
+    "top10": "2011-11-21",
+    "days": 3045
+  },
+  {
+    "id": "MA21",
+    "name": "Juan Monaco",
+    "debut": "2004-02-16",
+    "top10": "2012-08-06",
+    "days": 3094
+  },
+  {
+    "id": "C433",
+    "name": "Guillermo Canas",
+    "debut": "1996-08-19",
+    "top10": "2005-05-09",
+    "days": 3185
+  },
+  {
+    "id": "F035",
+    "name": "Guy Forget",
+    "debut": "1982-05-17",
+    "top10": "1991-02-18",
+    "days": 3199
+  },
+  {
+    "id": "TD51",
+    "name": "Frances Tiafoe",
+    "debut": "2014-07-28",
+    "top10": "2023-06-19",
+    "days": 3248
+  },
+  {
+    "id": "N254",
+    "name": "Jiri Novak",
+    "debut": "1993-08-02",
+    "top10": "2002-10-14",
+    "days": 3360
+  },
+  {
+    "id": "L360",
+    "name": "Ivan Ljubicic",
+    "debut": "1996-08-12",
+    "top10": "2005-10-31",
+    "days": 3367
+  },
+  {
+    "id": "BK92",
+    "name": "Alexander Bublik",
+    "debut": "2016-09-19",
+    "top10": "2026-01-19",
+    "days": 3409
+  },
+  {
+    "id": "T011",
+    "name": "Brian Teacher",
+    "debut": "1971-09-20",
+    "top10": "1981-01-26",
+    "days": 3416
+  },
+  {
+    "id": "PL56",
+    "name": "Tommy Paul",
+    "debut": "2015-08-31",
+    "top10": "2025-02-03",
+    "days": 3444
+  },
+  {
+    "id": "M051",
+    "name": "Peter McNamara",
+    "debut": "1972-01-17",
+    "top10": "1981-07-13",
+    "days": 3465
+  },
+  {
+    "id": "S090",
+    "name": "Dick Stockton",
+    "debut": "1968-02-08",
+    "top10": "1977-08-22",
+    "days": 3483
+  },
+  {
+    "id": "BD06",
+    "name": "Roberto Bautista Agut",
+    "debut": "2009-11-02",
+    "top10": "2019-08-26",
+    "days": 3584
+  },
+  {
+    "id": "H019",
+    "name": "Jose Higueras",
+    "debut": "1968-06-17",
+    "top10": "1979-05-21",
+    "days": 3990
+  },
+  {
+    "id": "F339",
+    "name": "Mardy Fish",
+    "debut": "2000-03-20",
+    "top10": "2011-05-23",
+    "days": 4081
+  },
+  {
+    "id": "M762",
+    "name": "Jurgen Melzer",
+    "debut": "1999-10-11",
+    "top10": "2011-02-14",
+    "days": 4144
+  },
+  {
+    "id": "F510",
+    "name": "Fabio Fognini",
+    "debut": "2005-09-26",
+    "top10": "2019-07-01",
+    "days": 5026
+  }
+]

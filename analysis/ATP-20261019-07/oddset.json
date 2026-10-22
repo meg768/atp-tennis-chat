@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1029542461,
+    "start": "2026-10-20T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Sho Shimabukuro",
+      "odds": 5.4,
+      "id": "SY67"
+    },
+    "playerB": {
+      "name": "Roman Safiullin",
+      "odds": 1.15,
+      "id": "SX50"
+    }
+  }
+]

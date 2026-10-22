@@ -1,0 +1,22 @@
+[
+  {
+    "id": "SX50",
+    "name": "Roman Safiullin",
+    "birthdate": "1997-08-07",
+    "rank": 79,
+    "highest_rank": 36,
+    "career_titles": 0,
+    "career_wins": 65,
+    "career_losses": 81
+  },
+  {
+    "id": "SY67",
+    "name": "Sho Shimabukuro",
+    "birthdate": "1997-07-30",
+    "rank": 109,
+    "highest_rank": 87,
+    "career_titles": 0,
+    "career_wins": 11,
+    "career_losses": 24
+  }
+]

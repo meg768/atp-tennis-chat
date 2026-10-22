@@ -1,0 +1,1 @@
+SELECT p.name,COUNT(*) matches,SUM(m.winner='B058') wins,SUM(m.loser='B058') losses FROM matches m JOIN players p ON p.id=CASE WHEN m.winner='B058' THEN m.loser ELSE m.winner END WHERE (m.winner='B058' OR m.loser='B058') AND m.status IN ('Completed','Aborted') GROUP BY p.id ORDER BY losses DESC,matches DESC

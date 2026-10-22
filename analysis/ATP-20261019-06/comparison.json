@@ -1,0 +1,302 @@
+[
+  {
+    "player": "Sho Shimabukuro",
+    "opponent": "Roman Safiullin",
+    "ss": 5.4,
+    "gpt": 3.18,
+    "ta": 3.8,
+    "diff": 69.81132075471699,
+    "start": "2026-10-20T06:30:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Toby Samuel",
+    "opponent": "Zizou Bergs",
+    "ss": 2.9,
+    "gpt": 1.93,
+    "ta": 1.7,
+    "diff": 50.259067357512954,
+    "start": "2026-10-20T16:00:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Raphael Collignon",
+    "opponent": "Nishesh Basavareddy",
+    "ss": 2.35,
+    "gpt": 1.7,
+    "ta": 1.74,
+    "diff": 38.23529411764708,
+    "start": "2026-10-20T17:10:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Hugo Gaston",
+    "opponent": "Jacob Fearnley",
+    "ss": 2.35,
+    "gpt": 1.88,
+    "ta": 1.8,
+    "diff": 25.00000000000002,
+    "start": "2026-10-20T14:00:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Aleksandar Kovacevic",
+    "opponent": "Stefanos Tsitsipas",
+    "ss": 4.2,
+    "gpt": 3.51,
+    "ta": 4.25,
+    "diff": 19.658119658119677,
+    "start": "2026-10-20T07:40:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Botic van de Zandschulp",
+    "opponent": "Clement Chidekh",
+    "ss": 1.61,
+    "gpt": 1.38,
+    "ta": 1.39,
+    "diff": 16.666666666666675,
+    "start": "2026-10-20T10:40:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Corentin Moutet",
+    "opponent": "Ugo Humbert",
+    "ss": 3.3,
+    "gpt": 2.83,
+    "ta": 2.79,
+    "diff": 16.60777385159009,
+    "start": "2026-10-20T12:00:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Juan Manuel Cerundolo",
+    "opponent": "Mariano Navone",
+    "ss": 2.38,
+    "gpt": 2.05,
+    "ta": 2.22,
+    "diff": 16.09756097560977,
+    "start": "2026-10-20T09:30:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Cameron Norrie",
+    "opponent": "Benjamin Bonzi",
+    "ss": 1.74,
+    "gpt": 1.55,
+    "ta": 1.52,
+    "diff": 12.25806451612903,
+    "start": "2026-10-20T13:10:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Marcos Giron",
+    "opponent": "Jan-Lennard Struff",
+    "ss": 2.33,
+    "gpt": 2.13,
+    "ta": 1.96,
+    "diff": 9.38967136150235,
+    "start": "2026-10-20T10:40:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Karen Khachanov",
+    "opponent": "Rei Sakamoto",
+    "ss": 1.41,
+    "gpt": 1.33,
+    "ta": 1.26,
+    "diff": 6.01503759398494,
+    "start": "2026-10-20T14:30:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Brandon Nakashima",
+    "opponent": "Hamad Medjedovic",
+    "ss": 1.37,
+    "gpt": 1.31,
+    "ta": 1.24,
+    "diff": 4.580152671755733,
+    "start": "2026-10-20T18:10:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Tallon Griekspoor",
+    "opponent": "Max Schoenhaus",
+    "ss": 1.23,
+    "gpt": 1.19,
+    "ta": 1.06,
+    "diff": 3.3613445378151363,
+    "start": "2026-10-20T09:30:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Daniel Altmaier",
+    "opponent": "Titouan Droguet",
+    "ss": 2.7,
+    "gpt": 2.63,
+    "ta": 3.34,
+    "diff": 2.6615969581749166,
+    "start": "2026-10-20T12:20:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Rinky Hijikata",
+    "opponent": "Terence Atmane",
+    "ss": 1.84,
+    "gpt": 1.84,
+    "ta": 1.96,
+    "diff": 0.0,
+    "start": "2026-10-20T06:30:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Terence Atmane",
+    "opponent": "Rinky Hijikata",
+    "ss": 1.96,
+    "gpt": 1.98,
+    "ta": 1.86,
+    "diff": -1.0101010101010055,
+    "start": "2026-10-20T06:30:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Titouan Droguet",
+    "opponent": "Daniel Altmaier",
+    "ss": 1.47,
+    "gpt": 1.49,
+    "ta": 1.33,
+    "diff": -1.342281879194629,
+    "start": "2026-10-20T12:20:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Stefanos Tsitsipas",
+    "opponent": "Aleksandar Kovacevic",
+    "ss": 1.23,
+    "gpt": 1.31,
+    "ta": 1.23,
+    "diff": -6.106870229007644,
+    "start": "2026-10-20T07:40:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Jan-Lennard Struff",
+    "opponent": "Marcos Giron",
+    "ss": 1.6,
+    "gpt": 1.72,
+    "ta": 1.85,
+    "diff": -6.976744186046502,
+    "start": "2026-10-20T10:40:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Ugo Humbert",
+    "opponent": "Corentin Moutet",
+    "ss": 1.33,
+    "gpt": 1.44,
+    "ta": 1.45,
+    "diff": -7.638888888888884,
+    "start": "2026-10-20T12:00:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Hamad Medjedovic",
+    "opponent": "Brandon Nakashima",
+    "ss": 3.1,
+    "gpt": 3.45,
+    "ta": 4.12,
+    "diff": -10.144927536231885,
+    "start": "2026-10-20T18:10:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Mariano Navone",
+    "opponent": "Juan Manuel Cerundolo",
+    "ss": 1.58,
+    "gpt": 1.78,
+    "ta": 1.67,
+    "diff": -11.235955056179769,
+    "start": "2026-10-20T09:30:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Rei Sakamoto",
+    "opponent": "Karen Khachanov",
+    "ss": 2.95,
+    "gpt": 3.35,
+    "ta": 3.86,
+    "diff": -11.940298507462687,
+    "start": "2026-10-20T14:30:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Max Schoenhaus",
+    "opponent": "Tallon Griekspoor",
+    "ss": 4.1,
+    "gpt": 4.79,
+    "ta": 9.54,
+    "diff": -14.405010438413369,
+    "start": "2026-10-20T09:30:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Benjamin Bonzi",
+    "opponent": "Cameron Norrie",
+    "ss": 2.1,
+    "gpt": 2.46,
+    "ta": 2.55,
+    "diff": -14.634146341463406,
+    "start": "2026-10-20T13:10:00Z",
+    "event": "Lyon"
+  },
+  {
+    "player": "Roman Safiullin",
+    "opponent": "Sho Shimabukuro",
+    "ss": 1.15,
+    "gpt": 1.36,
+    "ta": 1.27,
+    "diff": -15.441176470588246,
+    "start": "2026-10-20T06:30:00Z",
+    "event": "Almaty"
+  },
+  {
+    "player": "Jacob Fearnley",
+    "opponent": "Hugo Gaston",
+    "ss": 1.58,
+    "gpt": 1.93,
+    "ta": 2.03,
+    "diff": -18.134715025906733,
+    "start": "2026-10-20T14:00:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Clement Chidekh",
+    "opponent": "Botic van de Zandschulp",
+    "ss": 2.3,
+    "gpt": 3.05,
+    "ta": 3.05,
+    "diff": -24.590163934426236,
+    "start": "2026-10-20T10:40:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Zizou Bergs",
+    "opponent": "Toby Samuel",
+    "ss": 1.41,
+    "gpt": 1.88,
+    "ta": 2.17,
+    "diff": -25.0,
+    "start": "2026-10-20T16:00:00Z",
+    "event": "Bryssel"
+  },
+  {
+    "player": "Nishesh Basavareddy",
+    "opponent": "Raphael Collignon",
+    "ss": 1.58,
+    "gpt": 2.16,
+    "ta": 2.11,
+    "diff": -26.851851851851848,
+    "start": "2026-10-20T17:10:00Z",
+    "event": "Bryssel"
+  }
+]

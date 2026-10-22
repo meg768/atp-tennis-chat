@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "S0TM",
+    "name": "Toby Samuel",
+    "country": "GBR",
+    "current_rank": 100,
+    "old_rank": 534,
+    "observed_date": "2025-10-06",
+    "gain": 434
+  },
+  {
+    "id": "K09F",
+    "name": "Pavel Kotov",
+    "country": "RUS",
+    "current_rank": 187,
+    "old_rank": 471,
+    "observed_date": "2025-10-13",
+    "gain": 284
+  },
+  {
+    "id": "J0DZ",
+    "name": "Rafael Jodar",
+    "country": "ESP",
+    "current_rank": 13,
+    "old_rank": 283,
+    "observed_date": "2025-10-13",
+    "gain": 270
+  },
+  {
+    "id": "Z371",
+    "name": "Zhizhen Zhang",
+    "country": "CHN",
+    "current_rank": 166,
+    "old_rank": 368,
+    "observed_date": "2025-09-29",
+    "gain": 202
+  },
+  {
+    "id": "V0DP",
+    "name": "Adolfo Daniel Vallejo",
+    "country": "PAR",
+    "current_rank": 52,
+    "old_rank": 253,
+    "observed_date": "2025-10-13",
+    "gain": 201
+  },
+  {
+    "id": "G0IX",
+    "name": "Arthur Gea",
+    "country": "FRA",
+    "current_rank": 56,
+    "old_rank": 254,
+    "observed_date": "2025-10-13",
+    "gain": 198
+  },
+  {
+    "id": "V0DZ",
+    "name": "Luca Van Assche",
+    "country": "FRA",
+    "current_rank": 45,
+    "old_rank": 238,
+    "observed_date": "2025-10-13",
+    "gain": 193
+  },
+  {
+    "id": "VA25",
+    "name": "Valentin Vacherot",
+    "country": "MON",
+    "current_rank": 14,
+    "old_rank": 204,
+    "observed_date": "2025-09-29",
+    "gain": 190
+  },
+  {
+    "id": "F0DM",
+    "name": "Arthur Fery",
+    "country": "GBR",
+    "current_rank": 37,
+    "old_rank": 221,
+    "observed_date": "2025-10-13",
+    "gain": 184
+  },
+  {
+    "id": "MP01",
+    "name": "Michael Mmoh",
+    "country": "USA",
+    "current_rank": 151,
+    "old_rank": 315,
+    "observed_date": "2025-10-13",
+    "gain": 164
+  },
+  {
+    "id": "D0CG",
+    "name": "Facundo Diaz Acosta",
+    "country": "ARG",
+    "current_rank": 69,
+    "old_rank": 233,
+    "observed_date": "2025-10-13",
+    "gain": 164
+  },
+  {
+    "id": "D0DT",
+    "name": "Martin Damm",
+    "country": "USA",
+    "current_rank": 104,
+    "old_rank": 240,
+    "observed_date": "2025-10-13",
+    "gain": 136
+  },
+  {
+    "id": "Z0BZ",
+    "name": "Michael Zheng",
+    "country": "USA",
+    "current_rank": 94,
+    "old_rank": 228,
+    "observed_date": "2025-09-29",
+    "gain": 134
+  },
+  {
+    "id": "HG86",
+    "name": "Lloyd Harris",
+    "country": "RSA",
+    "current_rank": 110,
+    "old_rank": 231,
+    "observed_date": "2025-10-13",
+    "gain": 121
+  },
+  {
+    "id": "MV14",
+    "name": "Alex Molcan",
+    "country": "SVK",
+    "current_rank": 84,
+    "old_rank": 205,
+    "observed_date": "2025-10-13",
+    "gain": 121
+  },
+  {
+    "id": "M0N7",
+    "name": "Daniel Merida",
+    "country": "ESP",
+    "current_rank": 44,
+    "old_rank": 163,
+    "observed_date": "2025-10-13",
+    "gain": 119
+  },
+  {
+    "id": "V836",
+    "name": "Juan Pablo Varillas",
+    "country": "PER",
+    "current_rank": 200,
+    "old_rank": 312,
+    "observed_date": "2025-10-13",
+    "gain": 112
+  },
+  {
+    "id": "CF01",
+    "name": "Marco Cecchinato",
+    "country": "ITA",
+    "current_rank": 163,
+    "old_rank": 271,
+    "observed_date": "2025-10-06",
+    "gain": 108
+  },
+  {
+    "id": "J0AZ",
+    "name": "Kyrian Jacquet",
+    "country": "FRA",
+    "current_rank": 76,
+    "old_rank": 183,
+    "observed_date": "2025-10-13",
+    "gain": 107
+  },
+  {
+    "id": "SY67",
+    "name": "Sho Shimabukuro",
+    "country": "JPN",
+    "current_rank": 109,
+    "old_rank": 212,
+    "observed_date": "2025-10-13",
+    "gain": 103
+  },
+  {
+    "id": "B0PG",
+    "name": "Alexander Blockx",
+    "country": "BEL",
+    "current_rank": 28,
+    "old_rank": 123,
+    "observed_date": "2025-10-13",
+    "gain": 95
+  },
+  {
+    "id": "D0DW",
+    "name": "Titouan Droguet",
+    "country": "FRA",
+    "current_rank": 72,
+    "old_rank": 165,
+    "observed_date": "2025-10-13",
+    "gain": 93
+  },
+  {
+    "id": "H997",
+    "name": "Yannick Hanfmann",
+    "country": "GER",
+    "current_rank": 57,
+    "old_rank": 139,
+    "observed_date": "2025-10-13",
+    "gain": 82
+  },
+  {
+    "id": "B0ID",
+    "name": "Ignacio Buse",
+    "country": "PER",
+    "current_rank": 36,
+    "old_rank": 113,
+    "observed_date": "2025-10-13",
+    "gain": 77
+  },
+  {
+    "id": "GH92",
+    "name": "Borna Gojo",
+    "country": "CRO",
+    "current_rank": 150,
+    "old_rank": 224,
+    "observed_date": "2025-10-13",
+    "gain": 74
+  },
+  {
+    "id": "D994",
+    "name": "James Duckworth",
+    "country": "AUS",
+    "current_rank": 64,
+    "old_rank": 138,
+    "observed_date": "2025-10-13",
+    "gain": 74
+  },
+  {
+    "id": "B0FV",
+    "name": "Roman Andres Burruchaga",
+    "country": "ARG",
+    "current_rank": 62,
+    "old_rank": 131,
+    "observed_date": "2025-10-13",
+    "gain": 69
+  },
+  {
+    "id": "F0F2",
+    "name": "Jaime Faria",
+    "country": "POR",
+    "current_rank": 60,
+    "old_rank": 128,
+    "observed_date": "2025-10-13",
+    "gain": 68
+  },
+  {
+    "id": "CH12",
+    "name": "Jan Choinski",
+    "country": "GBR",
+    "current_rank": 91,
+    "old_rank": 158,
+    "observed_date": "2025-10-06",
+    "gain": 67
+  },
+  {
+    "id": "W0BH",
+    "name": "Coleman Wong",
+    "country": "HKG",
+    "current_rank": 101,
+    "old_rank": 160,
+    "observed_date": "2025-10-06",
+    "gain": 59
+  },
+  {
+    "id": "TA29",
+    "name": "Marco Trungelliti",
+    "country": "ARG",
+    "current_rank": 90,
+    "old_rank": 142,
+    "observed_date": "2025-10-13",
+    "gain": 52
+  },
+  {
+    "id": "K0A3",
+    "name": "Patrick Kypson",
+    "country": "USA",
+    "current_rank": 118,
+    "old_rank": 169,
+    "observed_date": "2025-10-13",
+    "gain": 51
+  },
+  {
+    "id": "TA12",
+    "name": "Stefano Travaglia",
+    "country": "ITA",
+    "current_rank": 173,
+    "old_rank": 220,
+    "observed_date": "2025-10-13",
+    "gain": 47
+  },
+  {
+    "id": "WB32",
+    "name": "Yibing Wu",
+    "country": "CHN",
+    "current_rank": 113,
+    "old_rank": 159,
+    "observed_date": "2025-09-29",
+    "gain": 46
+  },
+  {
+    "id": "T0A1",
+    "name": "Thiago Agustin Tirante",
+    "country": "ARG",
+    "current_rank": 54,
+    "old_rank": 100,
+    "observed_date": "2025-10-13",
+    "gain": 46
+  },
+  {
+    "id": "V812",
+    "name": "Botic van de Zandschulp",
+    "country": "NED",
+    "current_rank": 41,
+    "old_rank": 86,
+    "observed_date": "2025-10-13",
+    "gain": 45
+  },
+  {
+    "id": "TE30",
+    "name": "Alejandro Tabilo",
+    "country": "CHI",
+    "current_rank": 30,
+    "old_rank": 73,
+    "observed_date": "2025-10-13",
+    "gain": 43
+  },
+  {
+    "id": "C0JP",
+    "name": "Raphael Collignon",
+    "country": "BEL",
+    "current_rank": 50,
+    "old_rank": 90,
+    "observed_date": "2025-10-13",
+    "gain": 40
+  },
+  {
+    "id": "N0BS",
+    "name": "Mariano Navone",
+    "country": "ARG",
+    "current_rank": 47,
+    "old_rank": 86,
+    "observed_date": "2025-09-29",
+    "gain": 39
+  },
+  {
+    "id": "SL28",
+    "name": "Jan-Lennard Struff",
+    "country": "GER",
+    "current_rank": 59,
+    "old_rank": 98,
+    "observed_date": "2025-10-13",
+    "gain": 39
+  },
+  {
+    "id": "CD85",
+    "name": "Pablo Carreno Busta",
+    "country": "ESP",
+    "current_rank": 65,
+    "old_rank": 104,
+    "observed_date": "2025-10-13",
+    "gain": 39
+  },
+  {
+    "id": "L0IL",
+    "name": "Martin Landaluce",
+    "country": "ESP",
+    "current_rank": 73,
+    "old_rank": 110,
+    "observed_date": "2025-10-13",
+    "gain": 37
+  },
+  {
+    "id": "N897",
+    "name": "Sumit Nagal",
+    "country": "IND",
+    "current_rank": 253,
+    "old_rank": 289,
+    "observed_date": "2025-10-06",
+    "gain": 36
+  },
+  {
+    "id": "A0FC",
+    "name": "Matteo Arnaldi",
+    "country": "ITA",
+    "current_rank": 38,
+    "old_rank": 74,
+    "observed_date": "2025-10-13",
+    "gain": 36
+  },
+  {
+    "id": "V0AM",
+    "name": "Otto Virtanen",
+    "country": "FIN",
+    "current_rank": 107,
+    "old_rank": 140,
+    "observed_date": "2025-10-06",
+    "gain": 33
+  },
+  {
+    "id": "EA24",
+    "name": "Tomas Martin Etcheverry",
+    "country": "ARG",
+    "current_rank": 31,
+    "old_rank": 63,
+    "observed_date": "2025-10-13",
+    "gain": 32
+  },
+  {
+    "id": "C0C8",
+    "name": "Juan Manuel Cerundolo",
+    "country": "ARG",
+    "current_rank": 55,
+    "old_rank": 87,
+    "observed_date": "2025-09-29",
+    "gain": 32
+  },
+  {
+    "id": "A829",
+    "name": "Radu Albot",
+    "country": "MDA",
+    "current_rank": 468,
+    "old_rank": 499,
+    "observed_date": "2025-10-13",
+    "gain": 31
+  },
+  {
+    "id": "H0BH",
+    "name": "Rinky Hijikata",
+    "country": "AUS",
+    "current_rank": 85,
+    "old_rank": 114,
+    "observed_date": "2025-10-13",
+    "gain": 29
+  },
+  {
+    "id": "HB64",
+    "name": "Quentin Halys",
+    "country": "FRA",
+    "current_rank": 48,
+    "old_rank": 77,
+    "observed_date": "2025-10-13",
+    "gain": 29
+  },
+  {
+    "id": "Y09V",
+    "name": "Yunchaokete Bu",
+    "country": "CHN",
+    "current_rank": 93,
+    "old_rank": 121,
+    "observed_date": "2025-09-29",
+    "gain": 28
+  },
+  {
+    "id": "KI82",
+    "name": "Vit Kopriva",
+    "country": "CZE",
+    "current_rank": 68,
+    "old_rank": 94,
+    "observed_date": "2025-10-13",
+    "gain": 26
+  },
+  {
+    "id": "SX91",
+    "name": "Thiago Seyboth Wild",
+    "country": "BRA",
+    "current_rank": 136,
+    "old_rank": 162,
+    "observed_date": "2025-10-06",
+    "gain": 26
+  },
+  {
+    "id": "S0RE",
+    "name": "Juncheng Shang",
+    "country": "CHN",
+    "current_rank": 214,
+    "old_rank": 237,
+    "observed_date": "2025-09-29",
+    "gain": 23
+  },
+  {
+    "id": "P0HW",
+    "name": "Dino Prizmic",
+    "country": "CRO",
+    "current_rank": 97,
+    "old_rank": 120,
+    "observed_date": "2025-10-13",
+    "gain": 23
+  },
+  {
+    "id": "RC91",
+    "name": "Arthur Rinderknech",
+    "country": "FRA",
+    "current_rank": 33,
+    "old_rank": 54,
+    "observed_date": "2025-09-29",
+    "gain": 21
+  },
+  {
+    "id": "O513",
+    "name": "Sebastian Ofner",
+    "country": "AUT",
+    "current_rank": 120,
+    "old_rank": 140,
+    "observed_date": "2025-10-13",
+    "gain": 20
+  },
+  {
+    "id": "T0HA",
+    "name": "Learner Tien",
+    "country": "USA",
+    "current_rank": 17,
+    "old_rank": 36,
+    "observed_date": "2025-09-29",
+    "gain": 19
+  },
+  {
+    "id": "TD51",
+    "name": "Frances Tiafoe",
+    "country": "USA",
+    "current_rank": 10,
+    "old_rank": 28,
+    "observed_date": "2025-09-29",
+    "gain": 18
+  },
+  {
+    "id": "F0FV",
+    "name": "Joao Fonseca",
+    "country": "BRA",
+    "current_rank": 29,
+    "old_rank": 45,
+    "observed_date": "2025-10-13",
+    "gain": 16
+  },
+  {
+    "id": "N0AE",
+    "name": "Brandon Nakashima",
+    "country": "USA",
+    "current_rank": 19,
+    "old_rank": 34,
+    "observed_date": "2025-10-13",
+    "gain": 15
+  },
+  {
+    "id": "BK40",
+    "name": "Matteo Berrettini",
+    "country": "ITA",
+    "current_rank": 46,
+    "old_rank": 61,
+    "observed_date": "2025-10-13",
+    "gain": 15
+  },
+  {
+    "id": "C0E9",
+    "name": "Flavio Cobolli",
+    "country": "ITA",
+    "current_rank": 7,
+    "old_rank": 22,
+    "observed_date": "2025-10-13",
+    "gain": 15
+  },
+  {
+    "id": "R09X",
+    "name": "Jurij Rodionov",
+    "country": "AUT",
+    "current_rank": 140,
+    "old_rank": 155,
+    "observed_date": "2025-10-13",
+    "gain": 15
+  },
+  {
+    "id": "C977",
+    "name": "Marin Cilic",
+    "country": "CRO",
+    "current_rank": 80,
+    "old_rank": 92,
+    "observed_date": "2025-10-13",
+    "gain": 12
+  },
+  {
+    "id": "G09O",
+    "name": "Hugo Gaston",
+    "country": "FRA",
+    "current_rank": 89,
+    "old_rank": 101,
+    "observed_date": "2025-10-06",
+    "gain": 12
+  },
+  {
+    "id": "MM58",
+    "name": "Daniil Medvedev",
+    "country": "RUS",
+    "current_rank": 6,
+    "old_rank": 14,
+    "observed_date": "2025-10-13",
+    "gain": 8
+  },
+  {
+    "id": "AG37",
+    "name": "Felix Auger-Aliassime",
+    "country": "CAN",
+    "current_rank": 5,
+    "old_rank": 13,
+    "observed_date": "2025-10-13",
+    "gain": 8
+  },
+  {
+    "id": "Q02L",
+    "name": "Ethan Quinn",
+    "country": "USA",
+    "current_rank": 66,
+    "old_rank": 72,
+    "observed_date": "2025-10-13",
+    "gain": 6
+  },
+  {
+    "id": "D0FJ",
+    "name": "Luciano Darderi",
+    "country": "ITA",
+    "current_rank": 21,
+    "old_rank": 26,
+    "observed_date": "2025-10-13",
+    "gain": 5
+  },
+  {
+    "id": "MQ75",
+    "name": "Kamil Majchrzak",
+    "country": "POL",
+    "current_rank": 70,
+    "old_rank": 75,
+    "observed_date": "2025-10-13",
+    "gain": 5
+  },
+  {
+    "id": "S0S1",
+    "name": "Ben Shelton",
+    "country": "USA",
+    "current_rank": 4,
+    "old_rank": 6,
+    "observed_date": "2025-09-29",
+    "gain": 2
+  },
+  {
+    "id": "C0AU",
+    "name": "Francisco Cerundolo",
+    "country": "ARG",
+    "current_rank": 20,
+    "old_rank": 21,
+    "observed_date": "2025-09-29",
+    "gain": 1
+  },
+  {
+    "id": "M0NI",
+    "name": "Jakub Mensik",
+    "country": "CZE",
+    "current_rank": 15,
+    "old_rank": 16,
+    "observed_date": "2025-09-29",
+    "gain": 1
+  },
+  {
+    "id": "M0QI",
+    "name": "Alex Michelsen",
+    "country": "USA",
+    "current_rank": 35,
+    "old_rank": 36,
+    "observed_date": "2025-10-13",
+    "gain": 1
+  },
+  {
+    "id": "Z355",
+    "name": "Alexander Zverev",
+    "country": "GER",
+    "current_rank": 2,
+    "old_rank": 3,
+    "observed_date": "2025-09-29",
+    "gain": 1
+  },
+  {
+    "id": "S0AG",
+    "name": "Jannik Sinner",
+    "country": "ITA",
+    "current_rank": 1,
+    "old_rank": 2,
+    "observed_date": "2025-09-29",
+    "gain": 1
+  },
+  {
+    "id": "DA31",
+    "name": "Hugo Dellien",
+    "country": "BOL",
+    "current_rank": 128,
+    "old_rank": 129,
+    "observed_date": "2025-10-13",
+    "gain": 1
+  },
+  {
+    "id": "L0BV",
+    "name": "Jiri Lehecka",
+    "country": "CZE",
+    "current_rank": 16,
+    "old_rank": 17,
+    "observed_date": "2025-10-13",
+    "gain": 1
+  },
+  {
+    "id": "BU13",
+    "name": "Zizou Bergs",
+    "country": "BEL",
+    "current_rank": 39,
+    "old_rank": 39,
+    "observed_date": "2025-10-13",
+    "gain": 0
+  },
+  {
+    "id": "BT72",
+    "name": "Nuno Borges",
+    "country": "POR",
+    "current_rank": 51,
+    "old_rank": 51,
+    "observed_date": "2025-09-29",
+    "gain": 0
+  },
+  {
+    "id": "DA81",
+    "name": "Taro Daniel",
+    "country": "JPN",
+    "current_rank": 177,
+    "old_rank": 177,
+    "observed_date": "2025-10-13",
+    "gain": 0
+  },
+  {
+    "id": "DH58",
+    "name": "Alex de Minaur",
+    "country": "AUS",
+    "current_rank": 9,
+    "old_rank": 7,
+    "observed_date": "2025-09-29",
+    "gain": -2
+  },
+  {
+    "id": "A0E2",
+    "name": "Carlos Alcaraz",
+    "country": "ESP",
+    "current_rank": 3,
+    "old_rank": 1,
+    "observed_date": "2025-09-22",
+    "gain": -2
+  },
+  {
+    "id": "D643",
+    "name": "Novak Djokovic",
+    "country": "SRB",
+    "current_rank": 8,
+    "old_rank": 5,
+    "observed_date": "2025-09-29",
+    "gain": -3
+  },
+  {
+    "id": "TA46",
+    "name": "Bernard Tomic",
+    "country": "AUS",
+    "current_rank": 185,
+    "old_rank": 181,
+    "observed_date": "2025-10-13",
+    "gain": -4
+  },
+  {
+    "id": "BK92",
+    "name": "Alexander Bublik",
+    "country": "KAZ",
+    "current_rank": 22,
+    "old_rank": 17,
+    "observed_date": "2025-09-29",
+    "gain": -5
+  },
+  {
+    "id": "GD64",
+    "name": "Cristian Garin",
+    "country": "CHI",
+    "current_rank": 131,
+    "old_rank": 125,
+    "observed_date": "2025-09-29",
+    "gain": -6
+  },
+  {
+    "id": "DH50",
+    "name": "Alejandro Davidovich Fokina",
+    "country": "ESP",
+    "current_rank": 26,
+    "old_rank": 20,
+    "observed_date": "2025-10-13",
+    "gain": -6
+  },
+  {
+    "id": "MF35",
+    "name": "Andrej Martin",
+    "country": "SVK",
+    "current_rank": 387,
+    "old_rank": 380,
+    "observed_date": "2025-10-06",
+    "gain": -7
+  },
+  {
+    "id": "N771",
+    "name": "Cameron Norrie",
+    "country": "GBR",
+    "current_rank": 40,
+    "old_rank": 33,
+    "observed_date": "2025-09-29",
+    "gain": -7
+  },
+  {
+    "id": "HH26",
+    "name": "Ugo Humbert",
+    "country": "FRA",
+    "current_rank": 32,
+    "old_rank": 25,
+    "observed_date": "2025-10-13",
+    "gain": -7
+  },
+  {
+    "id": "FB98",
+    "name": "Taylor Fritz",
+    "country": "USA",
+    "current_rank": 12,
+    "old_rank": 4,
+    "observed_date": "2025-09-29",
+    "gain": -8
+  },
+  {
+    "id": "O483",
+    "name": "Christopher O'Connell",
+    "country": "AUS",
+    "current_rank": 117,
+    "old_rank": 109,
+    "observed_date": "2025-10-06",
+    "gain": -8
+  },
+  {
+    "id": "MU94",
+    "name": "Jaume Munar",
+    "country": "ESP",
+    "current_rank": 49,
+    "old_rank": 41,
+    "observed_date": "2025-09-29",
+    "gain": -8
+  },
+  {
+    "id": "B0BI",
+    "name": "Sebastian Baez",
+    "country": "ARG",
+    "current_rank": 53,
+    "old_rank": 44,
+    "observed_date": "2025-10-13",
+    "gain": -9
+  },
+  {
+    "id": "RE44",
+    "name": "Andrey Rublev",
+    "country": "RUS",
+    "current_rank": 23,
+    "old_rank": 14,
+    "observed_date": "2025-09-29",
+    "gain": -9
+  },
+  {
+    "id": "M0CI",
+    "name": "Fabian Marozsan",
+    "country": "HUN",
+    "current_rank": 63,
+    "old_rank": 52,
+    "observed_date": "2025-10-13",
+    "gain": -11
+  },
+  {
+    "id": "W367",
+    "name": "Stan Wawrinka",
+    "country": "SUI",
+    "current_rank": 142,
+    "old_rank": 131,
+    "observed_date": "2025-09-29",
+    "gain": -11
+  },
+  {
+    "id": "KI95",
+    "name": "Miomir Kecmanovic",
+    "country": "SRB",
+    "current_rank": 61,
+    "old_rank": 49,
+    "observed_date": "2025-10-13",
+    "gain": -12
+  },
+  {
+    "id": "K0AZ",
+    "name": "Aleksandar Kovacevic",
+    "country": "USA",
+    "current_rank": 81,
+    "old_rank": 69,
+    "observed_date": "2025-10-13",
+    "gain": -12
+  },
+  {
+    "id": "RH16",
+    "name": "Casper Ruud",
+    "country": "NOR",
+    "current_rank": 24,
+    "old_rank": 12,
+    "observed_date": "2025-10-13",
+    "gain": -12
+  },
+  {
+    "id": "D0C1",
+    "name": "Jesper de Jong",
+    "country": "NED",
+    "current_rank": 95,
+    "old_rank": 82,
+    "observed_date": "2025-10-13",
+    "gain": -13
+  },
+  {
+    "id": "BS86",
+    "name": "Tomas Barrios Vera",
+    "country": "CHI",
+    "current_rank": 132,
+    "old_rank": 119,
+    "observed_date": "2025-10-13",
+    "gain": -13
+  },
+  {
+    "id": "M0JF",
+    "name": "Hamad Medjedovic",
+    "country": "SRB",
+    "current_rank": 78,
+    "old_rank": 64,
+    "observed_date": "2025-10-13",
+    "gain": -14
+  },
+  {
+    "id": "B0NN",
+    "name": "Nishesh Basavareddy",
+    "country": "USA",
+    "current_rank": 139,
+    "old_rank": 125,
+    "observed_date": "2025-10-13",
+    "gain": -14
+  },
+  {
+    "id": "K0AH",
+    "name": "Sebastian Korda",
+    "country": "USA",
+    "current_rank": 74,
+    "old_rank": 60,
+    "observed_date": "2025-10-13",
+    "gain": -14
+  },
+  {
+    "id": "B0GG",
+    "name": "Mattia Bellucci",
+    "country": "ITA",
+    "current_rank": 86,
+    "old_rank": 71,
+    "observed_date": "2025-10-13",
+    "gain": -15
+  },
+  {
+    "id": "F0BY",
+    "name": "Jacob Fearnley",
+    "country": "GBR",
+    "current_rank": 96,
+    "old_rank": 81,
+    "observed_date": "2025-10-13",
+    "gain": -15
+  },
+  {
+    "id": "S0LA",
+    "name": "Dominic Stricker",
+    "country": "SUI",
+    "current_rank": 263,
+    "old_rank": 247,
+    "observed_date": "2025-10-06",
+    "gain": -16
+  },
+  {
+    "id": "AE14",
+    "name": "Daniel Altmaier",
+    "country": "GER",
+    "current_rank": 67,
+    "old_rank": 51,
+    "observed_date": "2025-10-13",
+    "gain": -16
+  },
+  {
+    "id": "M0EJ",
+    "name": "Lorenzo Musetti",
+    "country": "ITA",
+    "current_rank": 25,
+    "old_rank": 8,
+    "observed_date": "2025-10-13",
+    "gain": -17
+  },
+  {
+    "id": "KE29",
+    "name": "Karen Khachanov",
+    "country": "RUS",
+    "current_rank": 27,
+    "old_rank": 10,
+    "observed_date": "2025-10-13",
+    "gain": -17
+  },
+  {
+    "id": "SU55",
+    "name": "Denis Shapovalov",
+    "country": "CAN",
+    "current_rank": 42,
+    "old_rank": 23,
+    "observed_date": "2025-10-13",
+    "gain": -19
+  },
+  {
+    "id": "S0H2",
+    "name": "Aleksandr Shevchenko",
+    "country": "KAZ",
+    "current_rank": 111,
+    "old_rank": 91,
+    "observed_date": "2025-10-13",
+    "gain": -20
+  },
+  {
+    "id": "M0HU",
+    "name": "Shintaro Mochizuki",
+    "country": "JPN",
+    "current_rank": 123,
+    "old_rank": 102,
+    "observed_date": "2025-10-13",
+    "gain": -21
+  },
+  {
+    "id": "W09E",
+    "name": "Adam Walton",
+    "country": "AUS",
+    "current_rank": 98,
+    "old_rank": 76,
+    "observed_date": "2025-10-13",
+    "gain": -22
+  },
+  {
+    "id": "ME82",
+    "name": "Adrian Mannarino",
+    "country": "FRA",
+    "current_rank": 83,
+    "old_rank": 60,
+    "observed_date": "2025-09-29",
+    "gain": -23
+  },
+  {
+    "id": "BG23",
+    "name": "Nikoloz Basilashvili",
+    "country": "GEO",
+    "current_rank": 124,
+    "old_rank": 101,
+    "observed_date": "2025-10-13",
+    "gain": -23
+  },
+  {
+    "id": "RC04",
+    "name": "Alexander Ritschard",
+    "country": "SUI",
+    "current_rank": 563,
+    "old_rank": 539,
+    "observed_date": "2025-10-06",
+    "gain": -24
+  },
+  {
+    "id": "HH06",
+    "name": "Marc-Andrea Huesler",
+    "country": "SUI",
+    "current_rank": 275,
+    "old_rank": 251,
+    "observed_date": "2025-10-13",
+    "gain": -24
+  },
+  {
+    "id": "L987",
+    "name": "Dusan Lajovic",
+    "country": "SRB",
+    "current_rank": 148,
+    "old_rank": 121,
+    "observed_date": "2025-10-13",
+    "gain": -27
+  },
+  {
+    "id": "U182",
+    "name": "Camilo Ugo Carabelli",
+    "country": "ARG",
+    "current_rank": 77,
+    "old_rank": 50,
+    "observed_date": "2025-10-13",
+    "gain": -27
+  },
+  {
+    "id": "BF23",
+    "name": "Facundo Bagnis",
+    "country": "ARG",
+    "current_rank": 440,
+    "old_rank": 413,
+    "observed_date": "2025-09-29",
+    "gain": -27
+  },
+  {
+    "id": "N0AM",
+    "name": "Emilio Nava",
+    "country": "USA",
+    "current_rank": 122,
+    "old_rank": 93,
+    "observed_date": "2025-10-13",
+    "gain": -29
+  },
+  {
+    "id": "MW02",
+    "name": "Corentin Moutet",
+    "country": "FRA",
+    "current_rank": 71,
+    "old_rank": 41,
+    "observed_date": "2025-10-13",
+    "gain": -30
+  },
+  {
+    "id": "V832",
+    "name": "Aleksandar Vukic",
+    "country": "AUS",
+    "current_rank": 115,
+    "old_rank": 85,
+    "observed_date": "2025-10-13",
+    "gain": -30
+  },
+  {
+    "id": "GJ37",
+    "name": "Tallon Griekspoor",
+    "country": "NED",
+    "current_rank": 58,
+    "old_rank": 27,
+    "observed_date": "2025-10-13",
+    "gain": -31
+  },
+  {
+    "id": "S0JA",
+    "name": "Eliot Spizzirri",
+    "country": "USA",
+    "current_rank": 143,
+    "old_rank": 111,
+    "observed_date": "2025-10-13",
+    "gain": -32
+  },
+  {
+    "id": "GC88",
+    "name": "Marcos Giron",
+    "country": "USA",
+    "current_rank": 88,
+    "old_rank": 54,
+    "observed_date": "2025-10-13",
+    "gain": -34
+  },
+  {
+    "id": "R0EB",
+    "name": "Valentin Royer",
+    "country": "FRA",
+    "current_rank": 105,
+    "old_rank": 70,
+    "observed_date": "2025-10-13",
+    "gain": -35
+  },
+  {
+    "id": "S0GD",
+    "name": "Dalibor Svrcina",
+    "country": "CZE",
+    "current_rank": 126,
+    "old_rank": 91,
+    "observed_date": "2025-10-06",
+    "gain": -35
+  },
+  {
+    "id": "D923",
+    "name": "Damir Dzumhur",
+    "country": "BIH",
+    "current_rank": 103,
+    "old_rank": 67,
+    "observed_date": "2025-10-13",
+    "gain": -36
+  },
+  {
+    "id": "GB93",
+    "name": "Norbert Gombos",
+    "country": "SVK",
+    "current_rank": 355,
+    "old_rank": 319,
+    "observed_date": "2025-10-13",
+    "gain": -36
+  },
+  {
+    "id": "A0GC",
+    "name": "Terence Atmane",
+    "country": "FRA",
+    "current_rank": 99,
+    "old_rank": 61,
+    "observed_date": "2025-09-29",
+    "gain": -38
+  },
+  {
+    "id": "BM95",
+    "name": "Benjamin Bonzi",
+    "country": "FRA",
+    "current_rank": 92,
+    "old_rank": 53,
+    "observed_date": "2025-10-13",
+    "gain": -39
+  },
+  {
+    "id": "SU87",
+    "name": "Lorenzo Sonego",
+    "country": "ITA",
+    "current_rank": 87,
+    "old_rank": 47,
+    "observed_date": "2025-10-13",
+    "gain": -40
+  },
+  {
+    "id": "MO44",
+    "name": "Pedro Martinez",
+    "country": "ESP",
+    "current_rank": 130,
+    "old_rank": 89,
+    "observed_date": "2025-10-13",
+    "gain": -41
+  },
+  {
+    "id": "N732",
+    "name": "Yoshihito Nishioka",
+    "country": "JPN",
+    "current_rank": 218,
+    "old_rank": 173,
+    "observed_date": "2025-09-29",
+    "gain": -45
+  },
+  {
+    "id": "B0CD",
+    "name": "Jenson Brooksby",
+    "country": "USA",
+    "current_rank": 102,
+    "old_rank": 57,
+    "observed_date": "2025-09-29",
+    "gain": -45
+  },
+  {
+    "id": "CG33",
+    "name": "Kimmer Coppejans",
+    "country": "BEL",
+    "current_rank": 232,
+    "old_rank": 183,
+    "observed_date": "2025-10-06",
+    "gain": -49
+  },
+  {
+    "id": "M0FH",
+    "name": "Tomas Machac",
+    "country": "CZE",
+    "current_rank": 75,
+    "old_rank": 23,
+    "observed_date": "2025-09-29",
+    "gain": -52
+  },
+  {
+    "id": "KC29",
+    "name": "Nicolas Kicker",
+    "country": "ARG",
+    "current_rank": 351,
+    "old_rank": 295,
+    "observed_date": "2025-10-13",
+    "gain": -56
+  },
+  {
+    "id": "C0DF",
+    "name": "Francisco Comesana",
+    "country": "ARG",
+    "current_rank": 125,
+    "old_rank": 68,
+    "observed_date": "2025-10-13",
+    "gain": -57
+  },
+  {
+    "id": "S0N0",
+    "name": "Tristan Schoolkate",
+    "country": "AUS",
+    "current_rank": 155,
+    "old_rank": 96,
+    "observed_date": "2025-10-13",
+    "gain": -59
+  },
+  {
+    "id": "MJ08",
+    "name": "Thiago Monteiro",
+    "country": "BRA",
+    "current_rank": 235,
+    "old_rank": 176,
+    "observed_date": "2025-10-13",
+    "gain": -59
+  },
+  {
+    "id": "K926",
+    "name": "Mikhail Kukushkin",
+    "country": "KAZ",
+    "current_rank": 358,
+    "old_rank": 289,
+    "observed_date": "2025-10-13",
+    "gain": -69
+  },
+  {
+    "id": "MK66",
+    "name": "Mackenzie McDonald",
+    "country": "USA",
+    "current_rank": 169,
+    "old_rank": 99,
+    "observed_date": "2025-10-13",
+    "gain": -70
+  },
+  {
+    "id": "M0GZ",
+    "name": "Giovanni Mpetshi Perricard",
+    "country": "FRA",
+    "current_rank": 108,
+    "old_rank": 37,
+    "observed_date": "2025-10-13",
+    "gain": -71
+  },
+  {
+    "id": "GF95",
+    "name": "Hugo Grenier",
+    "country": "FRA",
+    "current_rank": 269,
+    "old_rank": 192,
+    "observed_date": "2025-10-13",
+    "gain": -77
+  },
+  {
+    "id": "F724",
+    "name": "Marton Fucsovics",
+    "country": "HUN",
+    "current_rank": 134,
+    "old_rank": 55,
+    "observed_date": "2025-10-13",
+    "gain": -79
+  },
+  {
+    "id": "P09Z",
+    "name": "Alexei Popyrin",
+    "country": "AUS",
+    "current_rank": 129,
+    "old_rank": 48,
+    "observed_date": "2025-10-13",
+    "gain": -81
+  },
+  {
+    "id": "D0F6",
+    "name": "Gabriel Diallo",
+    "country": "CAN",
+    "current_rank": 121,
+    "old_rank": 35,
+    "observed_date": "2025-10-13",
+    "gain": -86
+  },
+  {
+    "id": "MP20",
+    "name": "Alexandre Muller",
+    "country": "FRA",
+    "current_rank": 133,
+    "old_rank": 43,
+    "observed_date": "2025-10-13",
+    "gain": -90
+  },
+  {
+    "id": "P0CT",
+    "name": "Francesco Passaro",
+    "country": "ITA",
+    "current_rank": 229,
+    "old_rank": 139,
+    "observed_date": "2025-10-06",
+    "gain": -90
+  },
+  {
+    "id": "O522",
+    "name": "Reilly Opelka",
+    "country": "USA",
+    "current_rank": 156,
+    "old_rank": 62,
+    "observed_date": "2025-10-13",
+    "gain": -94
+  },
+  {
+    "id": "DB63",
+    "name": "Laslo Djere",
+    "country": "SRB",
+    "current_rank": 179,
+    "old_rank": 79,
+    "observed_date": "2025-10-13",
+    "gain": -100
+  },
+  {
+    "id": "T0AP",
+    "name": "Chun-Hsin Tseng",
+    "country": "TPE",
+    "current_rank": 225,
+    "old_rank": 120,
+    "observed_date": "2025-09-29",
+    "gain": -105
+  },
+  {
+    "id": "RH24",
+    "name": "Emil Ruusuvuori",
+    "country": "FIN",
+    "current_rank": 714,
+    "old_rank": 608,
+    "observed_date": "2025-10-13",
+    "gain": -106
+  },
+  {
+    "id": "CF59",
+    "name": "Roberto Carballes Baena",
+    "country": "ESP",
+    "current_rank": 258,
+    "old_rank": 122,
+    "observed_date": "2025-10-13",
+    "gain": -136
+  },
+  {
+    "id": "H996",
+    "name": "Pierre-Hugues Herbert",
+    "country": "FRA",
+    "current_rank": 296,
+    "old_rank": 148,
+    "observed_date": "2025-10-13",
+    "gain": -148
+  },
+  {
+    "id": "C0H0",
+    "name": "Arthur Cazaux",
+    "country": "FRA",
+    "current_rank": 208,
+    "old_rank": 58,
+    "observed_date": "2025-10-13",
+    "gain": -150
+  },
+  {
+    "id": "N0BG",
+    "name": "Luca Nardi",
+    "country": "ITA",
+    "current_rank": 251,
+    "old_rank": 83,
+    "observed_date": "2025-10-13",
+    "gain": -168
+  },
+  {
+    "id": "CH27",
+    "name": "Hyeon Chung",
+    "country": "KOR",
+    "current_rank": 558,
+    "old_rank": 381,
+    "observed_date": "2025-10-13",
+    "gain": -177
+  },
+  {
+    "id": "R0DG",
+    "name": "Holger Rune",
+    "country": "DEN",
+    "current_rank": 195,
+    "old_rank": 11,
+    "observed_date": "2025-10-13",
+    "gain": -184
+  },
+  {
+    "id": "R772",
+    "name": "Albert Ramos-Vinolas",
+    "country": "ESP",
+    "current_rank": 557,
+    "old_rank": 352,
+    "observed_date": "2025-10-06",
+    "gain": -205
+  },
+  {
+    "id": "SK94",
+    "name": "Cedrik-Marcel Stebe",
+    "country": "GER",
+    "current_rank": 643,
+    "old_rank": 436,
+    "observed_date": "2025-10-13",
+    "gain": -207
+  },
+  {
+    "id": "U134",
+    "name": "Yasutaka Uchiyama",
+    "country": "JPN",
+    "current_rank": 532,
+    "old_rank": 297,
+    "observed_date": "2025-10-13",
+    "gain": -235
+  },
+  {
+    "id": "GE33",
+    "name": "Daniel Elahi Galan",
+    "country": "COL",
+    "current_rank": 383,
+    "old_rank": 132,
+    "observed_date": "2025-09-22",
+    "gain": -251
+  },
+  {
+    "id": "TE16",
+    "name": "Carlos Taberner",
+    "country": "ESP",
+    "current_rank": 361,
+    "old_rank": 104,
+    "observed_date": "2025-10-06",
+    "gain": -257
+  },
+  {
+    "id": "WB08",
+    "name": "Yosuke Watanuki",
+    "country": "JPN",
+    "current_rank": 406,
+    "old_rank": 148,
+    "observed_date": "2025-10-06",
+    "gain": -258
+  },
+  {
+    "id": "Y268",
+    "name": "Mikael Ymer",
+    "country": "SWE",
+    "current_rank": 896,
+    "old_rank": 617,
+    "observed_date": "2025-10-13",
+    "gain": -279
+  },
+  {
+    "id": "D750",
+    "name": "Kenny De Schepper",
+    "country": "FRA",
+    "current_rank": 966,
+    "old_rank": 638,
+    "observed_date": "2025-10-06",
+    "gain": -328
+  },
+  {
+    "id": "DB59",
+    "name": "Dennis Novak",
+    "country": "AUT",
+    "current_rank": 803,
+    "old_rank": 463,
+    "observed_date": "2025-10-13",
+    "gain": -340
+  },
+  {
+    "id": "TC61",
+    "name": "Jordan Thompson",
+    "country": "AUS",
+    "current_rank": 438,
+    "old_rank": 85,
+    "observed_date": "2025-10-06",
+    "gain": -353
+  },
+  {
+    "id": "KB95",
+    "name": "Jason Kubler",
+    "country": "AUS",
+    "current_rank": 540,
+    "old_rank": 186,
+    "observed_date": "2025-10-13",
+    "gain": -354
+  },
+  {
+    "id": "GB88",
+    "name": "David Goffin",
+    "country": "BEL",
+    "current_rank": 467,
+    "old_rank": 105,
+    "observed_date": "2025-10-13",
+    "gain": -362
+  },
+  {
+    "id": "M0JZ",
+    "name": "Filip Misolic",
+    "country": "AUT",
+    "current_rank": 471,
+    "old_rank": 95,
+    "observed_date": "2025-10-13",
+    "gain": -376
+  },
+  {
+    "id": "E865",
+    "name": "Christopher Eubanks",
+    "country": "USA",
+    "current_rank": 600,
+    "old_rank": 193,
+    "observed_date": "2025-10-06",
+    "gain": -407
+  },
+  {
+    "id": "GC89",
+    "name": "Egor Gerasimov",
+    "country": "BLR",
+    "current_rank": 974,
+    "old_rank": 546,
+    "observed_date": "2025-10-06",
+    "gain": -428
+  },
+  {
+    "id": "H09P",
+    "name": "Brandon Holt",
+    "country": "USA",
+    "current_rank": 794,
+    "old_rank": 112,
+    "observed_date": "2025-10-13",
+    "gain": -682
+  },
+  {
+    "id": "BK24",
+    "name": "Gregoire Barrere",
+    "country": "FRA",
+    "current_rank": 1063,
+    "old_rank": 363,
+    "observed_date": "2025-09-22",
+    "gain": -700
+  },
+  {
+    "id": "J551",
+    "name": "Nicolas Jarry",
+    "country": "CHI",
+    "current_rank": 867,
+    "old_rank": 107,
+    "observed_date": "2025-09-29",
+    "gain": -760
+  },
+  {
+    "id": "KC04",
+    "name": "Jozef Kovalik",
+    "country": "SVK",
+    "current_rank": 1390,
+    "old_rank": 525,
+    "observed_date": "2025-10-13",
+    "gain": -865
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "analysis_id": "ATP-20261019-01",
+  "source": "tennis.egelberg.se database, direct SQL",
+  "extraction_date": "2026-10-19",
+  "scope": "Men singles; age <23 on 2026-10-19; current profile rank 1–100",
+  "baseline": "Latest positive match rank, event start <=2025-10-19; all event types/statuses; same-date ties: match ID descending",
+  "order": "Rank gain descending, birthdate descending",
+  "display": "First 10 rows; no manual exclusions",
+  "snapshot": "Original saved 17-row result, not a new database query. Exact extraction time not recorded."
+}

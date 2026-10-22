@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Adriano Panatta",
+    "date": "1973-03-26",
+    "event": "Valencia",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "R16",
+    "score": "6-2 6-1",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1973-04-02",
+    "event": "Barcelona",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "R16",
+    "score": "2-6 6-2 6-3",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1973-05-21",
+    "event": "Roland Garros",
+    "type": "Grand Slam",
+    "surface": "Clay",
+    "round": "R16",
+    "score": "7-6 2-6 7-5 7-6",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1973-08-23",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "R32",
+    "score": "6-7 6-4 6-4 6-4",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1973-10-29",
+    "event": "Paris",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "R16",
+    "score": "7-5 6-3",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1973-11-05",
+    "event": "Stockholm",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "SF",
+    "score": "6-4 3-6 7-6",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1974-02-18",
+    "event": "London",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "QF",
+    "score": "6-4 7-6(3)",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1974-02-25",
+    "event": "Barcelona",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-4 3-6 6-3",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1974-02-25",
+    "event": "Barcelona",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "QF",
+    "score": "6-4 6-4",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1974-03-11",
+    "event": "Sao Paulo",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-2 3-6 6-3",
+    "won": 1
+  },
+  {
+    "name": "John Newcombe",
+    "date": "1974-05-06",
+    "event": "Dallas",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "4-6 6-3 6-3 6-2",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1974-05-06",
+    "event": "Dallas",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "QF",
+    "score": "7-5 6-4 7-6",
+    "won": 1
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1974-07-08",
+    "event": "Bastad",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "6-3 6-0 6-7 6-3",
+    "won": 1
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1974-07-15",
+    "event": "Bastad",
+    "type": "Davis Cup",
+    "surface": "Clay",
+    "round": "RR",
+    "score": "6-4 4-6 9-7 6-3",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1974-08-05",
+    "event": "Indianapolis",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "5-7 6-3 6-4",
+    "won": 0
+  },
+  {
+    "name": "John Newcombe",
+    "date": "1974-12-09",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Grass",
+    "round": "RR",
+    "score": "7-6 7-6",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-01-13",
+    "event": "San Juan",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "SF",
+    "score": "6-4 6-0",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-01-27",
+    "event": "Richmond",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "4-6 6-4 6-4",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-02-03",
+    "event": "Bologna",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "7-6(4) 4-6 7-6(4)",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-02-17",
+    "event": "Barcelona",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "7-6(5) 6-3",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-03-10",
+    "event": "Munich",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-4 7-6(6)",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-05-05",
+    "event": "Dallas",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "3-6 6-4 6-4 6-0",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1975-06-02",
+    "event": "Roland Garros",
+    "type": "Grand Slam",
+    "surface": "Clay",
+    "round": "SF",
+    "score": "6-4 1-6 7-5 6-4",
+    "won": 1
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-06-23",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "QF",
+    "score": "2-6 6-4 8-6 6-1",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1975-08-25",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Clay",
+    "round": "SF",
+    "score": "7-5 7-5 7-5",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1975-10-06",
+    "event": "Madrid",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "SF",
+    "score": "7-5 6-0 6-2",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1975-10-13",
+    "event": "Barcelona",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "1-6 7-6 6-3 6-2",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1975-11-03",
+    "event": "Stockholm",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "SF",
+    "score": "6-2 7-6",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1975-12-01",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Carpet",
+    "round": "SF",
+    "score": "6-4 3-6 6-2 6-2",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1976-01-26",
+    "event": "Philadelphia",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "7-6(5) 6-4 6-0",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1976-03-22",
+    "event": "Palm Springs",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "SF",
+    "score": "6-4 6-1",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1976-04-19",
+    "event": "Stockholm",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "QF",
+    "score": "5-7 6-3 6-1",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1976-05-23",
+    "event": "Honolulu",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "RR",
+    "score": "6-4 7-6 6-3",
+    "won": 0
+  },
+  {
+    "name": "John Newcombe",
+    "date": "1976-05-23",
+    "event": "Honolulu",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "RR",
+    "score": "2-6 7-5 6-2 6-2",
+    "won": 1
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1976-05-31",
+    "event": "Roland Garros",
+    "type": "Grand Slam",
+    "surface": "Clay",
+    "round": "QF",
+    "score": "6-3 6-3 2-6 7-6",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1976-08-23",
+    "event": "Boston",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "QF",
+    "score": "6-2 6-4",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1976-08-30",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Clay",
+    "round": "F",
+    "score": "6-4 3-6 7-6 6-4",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1976-10-11",
+    "event": "Hilton Head",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "6-1 6-2",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1977-01-17",
+    "event": "Boca Raton",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "6-4 5-7 6-3",
+    "won": 1
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1977-01-17",
+    "event": "Boca Raton",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "SF",
+    "score": "6-2 4-6 7-5",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1977-06-20",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "F",
+    "score": "3-6 6-2 6-1 5-7 6-4",
+    "won": 1
+  },
+  {
+    "name": "John Newcombe",
+    "date": "1977-09-26",
+    "event": "Hilton Head",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "SF",
+    "score": "6-2 6-4",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1978-01-02",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-4 1-6 6-4",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1978-01-16",
+    "event": "Boca Raton",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "7-6 3-6 6-1",
+    "won": 1
+  },
+  {
+    "name": "John Newcombe",
+    "date": "1978-01-30",
+    "event": "Richmond",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "QF",
+    "score": "6-0 1-0",
+    "won": 0
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1978-03-27",
+    "event": "Milan",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "QF",
+    "score": "6-3 6-3",
+    "won": 1
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1978-05-22",
+    "event": "Rome",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "1-6 6-3 6-1 4-6 6-3",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1978-06-26",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "F",
+    "score": "6-2 6-2 6-3",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1978-08-28",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Hard",
+    "round": "F",
+    "score": "6-4 6-2 6-2",
+    "won": 0
+  },
+  {
+    "name": "Arthur Ashe",
+    "date": "1978-10-02",
+    "event": "Gothenburg",
+    "type": "Davis Cup",
+    "surface": "Carpet",
+    "round": "RR",
+    "score": "6-4 7-5 6-3",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1978-11-06",
+    "event": "Stockholm",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "SF",
+    "score": "6-3 6-4",
+    "won": 0
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1979-01-29",
+    "event": "Richmond",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "SF",
+    "score": "4-6 7-6 6-3",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1979-02-05",
+    "event": "Boca Raton",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "F",
+    "score": "6-2 6-3",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1979-03-19",
+    "event": "New Orleans",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "SF",
+    "score": "5-7 6-1 7-6",
+    "won": 0
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1979-04-02",
+    "event": "Rotterdam",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-4 6-2",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1979-04-23",
+    "event": "Las Vegas",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "F",
+    "score": "6-3 6-2",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1979-04-30",
+    "event": "Dallas",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "7-5 4-6 6-2 7-6",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1979-06-25",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "SF",
+    "score": "6-2 6-3 6-2",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1979-08-13",
+    "event": "Toronto",
+    "type": "Grand Prix",
+    "surface": "Hard",
+    "round": "F",
+    "score": "6-3 6-3",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1979-10-29",
+    "event": "Tokyo",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-2 6-2",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1979-12-03",
+    "event": "Montreal",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-4 6-2 2-6 6-4",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1980-01-07",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Carpet",
+    "round": "RR",
+    "score": "3-6 6-3 7-6",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1980-01-07",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Carpet",
+    "round": "SF",
+    "score": "6-7 6-3 7-6",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1980-02-18",
+    "event": "Salisbury",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "RR",
+    "score": "6-3 6-1",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1980-06-23",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "F",
+    "score": "1-6 7-5 6-3 6-7 8-6",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1980-08-25",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Hard",
+    "round": "F",
+    "score": "7-6 6-1 6-7 5-7 6-4",
+    "won": 0
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1980-11-03",
+    "event": "Stockholm",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "6-3 6-4",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1981-01-12",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Carpet",
+    "round": "RR",
+    "score": "6-4 6-7 7-6",
+    "won": 1
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1981-01-12",
+    "event": "Masters",
+    "type": "World Championship",
+    "surface": "Carpet",
+    "round": "SF",
+    "score": "6-4 6-7 6-3",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1981-03-23",
+    "event": "Milan",
+    "type": "Grand Prix",
+    "surface": "Carpet",
+    "round": "F",
+    "score": "7-6 6-4",
+    "won": 0
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1981-06-22",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "F",
+    "score": "4-6 7-6 7-6 6-4",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1981-06-22",
+    "event": "Wimbledon",
+    "type": "Grand Slam",
+    "surface": "Grass",
+    "round": "SF",
+    "score": "0-6 4-6 6-3 6-0 6-4",
+    "won": 1
+  },
+  {
+    "name": "John McEnroe",
+    "date": "1981-08-31",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Hard",
+    "round": "F",
+    "score": "4-6 6-2 6-4 6-3",
+    "won": 0
+  },
+  {
+    "name": "Jimmy Connors",
+    "date": "1981-08-31",
+    "event": "US Open",
+    "type": "Grand Slam",
+    "surface": "Hard",
+    "round": "SF",
+    "score": "6-2 7-5 6-4",
+    "won": 1
+  },
+  {
+    "name": "Adriano Panatta",
+    "date": "1982-04-05",
+    "event": "Monte-Carlo",
+    "type": "Grand Prix",
+    "surface": "Clay",
+    "round": "R16",
+    "score": "6-2 3-6 6-4",
+    "won": 1
+  }
+]

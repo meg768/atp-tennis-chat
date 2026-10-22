@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1029542461,
+    "start": "2026-10-20T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Sho Shimabukuro",
+      "odds": 5.4,
+      "id": "SY67"
+    },
+    "playerB": {
+      "name": "Roman Safiullin",
+      "odds": 1.15,
+      "id": "SX50"
+    }
+  },
+  {
+    "id": 1029534199,
+    "start": "2026-10-20T06:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Terence Atmane",
+      "odds": 1.96,
+      "id": "A0GC"
+    },
+    "playerB": {
+      "name": "Rinky Hijikata",
+      "odds": 1.84,
+      "id": "H0BH"
+    }
+  },
+  {
+    "id": 1029534197,
+    "start": "2026-10-20T07:40:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Stefanos Tsitsipas",
+      "odds": 1.23,
+      "id": "TE51"
+    },
+    "playerB": {
+      "name": "Aleksandar Kovacevic",
+      "odds": 4.2,
+      "id": "K0AZ"
+    }
+  },
+  {
+    "id": 1029522296,
+    "start": "2026-10-20T09:30:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Tallon Griekspoor",
+      "odds": 1.23,
+      "id": "GJ37"
+    },
+    "playerB": {
+      "name": "Max Schoenhaus",
+      "odds": 4.1,
+      "id": "S0VU"
+    }
+  },
+  {
+    "id": 1029522295,
+    "start": "2026-10-20T09:30:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Mariano Navone",
+      "odds": 1.58,
+      "id": "N0BS"
+    },
+    "playerB": {
+      "name": "Juan Manuel Cerundolo",
+      "odds": 2.38,
+      "id": "C0C8"
+    }
+  },
+  {
+    "id": 1029551317,
+    "start": "2026-10-20T10:40:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Botic van de Zandschulp",
+      "odds": 1.61,
+      "id": "V812"
+    },
+    "playerB": {
+      "name": "Clement Chidekh",
+      "odds": 2.3,
+      "id": "C0BH"
+    }
+  },
+  {
+    "id": 1029522294,
+    "start": "2026-10-20T10:40:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Jan-Lennard Struff",
+      "odds": 1.6,
+      "id": "SL28"
+    },
+    "playerB": {
+      "name": "Marcos Giron",
+      "odds": 2.33,
+      "id": "GC88"
+    }
+  },
+  {
+    "id": 1029533759,
+    "start": "2026-10-20T12:00:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Ugo Humbert",
+      "odds": 1.33,
+      "id": "HH26"
+    },
+    "playerB": {
+      "name": "Corentin Moutet",
+      "odds": 3.3,
+      "id": "MW02"
+    }
+  },
+  {
+    "id": 1029533758,
+    "start": "2026-10-20T12:20:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Daniel Altmaier",
+      "odds": 2.7,
+      "id": "AE14"
+    },
+    "playerB": {
+      "name": "Titouan Droguet",
+      "odds": 1.47,
+      "id": "D0DW"
+    }
+  },
+  {
+    "id": 1029533762,
+    "start": "2026-10-20T13:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Benjamin Bonzi",
+      "odds": 2.1,
+      "id": "BM95"
+    },
+    "playerB": {
+      "name": "Cameron Norrie",
+      "odds": 1.74,
+      "id": "N771"
+    }
+  },
+  {
+    "id": 1029523892,
+    "start": "2026-10-20T14:00:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Jacob Fearnley",
+      "odds": 1.58,
+      "id": "F0BY"
+    },
+    "playerB": {
+      "name": "Hugo Gaston",
+      "odds": 2.35,
+      "id": "G09O"
+    }
+  },
+  {
+    "id": 1029542460,
+    "start": "2026-10-20T14:30:00Z",
+    "tournament": "Almaty",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Rei Sakamoto",
+      "odds": 2.95,
+      "id": "S0UV"
+    },
+    "playerB": {
+      "name": "Karen Khachanov",
+      "odds": 1.41,
+      "id": "KE29"
+    }
+  },
+  {
+    "id": 1029522297,
+    "start": "2026-10-20T16:00:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Toby Samuel",
+      "odds": 2.9,
+      "id": "S0TM"
+    },
+    "playerB": {
+      "name": "Zizou Bergs",
+      "odds": 1.41,
+      "id": "BU13"
+    }
+  },
+  {
+    "id": 1029551311,
+    "start": "2026-10-20T17:10:00Z",
+    "tournament": "Bryssel",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Nishesh Basavareddy",
+      "odds": 1.58,
+      "id": "B0NN"
+    },
+    "playerB": {
+      "name": "Raphael Collignon",
+      "odds": 2.35,
+      "id": "C0JP"
+    }
+  },
+  {
+    "id": 1029533757,
+    "start": "2026-10-20T18:10:00Z",
+    "tournament": "Lyon",
+    "state": "upcoming",
+    "score": null,
+    "serve": null,
+    "playerA": {
+      "name": "Hamad Medjedovic",
+      "odds": 3.1,
+      "id": "M0JF"
+    },
+    "playerB": {
+      "name": "Brandon Nakashima",
+      "odds": 1.37,
+      "id": "N0AE"
+    }
+  }
+]

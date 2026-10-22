@@ -1,4 +1,7 @@
-import urllib.request,json,pathlib
+import json,pathlib,sys
+
+sys.path.insert(0, str(pathlib.Path.home() / '.agents/skills/atp-tennis/scripts'))
+from database import execute
 root=pathlib.Path(__file__).parent
 image={'Djokovic':(269,122),'Federer':(224,123),'Nadal':(186,105),'Lendl':(166,92),'McEnroe':(128,94),'Connors':(127,109),'Sampras':(124,71),'Becker':(121,65),'Borg':(113,46),'Agassi':(109,90),'Murray':(105,96),'Edberg':(98,114),'Draper':(69,37),'Hewitt':(65,73),'Wilander':(62,67),'Zverev':(60,88),'Alcaraz':(56,26),'Courier':(53,73),'Medvedev':(52,55),'Safin':(49,50),'Nastase':(48,69),'Kafelnikov':(46,67),'Moya':(44,60),'Ferrero':(41,61),'Kuerten':(38,36),'Roddick':(37,73),'Muster':(37,51),'Rafter':(35,49),'Rios':(22,39),'Newcombe':(21,27)}
 sql="""SELECT p.id,p.name,p.highest_rank,e.type,m.status,
@@ -9,8 +12,7 @@ JOIN events e ON e.id=m.event
 WHERE p.highest_rank=1 OR p.name IN ('Jack Draper','Alexander Zverev')
 GROUP BY p.id,p.name,p.highest_rank,e.type,m.status ORDER BY p.name,e.type,m.status"""
 (root/'query.sql').write_text(sql)
-req=urllib.request.Request('https://tennis.egelberg.se/api/query',data=json.dumps({'sql':sql}).encode(),headers={'Content-Type':'application/json'})
-rows=json.load(urllib.request.urlopen(req));(root/'raw.json').write_text(json.dumps(rows,indent=2))
+rows=execute(sql)[0]['rows'];(root/'raw.json').write_text(json.dumps(rows,default=str,indent=2))
 players={}
 for r in rows:
  p=players.setdefault(r['name'],{'highest':r['highest_rank'],'all':[0,0],'played':[0,0],'tour':[0,0],'completed':[0,0]})
